@@ -1,0 +1,21 @@
+{
+   "api_console_project_id": "107424389954",
+   "app": {
+      "launch": {
+         "container": "tab",
+         "web_url": "http://todo.kwebpia.net/"
+      },
+      "urls": [ "http://todo.kwebpia.net/" ]
+   },
+   "container": "GOOGLE_DRIVE",
+   "default_locale": "en",
+   "description": "__MSG_ext_description__",
+   "icons": {
+      "128": "icon128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAj4xbsj3fYduJJZ8h/qasIRT0ULBXPfblLaPAUK22IotM6EE7peN+7qDSMeUBEtzDL+GHemcxV3166KXMloTN+XVSf5zNcublYQb+cB66gtI/6HqQGZj6RU3nTHUfgNVzU/lo5fxRnpTZJ0Zkh7KqeTRm8vJL8/q4M13xPkoBd2AklEttDARkd8rR9Bla8wdMAmIZE3ZYt/8Z/R8JZ5TwRS14VAGEv0uTyBnVL8CLxuyMOSQdVLq4iPNPo2piWFV/ScNEPhthkCapm5xjxITD+8WM8ojm5m9uddcnXjztfwho8H2tISdYUTbtaCfrl1lh1Ovq+IxrwjCqF4mOrAc+yQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_ext_name__",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0.2.7"
+}

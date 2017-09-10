@@ -1,0 +1,105 @@
+<html><head><link rel="SHORTCUT ICON" type="image/ico" href="http://cartercole.com/chrome/seobar/favicon.ico"> 	<title>SEO Site Tools - Options</title><script src="http://www.google.com/jsapi?autoload=%7B%22modules%22%3A%5B%7B%22name%22%3A%22prototype%22%2C%22version%22%3A%221%22%7D%2C%7B%22name%22%3A%22scriptaculous%22%2C%22version%22%3A%221%22%7D%5D%7D"></script>
+	<script src="prototip.js" type="text/javascript"></script>	<link rel="STYLESHEET" type="text/css" href="pstyle.css">
+<style>
+body {
+overflow-y:auto;
+}
+
+div#test-accordion {
+margin:10px;
+}
+
+div.accordion-toggle {
+font-size:20px;
+}
+
+#hilibox {
+float:right;
+width:390px;
+margin:4px;
+}
+h2 {
+margin:4px;
+}
+</style><script>
+var cValS=["#FFB59E","#B8FF9E","#D1F4FF","#DCD1FF","#FFFFAD"],dserph;localStorage.theme!=1&&document.write("<link rel='STYLESHEET' type='text/css' href='ostyle.css'>");function saveVal(a){localStorage[a.name]=a.value}function loadVal(a){$(a+localStorage[a]).checked=true}function loadValO(a){var b=localStorage[a];$(a).value=b}
+function cOlrCngg(a){$("colr").setStyle({backgroundColor:cValS[a.value]});if($("hilid").selectedIndex!=-1){$("hilid").options[$("hilid").selectedIndex].setStyle({backgroundColor:cValS[a.value]});$($("hilid").options[$("hilid").selectedIndex]).rel=a.value;savSDH()}}function selCng(){$("colr").selectedIndex=$($("hilid").options[$("hilid").selectedIndex]).rel;$("colr").setStyle({backgroundColor:cValS[$($("hilid").options[$("hilid").selectedIndex]).rel]})}
+function savSDH(){var a='{"domains":[],"colr":[]}'.evalJSON(true);$$("#hilid option").each(function(c){a.domains.push(c.value);a.colr.push(parseInt(c.rel))});var b=Object.toJSON(a);localStorage.serpdh=b};
+</script></head>
+
+<body>
+<h1 style="margin:13px;">SEO Site Tools <i style="font-size:16px;" id="ver"></i><img src="help.png" width="13" height="13" style="float:right;cursor:pointer;" alt="" onclick="window.open('http://blog.cartercole.com/2010/02/seo-site-tools-chrome-seo-extension.html')" id="exthelp" class="help"></h1>
+<div id="test-accordion"><div class="accordion-toggle accordion-toggle-active" style="cursor:default;">Options</div><br>
+
+<div id="hilibox">
+<fieldset style="border-radius:8px;"><legend><h3>SERP Domain Highlighting</h3></legend>
+<select name="hilid" id="hilid" size="10" style="width:150px;float:right;border-radius:6px;background-Color:#9F9C99;" onChange="selCng(this)">
+</select><fieldset style="border-radius:8px;width:165px;float:right;margin-right:14px;text-align:right;"><legend>Domain</legend>
+<input type="text" name="domain" id="domain" style="background-Color:#9F9C99;border-radius:6px;" autocomplete="off"><input type="submit" onclick="$($('hilid').options[$('hilid').selectedIndex]).remove();savSDH();" value="<-- Remove"><input onclick="$('hilid').insert('<option value=\''+$('domain').value+'\'>'+$('domain').value+'</option>');cOlrCngg($('colr'));$('domain').value='';return false" type="submit" value="Add -->">
+</fieldset><fieldset style="border-radius:8px;width:65px;float:right;margin-right:14px;"><legend>Color</legend>
+<select name="colr" id="colr" style="border-radius:6px;" onChange="cOlrCngg(this)">
+<option style="background-Color:#FFB59E;" value="0">red</option>
+<option style="background-Color:#B8FF9E;" value="1">green</option>
+<option style="background-Color:#D1F4FF;" value="2">blue</option>
+<option style="background-Color:#DCD1FF;" value="3">purple</option>
+<option style="background-Color:#FFFFAD;" value="4">yellow</option>
+</select>
+</fieldset><br><br><br><br><br><br><br><input type="checkbox" name="dhili" id="dhili" value="" onChange="if($('dhili').checked==true){localStorage.serpdhE = 1;}else{localStorage.serpdhE = 0;}"><label onclick="$('dhili').checked=$('dhili').checked==false;if($('dhili').checked==true){localStorage.serpdhE = 1;}else{localStorage.serpdhE = 0;}"> Enable SERP<br> Domain Highlighting</label>
+</fieldset>
+<h3><a href="http://j.mp/SiteToolsPrivacy">Privacy Policy</a></h3>
+</div>
+<!--
+Choose rank metric:<br><input type="radio" id="dispt0" name="dispt" value="0" onClick="saveVal(this);">PageRank&trade; or <input onClick="saveVal(this);" type="radio" id="dispt1" name="dispt" value="1">MozRank or <input onClick="saveVal(this);" type="radio" id="dispt2" name="dispt" value="2">Moz Authority<br>
+<br> -->
+<h3>PageRank&trade; in SERPs?</h3>
+Google?  <input type="radio" name="egserp" id="egserp1" value="1" onClick="saveVal(this);">Yes <input onClick="saveVal(this);" id="egserp0" type="radio" name="egserp" value="0">No<br>
+<br>
+Bing?  <input type="radio" name="ebserp" id="ebserp1" value="1" onClick="saveVal(this);">Yes <input onClick="saveVal(this);" id="ebserp0" type="radio" name="ebserp" value="0">No<br>
+<br>
+Yahoo?  <input type="radio" name="eyserp" id="eyserp1" value="1" onClick="saveVal(this);">Yes <input onClick="saveVal(this);" id="eyserp0" type="radio" name="eyserp" value="0">No<br>
+<br>
+<h3>SERP Enhancements?</h3>
+Number SERPs?  <input type="radio" name="numserp" id="numserp1" value="1" onClick="saveVal(this);">Yes <input onClick="saveVal(this);" id="numserp0" type="radio" name="numserp" value="0">No<br>
+<br>
+
+Show Google Personal Search status?  <input type="radio" name="sgpss" id="sgpss1" value="1" onClick="$('dgps').show();saveVal(this);">Yes <input onClick="$('dgps').hide();saveVal(this);" id="sgpss0" type="radio" name="sgpss" value="0">No<br>
+<br>
+<div style="padding-left:30px;display:none;" id="dgps">
+Disable Google Personal Search?  <input type="radio" name="dgps" id="dgps1" value="1" onClick="saveVal(this);">Yes <input onClick="saveVal(this);" id="dgps0" type="radio" name="dgps" value="0">No<br>(<i>uses the <code>pws=0</code> paramenter</i>)
+</div><br>
+Enhance page detail in <a href="http://www.google.com/analytics/">Google Analytics</a>?<br>
+<input type="radio" name="ega" id="ega1" value="1" onClick="saveVal(this);">Yes <input onClick="saveVal(this);" id="ega0" type="radio" name="ega" value="0">No<br>
+<br>
+Enhance links and keyword tools in <a href="https://www.google.com/webmasters/tools/">Google Webmaster Tools</a>?<br>
+<input type="radio" name="egwmt" onClick="saveVal(this);" value="1" id="egwmt1">Yes <input onClick="saveVal(this);" id="egwmt0" type="radio" name="egwmt" value="0">No<br>
+<br>
+Enhance links in Yahoo Site Explorer?<br>
+<input type="radio" name="eyse" value="1" onClick="saveVal(this);" id="eyse1">Yes <input onClick="saveVal(this);" id="eyse0" type="radio" name="eyse" value="0">No<br>
+<br>
+Show popup on window on update?<br>
+<input type="radio" name="pup" value="1" onClick="saveVal(this);" id="pup1">Yes <input onClick="saveVal(this);" id="pup0" type="radio" name="pup" value="0">No<br>
+<br>
+Choose your theme...<br>
+<input type="radio" name="theme" value="1" onClick="saveVal(this);window.location.reload();" id="theme1">Dark <input onClick="saveVal(this);window.location.reload();" id="theme0" type="radio" name="theme" value="0">Light<br>
+<br>
+Iterative Load Metrics... <i>only loads the metrics after you have selected the section</i><br>
+<input type="radio" name="iload" value="1" onClick="saveVal(this);" id="iload1">Yes <input onClick="saveVal(this);" id="iload0" type="radio" name="iload" value="0">No<br>
+<br>
+Default Section:<br>
+<select name="deft" id="deft" style="background-Color:#9F9C99;border-radius:6px;" onChange="saveVal(this);">
+<option value="1">External Page Data</option>
+<option value="2">Page Elements</option>
+<option value="3">Social Media</option>
+<option value="4">Page Terms / Tools</option>
+<option value="5">Server / Domain Info</option>
+<option value="6">Suggestions</option>
+</select>
+<script>
+
+cOlrCngg($("colr"));dserph=localStorage.serpdh.evalJSON(true);for(i=0;i<dserph.domains.length;i++){$("hilid").insert("<option value='"+dserph.domains[i]+"'>"+dserph.domains[i]+"</option>");$("colr").selectedIndex=dserph.colr[i];$("colr").setStyle({backgroundColor:cValS[dserph.colr[i]]});cOlrCngg($("colr"))}new Tip("exthelp","Visit SEO Site Tools<br>support page",{className:"pinktip"});loadVal("dispt");loadVal("ega");loadVal("egwmt");loadVal("eyse");loadVal("pup");loadVal("egserp");loadVal("ebserp");
+loadVal("eyserp");loadVal("theme");loadVal("numserp");loadVal("sgpss");$("sgpss1").checked&&$("dgps").show();loadVal("dgps");loadValO("deft");if(localStorage.serpdhE==1)$("dhili").checked=true;loadVal("iload");$("ver").update(chrome.extension.getVersion());//loadVal("serpdemo");
+</script>
+
+</div>
+</body>
+</html>

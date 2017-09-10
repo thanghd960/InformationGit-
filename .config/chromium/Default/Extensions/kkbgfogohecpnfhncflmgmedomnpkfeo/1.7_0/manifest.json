@@ -1,0 +1,20 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://todolistme.net/"
+      },
+      "urls": [ "http://todolistme.net/" ]
+   },
+   "default_name": "ToDoListMe",
+   "default_title": "ToDo List Me - Powerfully Simple",
+   "description": "Powerfully Simple Todo Lists.",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDAZT50YVcYJyW+VLvMnRIUX0jAJSqA7Rv9hmKx23iOXvFJJZ/xCzG3aYfLvOAXMtFmdVWJF5nXZFhbLgMhUN9gnFKK4XSn816Zj+cZpkkcdiQTNpmYTIsytkPmqft1VC4jAYCjidH+LxDuCj/rHFwnV0WIzl5u+LJlVdjC13wAEQIDAQAB",
+   "manifest_version": 2,
+   "name": "ToDo List Me - Powerfully Simple",
+   "permissions": [ "unlimitedStorage", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.7"
+}

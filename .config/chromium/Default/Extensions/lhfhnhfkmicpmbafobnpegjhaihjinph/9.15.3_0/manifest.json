@@ -1,0 +1,22 @@
+{
+   "api_console_project_id": "1031819201507",
+   "app": {
+      "launch": {
+         "web_url": "https://simplebooklet.com/login.php"
+      },
+      "urls": [ "https://simplebooklet.com/" ]
+   },
+   "container": "GOOGLE_DRIVE",
+   "description": "Make flip books you can publish, post, pin, tweet, share, embed, print, email, and view on phones, tablets, and computers.",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDUlIcgyKhksni6frMMbWxAK7qSm5JJ6wZF6KOArXafZk1nrbWUTJYLhezlGGYL/E6JSfk+ybG0qz6HTHmfic8wD3XXm3xsHtfsCpeaQ5Vj4uJEY6VUmV7a540Ar5Hw59sUofaopgBGRP+fLCbTbIqv9Lt0Z0FDPErpKFvzqTrfZwIDAQAB",
+   "manifest_version": 2,
+   "name": "Simplebooklet",
+   "permissions": [ "unlimitedStorage", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "9.15.3"
+}

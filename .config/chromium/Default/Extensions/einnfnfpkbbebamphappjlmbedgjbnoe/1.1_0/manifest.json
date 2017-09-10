@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://login.mailchimp.com/google/"
+      },
+      "urls": [ "*://login.mailchimp.com/", "*://us1.admin.mailchimp.com/", "*://us2.admin.mailchimp.com/", "*://admin.mailchimp.com/" ]
+   },
+   "description": "We make it easy to send email newsletters to your customers, manage your subscriber lists, and track campaign performance.",
+   "icons": {
+      "128": "icon_128.png",
+      "48": "icon_48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDgL3eVSizM81wP8n75ylS8WQ2j8l5zmlhB25a0QWDlCKvnQUuI2vemdXe58NBJgv9h9ZPEmfIAV/CCO6iaK6Uo224X/bppJIhBAlnjMu1QCnNFVxhI+wIZyVBndq5rF1wwNeaY+KAv+t5YiBwBSirNfhysDOGm5qWWXBcsECruAQIDAQAB",
+   "name": "MailChimp",
+   "permissions": [ "notifications" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.1"
+}

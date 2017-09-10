@@ -1,0 +1,29 @@
+{
+   "api_console_project_id": "399581875395",
+   "app": {
+      "launch": {
+         "web_url": "https://legacy.mindmup.com/"
+      },
+      "urls": [ "https://legacy.mindmup.com/" ]
+   },
+   "container": [ "DOMAIN_INSTALLABLE", "GOOGLE_DRIVE" ],
+   "description": "This is a legacy version of mindmup. Upgrade to latest version at https://www.mindmup.com",
+   "gdrive_mime_types": {
+      "http://drive.google.com/intents/opendrivedoc": [ {
+         "disposition": "window",
+         "href": "https://legacy.mindmup.com/",
+         "title": "Open",
+         "type": [ "application/vnd.mindmup.collab", "application/vnd.google.drive.ext-type.mup" ]
+      } ]
+   },
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQClPVb9kac9BiE8j5GAyrVxdRyYic+i9+seNbMOh0tL9K+ihiKUis4uhi0LRuioF+SRV7Q5MLTRcPs+Dnwu7TTD8Kkt0MnC9aNYHCvPs7ODU2Y2iorNxxnY233B5XeB8ZD5ArL4dqMNNJ5MxkbLzalB2VydQF3nrweAfYxzeqsC7wIDAQAB",
+   "manifest_version": 2,
+   "name": "Legacy MindMup (discontinued)",
+   "permissions": [ "unlimitedStorage" ],
+   "short_name": "Legacy MindMup",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.0.20"
+}

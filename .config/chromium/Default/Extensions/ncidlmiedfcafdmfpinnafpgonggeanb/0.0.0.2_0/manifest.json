@@ -1,0 +1,16 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://crm.dejaoffice.com/"
+      }
+   },
+   "description": "Turn Chrome into a powerful and free CRM app suite for contacts, calendar, tasks, notes, journal, and expense management.",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCh8toXExyTfkNn03GsWHXKegEGgVaQyI3TXbwTv/bCYBD8X1OoMDHYqIq6qPiB4e7Db3i96LSDvivgKtN3po2NJzxLhMyJnIQ2jmNuerD2Bbo3zGSebUwNUB3sUIi+HclcOXkmMjgqQjTWV5GxbJT1bhBNOOE8rgw/02U5L/GOdQIDAQAB",
+   "manifest_version": 2,
+   "name": "DejaOffice CRM Live",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.0.2"
+}

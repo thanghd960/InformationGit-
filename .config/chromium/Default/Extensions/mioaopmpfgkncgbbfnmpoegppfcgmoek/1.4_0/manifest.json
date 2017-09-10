@@ -1,0 +1,17 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.cashcontrolapp.com/"
+      },
+      "urls": [ "http://www.cashcontrolapp.com/" ]
+   },
+   "description": "Use CashControl to take control of your finances and save more.",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDNiGLV6EOJjsOlWnrhWR5ilhr150aEO3dzxSG9MVKxpKwDXn8ov1K/HCKfzY8olY93tUB4ljEkmEKT2sspwXnmkh6QUUvaWA4WAtuLJKGtA7pPPT3Q3gkI2SYExx66zNU/qMMpVCNNm77/OoLGVNUwEycrc50V8l2RjnMbEMn4NQIDAQAB",
+   "manifest_version": 2,
+   "name": "CashControl",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.4"
+}

@@ -1,0 +1,15 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.nimble.com/?utm_source=ChromeStore&utm_medium=marketplace&utm_campaign=20120408"
+      }
+   },
+   "description": "With Nimble's social CRM, easily manage all your contacts, communications, activities and sales in one single place.",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCrgJ2ADqik4gpS3qpPEKyyhk6pdPClvsmIDzwC39DJgkBAuCptiHuyfu26rqbMe9P5Our8ecqdAuUs2MTnWXOpbv567uw4Ah7gzrg3Az6NPtPOncpqeQkNJ39CB4knF6VMHesTK1XPIR7PlyRULap2Eh9DVIJ/aV8yVR/9sOcIIQIDAQAB",
+   "name": "Nimble - social CRM",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "2.1.140"
+}

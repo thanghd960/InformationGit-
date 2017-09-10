@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.clearcheckbook.com/"
+      },
+      "urls": [ "https://www.clearcheckbook.com/" ]
+   },
+   "icons": {
+      "128": "128.png",
+      "16": "16.png",
+      "24": "24.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQD9NjtKIP3pfOE4wUDhFDFSmsJgSb4EfzPnFTeboNekh/znKFlcOpSPU8UwO/jfUIBUm8LcnO5nbheLQ/i/7p2KuMi9ctRptcZDkRgzN+JcxpMaYX98owUtAmQck+nx5M2Q6323XoEczaT0jm9VllF8V9waZ9VdyB+rsaVjSnpaHwIDAQAB",
+   "manifest_version": 2,
+   "name": "ClearCheckbook Money Management",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1"
+}

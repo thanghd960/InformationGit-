@@ -1,0 +1,3692 @@
+{
+   "checksum": "489feea5353a117a1d6c7b7e42022daf",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13076735799331000",
+            "id": "6",
+            "meta_info": {
+               "stars.id": "ssc_84dea01a22333cb6",
+               "stars.isSynced": "true"
+            },
+            "name": "Bookmarks",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "chrome://bookmarks/"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13054187617379500",
+                  "id": "391",
+                  "meta_info": {
+                     "stars.id": "ssc_0030d3142e97de21",
+                     "stars.pageData": "Ig4tWVpMV2duSHBPSWYtTQ==",
+                     "stars.type": "2",
+                     "stars.version": "sync.server.Chrome39"
+                  },
+                  "name": "Compilers - C++ Tutorials",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.cplusplus.com/doc/tutorial/introduction/"
+               }, {
+                  "date_added": "13055229017175500",
+                  "id": "392",
+                  "meta_info": {
+                     "stars.flags": "5",
+                     "stars.id": "ssc_6d29dc87dd3815e2",
+                     "stars.pageData": "Ig5IazhKN3c0UUo0cy1PTQ==",
+                     "stars.type": "2"
+                  },
+                  "name": "uet.vnu.edu.vn/~chauttm/e-books/C++_2011_April_draft.pdf",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://uet.vnu.edu.vn/~chauttm/e-books/C++_2011_April_draft.pdf"
+               }, {
+                  "date_added": "13086095554399217",
+                  "id": "393",
+                  "meta_info": {
+                     "stars.id": "ssc_2c54c758de6f246e",
+                     "stars.version": "sync.server.Chrome45"
+                  },
+                  "name": "Tập hợp tài liệu lập trình windows với Visual Studio đã qua chọn lọc kĩ lưỡng",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://diendan.congdongcviet.com/threads/t33543::tap-hop-tai-lieu-lap-trinh-windows-visual-studio-da-qua-chon-loc-ki-luong.cpp"
+               }, {
+                  "date_added": "13086978091880515",
+                  "id": "394",
+                  "meta_info": {
+                     "stars.id": "ssc_a5c3d51bb44ed7cf",
+                     "stars.version": "sync.server.Chrome45"
+                  },
+                  "name": "C code - 128 lines - codepad",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://codepad.org/9MDKR6Nk"
+               }, {
+                  "date_added": "13087040173987384",
+                  "id": "395",
+                  "meta_info": {
+                     "stars.flags": "5",
+                     "stars.id": "ssc_3f0ce25545a3f383",
+                     "stars.version": "sync.server.Chrome45"
+                  },
+                  "name": "Làm game Snake với C++ ➜ Cộng đồng phát triển game Việt",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://vietgamedev.net/blog/254/l%C3%A0m-game-snake-v%E1%BB%9Bi-c/"
+               }, {
+                  "date_added": "13087040424872719",
+                  "id": "396",
+                  "name": "guide programming game snake in c opp - YouTube",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.youtube.com/results?search_query=guide+programming+game+snake+in+c+opp"
+               }, {
+                  "date_added": "13087040434233500",
+                  "id": "397",
+                  "meta_info": {
+                     "stars.flags": "5",
+                     "stars.id": "ssc_dd87e59dab180177",
+                     "stars.version": "sync.server.Chrome45"
+                  },
+                  "name": "C++ Tutorial 11 - Game Tutorial! - YouTube",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=FmNW8mCiZ9w"
+               }, {
+                  "date_added": "13087040439836977",
+                  "id": "398",
+                  "meta_info": {
+                     "stars.flags": "5",
+                     "stars.id": "ssc_3627b6c755bdaf00",
+                     "stars.version": "sync.server.Chrome45"
+                  },
+                  "name": "Mã nguồn C++ game “CON SNAKE” – rắn săn mồi trên chế độ console - Ngôn ngữ lập trình C/C++ - diễn đàn Thấy Hông?",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://forum.phongdaotao.com/yaf_postst1505_Ma-nguon-C-game--CON-SNAKE----ran-san-moi-tren-che-do-console.aspx"
+               }, {
+                  "date_added": "13087066584210877",
+                  "id": "399",
+                  "meta_info": {
+                     "stars.flags": "5",
+                     "stars.id": "ssc_8f465f5c67429a59",
+                     "stars.version": "sync.server.Chrome45"
+                  },
+                  "name": "Phần 2 - Demo game Snake [Lập trình game cơ bản] - YouTube",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=ScYWTDtJKgo&index=2&list=PLKzIvqnr5FHrJJ9sczVc_axLVGCY-SQ8a"
+               }, {
+                  "date_added": "13057130519316000",
+                  "id": "400",
+                  "meta_info": {
+                     "stars.id": "ssc_d884c93230b4136e",
+                     "stars.isSynced": "true"
+                  },
+                  "name": "các bài tập về mảng 1 chiều c++ - Google Search",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.google.com.vn/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=c%C3%A1c+b%C3%A0i+t%E1%BA%ADp+v%E1%BB%81+m%E1%BA%A3ng+1+chi%E1%BB%81u+c%2B%2B"
+               }, {
+                  "date_added": "13091392193259375",
+                  "id": "401",
+                  "meta_info": {
+                     "stars.id": "ssc_b09ce582ba9bd5c4",
+                     "stars.version": "sync.server.Chrome46"
+                  },
+                  "name": "Bài tập Lập trình hướng đối tượng C++ cơ bản - TaiLieu.VN",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://tailieu.vn/doc/bai-tap-lap-trinh-huong-doi-tuong-c-co-ban-554225.html"
+               }, {
+                  "date_added": "13093550501025073",
+                  "id": "402",
+                  "name": "Fractions in C++",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://martin-thoma.com/fractions-in-cpp/"
+               }, {
+                  "date_added": "13093863922036549",
+                  "id": "403",
+                  "name": "lấy thuộc tính private của class ?? trong C++",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.ddth.com/showthread.php/347827-l%E1%BA%A5y-thu%E1%BB%99c-t%C3%ADnh-private-c%E1%BB%A7a-class-trong-C"
+               }, {
+                  "date_added": "13095953450513892",
+                  "id": "404",
+                  "name": "PhanMenHeThong",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://msdn.microsoft.com/en-us/library/ee658098.aspx"
+               }, {
+                  "date_added": "13096658404994673",
+                  "id": "405",
+                  "name": "Bài 14: Danh sách liên kết kép",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.nguyenvanquan7826.com/2014/12/21/lap-trinh-c-bai-14-danh-sach-lien-ket-kep/"
+               } ],
+               "date_added": "13148403262341218",
+               "date_modified": "13148403262341218",
+               "id": "158",
+               "meta_info": {
+                  "stars.id": "ssf_b64f46f70ad622b2",
+                  "stars.version": "sync.server.Chrome39"
+               },
+               "name": "C++",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13054572543222875",
+                  "id": "375",
+                  "meta_info": {
+                     "stars.id": "ssc_9ba456281d0614b6",
+                     "stars.imageData": "Cg44dzJWNGlKUHdwbUdPTRJlCl1odHRwOi8vdWNhbi52bi5zMy13ZWJzaXRlLWFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vdXBsb2FkL3VzZXJmaWxlcy9ibG9nLzMwMDYyMDE0L2FiYy5qcGcQyAEYlgEaYwpbaHR0cDovL3QzLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NRMkhDT1dRcXdHWm1qQ0dqWUhOWmRHOVY1MkRkcDNtTE9xb0FJMW9vUTdzcVJQdFhPMhDIARiWASIfCAEQyAEYlgEg+ClCBhIEgAAAAEoKaW1hZ2UvanBlZw==",
+                     "stars.pageData": "Ig4tbG84UkZqX25jc0RLTQ==",
+                     "stars.type": "2",
+                     "stars.version": "sync.server.Chrome39"
+                  },
+                  "name": "Ngữ pháp tiếng Anh",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://tienganh1.viettelstudy.vn/viettel/public/thu-vien/ngu-phap-tieng-anh"
+               }, {
+                  "date_added": "13055007373563125",
+                  "id": "376",
+                  "meta_info": {
+                     "stars.id": "ssc_0eae1e3c6951a75c",
+                     "stars.imageData": "Cg4xblo4SzhZYVp3SUxSTRKMAQqDAWh0dHA6Ly91Y2FuLnZuLnMzLXdlYnNpdGUtYXAtc291dGhlYXN0LTEuYW1hem9uYXdzLmNvbS91cGxvYWQvdXNlcmZpbGVzL2Jsb2cvMTYwNTIwMTMvMDUxMjMzMTYwNTIwMTNfQS1TdGF0ZS1iYW5xdWV0LWluLVdpbmRzb3IuanBnEIMCGMIBGmMKW2h0dHA6Ly90Mi5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjUklwY2pTWTlZTnhvUHdVQTluX3hCTm4wMHNua05fTkFTRTZ6Q1JJRG15SEdveGNpbWUQgwIYwgEiHwgBEIMCGMIBIJRmQgYSBAAB/31KCmltYWdlL2pwZWc=",
+                     "stars.pageData": "Ig44b0Y0cHcxNUpiS2k3TQ==",
+                     "stars.type": "2",
+                     "stars.version": "sync.server.Chrome39"
+                  },
+                  "name": "Luyện đọc tiếng Anh",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://tienganh1.viettelstudy.vn/viettel/public/thu-vien/luyen-doc-tieng-anh"
+               }, {
+                  "date_added": "13055058058145750",
+                  "id": "377",
+                  "meta_info": {
+                     "last_visited_desktop": "13149128393299678",
+                     "stars.id": "ssc_a8a5af0391f08eaa",
+                     "stars.imageData": "Cg55T2JVaXJ6ZE0yQ1QwTRJACjlodHRwOi8vZGF0YS50aWVuZ2FuaDEyMy5jb20vaW1hZ2VzL3YyL2hvbWUvYmdfc2xpZGVfMy5qcGcQuAMYchpiCltodHRwOi8vdDAuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1FrUzNQNXA0dEdnamduSlFCbDJMNWJuU1dEdERqbUptUWVKT1lkRC1tTHFDYmE4VV9zELgDGHIiEggBELgDGHIgoyxCBhIEgAAAAA==",
+                     "stars.isSynced": "true",
+                     "stars.pageData": "Ig5LVnhJaFBtSlVrSEtFTQ==",
+                     "stars.type": "2"
+                  },
+                  "name": "Học tiếng Anh - Học tiếng Anh online - Học tiếng Anh trên mạng - Học tiếng Anh trực tuyến",
+                  "sync_transaction_version": "3",
+                  "type": "url",
+                  "url": "http://www.tienganh123.com/"
+               }, {
+                  "date_added": "13055008024858875",
+                  "id": "378",
+                  "meta_info": {
+                     "stars.id": "ssc_2078bf8481a6d16a",
+                     "stars.imageData": "Cg41Z0lzTnU0UldTRjlCTRJmCl5odHRwOi8vdWNhbi52bi5zMy13ZWJzaXRlLWFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb20vdXBsb2FkL3VzZXJmaWxlcy9ibG9nLzE0MDIyMDE0L3ZhbGUuanBnEIMCGMIBGmMKW2h0dHA6Ly90Mi5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjUWEwMkZDSFFjWHd4NTR1Z2hpWVUtNWJOR3pmNEdPaFNSNTBmYVdBSW1hVWxxUnJiaUgQgwIYwgEiEwgBEIMCGMIBILNrQgYSBAABfn0=",
+                     "stars.pageData": "Ig5kZnVEUUc2TXptWldVTQ==",
+                     "stars.type": "2",
+                     "stars.version": "sync.server.Chrome39"
+                  },
+                  "name": "Những bài hát hay tiếng Anh",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://tienganh1.viettelstudy.vn/viettel/public/thu-vien/nhung-bai-hat-hay-tieng-anh"
+               }, {
+                  "date_added": "13089732696419040",
+                  "id": "379",
+                  "meta_info": {
+                     "stars.flags": "5",
+                     "stars.id": "ssc_e071e771c2fa3b9a",
+                     "stars.version": "sync.server.Chrome46"
+                  },
+                  "name": "Vietgle Tra từ - Thư viện tài liệu - Tiếng Anh vỡ lòng",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://tratu.coviet.vn/hoc-tieng-anh/thu-vien-tai-lieu/Tieng-Anh-vo-long-38/38/tat-ca/trang-1.html"
+               }, {
+                  "date_added": "13089818498439645",
+                  "id": "380",
+                  "meta_info": {
+                     "stars.flags": "5",
+                     "stars.id": "ssc_7a841d955c904fd7",
+                     "stars.version": "sync.server.Chrome46"
+                  },
+                  "name": "(1) 4 QUY TẮC HỌC NÓI TIẾNG ANH BẠN CẦN BIẾT - CHÌA... - Đọc báo thay bạn",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.facebook.com/permalink.php?story_fbid=547870692045223&id=400202166812077&ft[tn]=K&ft[qid]=6207707952485158767&ft[mf_story_key]=-2904442872191340334&ft[ei]=AQJzx_f0H4na3btoXbKzQGTftdCeXijT-ioW7o6s_oy6Q3-O9p-zyhnWTN-i7PziK_DQDW6Vg_jBQzB0zmxVoSkQYCCaDMFRrfJ3CAHaxw45bdD9TOkWlThwKRdpJJ3bHr4-dYBIgein0I91l7QoL0_AEyvSsu156EXnstYBCJnasnT4oI8J5uvuMUJQS5zuVXFefio319A_Op0WpYO19-JKsxry8IzPL02OTdG4tohQVMYoeOEOs2yXIwpcX19HDLQe7OS6yceuZAZI4yFQw-bcvNdX-_9pomOFI3Qh_yV8nicRI2k2Bs5IbJAcWaUdH1edprnd-D70MnkkVSLrLpERPg-66GtysFiScPnuqUQBzfnYWyWuVSn6-D3AU7wDuXvLr9nceSW43lLkIvYbppYpMCEaq5Hi1yt5CisMMMqxolLg8bjFu9FGA0sDUuOmj05ovNyF2OYaGqgaZK_92NVwnOdv7asbRFQ6_bQwQg1tlk1Sp6MDskb1hdfeT9gZzmLaMwJlEd4a7CT3Ei1wHtBrywE5mpeiKC7eA17_EXxpS15A4008qzHn3cBdg-osYbhdmLZBYYf98rnk-pLkTwmrioM08nzxP2sfg9DDWg90oygdAkXbkM-8uOGD8y3qqvlohbxjjtdrTnuhP5AUSAx2xCRBygpCPlbL37eOzTbM4oBDRlh5PYA18vk3eJMZZw7Cn9bbkGtkLGQyRZkbXPoXI_9SFzIoOghPpPsep5ais7rUrfZNMmcY5a6gUZDSZZ8xkgq7ukrUfcr5Cl4ivP-3vwrxjq0CQeUjWtke3T1i7r7R80F_mCvcI88vhOmpNleoaH4InG8KBR9GqLutP4LUTTm0zBrqgHkv7o3vmHdqISxXncWAI_1uW7wTrjQFH9-fOzBsR04hD6tJzsRgOIHQ04tUzSrg0Z7MyY0LcseX6g0P1ebYh4txZW1tjqLRrYYe9Scqbh7mkN-JQE8XDryQAfaOWdA7mYXl7rPWpnDq-oZstLVuO4TWR2Tz5EdhC0jvrv17YfU1ZoJ9ks3DejqRSoSMff_96izYN-8ALwqnH_jKwiU7TknoFiY7ljLx7x0bai6d9xBt8RNZSArAqRakgNMFBImjsmKxxHCMYq06kTel5nUzkJfqruoIQYwv6uVRaKuKhBIK9oGkCsjfwFD59ysTt5ltJ3tgH6lattFdjOQnyc-w1hPZonzwt_474whuOaf3JgD5Yb3fEYkP-rDpWdvTVIHWk8-rJbcEIysQghwbtIgSfA44MwBa1RBHY8mvRVsk-LnhGKufAkvIjpQXz0n44xcjyWz1z9IV6Hv8Ny8K8cnT2EMLxCRFGTFJR5smQWz3q92PBaVmpa2_Se93cdWuej9fatDR3kr4kL1MDtMhBOklYWGBWAbetobEjrBN6qoLHfFpVtD2JoYOHteoTd9RTIhQiJ_jmJ06gZAULZg1TcU-PTl0BGgclw_tVi1wGpkIByTNzBizx18cKleFl8m12GIWeviCL_aha19duoOiHXSwAiq9iMuCwzDbaVR8tWaN9cHF0XTdp_pAunXmv4V_lLqQ6lcJdi7vrYO-zlUyfJPoxZ3XZFgbSgN5vaaSi7E23dN9ocgAhP9UKLfTrUzx5Kne0OAqU4Aa8-vo4zrUmBzWBLPr75sFSOTcNRm5lws-wr26G6fkx121HegblgQQ42BnEu3J1FEDL6MsgITcYrRlqsqjhJrpfZoo-4A9mMwel-aUI2w237sqF0ekdYw4KfgJbrPg9ye_qhAhlw_VOav0xET-LsavPuM_kx72Z8szPBGB8z7lLsVrkKLRot7EdCVQtYEGRMQTsBQdQv0Qc0bHeP3n0sV2BNMQl6WtjyH2voCxred0NVZziw-as15DerMTTmYKvYPnp15ra2KbI03ksHYSbHmSelS3rhVS4p60-2ZENwcuk0kb6_QnggFBvp-UB93Q4utvevtVtu33kap54fljXJke-lELjckzZSB2jrUAN0fJaKUPLeDKaFwsDegtOQ1eK9gJRaK_NcXIPYC7vdCm7hYtqOM6GE5T-teNTyNjROrfccW-2_qwIiXrgXbs0aLC9sKCLnpF31UHgLwujwpBPDUEkapMM30OB_GJriyMopOHlbxss3E5tW__yPKx8jeEheUbsXSiPHXujSddzWCTuAHn99k37uyqwwTsgI5e__kk3ImH_GQB5JdRgPBmG2l82SO5u10DsuHmwwdrGtzWgpfzUvtK6R04zMnmY_c-h0TWFilvuTnA0kQxga761Vy5Ariy7ZR1MfSpM8BhIOYom9UgqBmrl2gSjTxUzEKyaBGloah9mF1ADZN365tEUWAiCkXjG3cI-YOHZAxqxGGh9kVUsaAL2iHuFybpFT6QGBwrym_D0cs1C_xf67CMfbnx2lageFEPprVDFEmKLC0OVJiewQJzvJbxD471QQSElZM1d_K-_kTA3kzN6Qi2riefNUlPF6aeg6FDB3--NY6O3jcDxUUyuvQzEGZezsqZtRUUYq-L5McWgrv3VqAOJcpSupkGyMIsNDzLX7WtGpf8Kl4k7j0y0igDXXmDqOPv1-7YQNLR8mKSwqoCTI1H41Npcgy2jsWuDjRiAp_JdOZMlvP0GD4D5WvCbHoa7UO2U5F8a19GPBkxiv3FJgfeBD0Bb_YQd4qyIm66mDDfQKpKL0z4JLyTrfjd9ll-t10nOXK9px4EK3oHuW5cZqKMFbw1eC055KWDiVkyTzY4yg3Gh6RZLQ4YWVWTLmoQtd0wy19bL_tiRLEX30BlA-0jJ2sdZgsFUSAzjJfANq09vkWWaQwcSNhAjibWDZt2aaaJF5YYZIlkAVjngpBR0ttqUy96yVlZx7U-T3lwNAzmHJZv0RMT7q34rm9Ooo1683FG2ds9k9Yk5u0mXTf5VlIf71gmu68G8qxacporHBJpczjTMXJsjUrV11csEdPOF5zzQXVEfpFaSiog5MzVyo0-Z5ggb4LKa9CNyKmiMfrxdsYH_qYG-reEsKAOe3Zfal9R_W0c3G_Fy6pkAlDUF5gyCpcSCIWEcSoya2OGsgGSnpKCUxboXBRgHmpNSAnEXg3SF-nVZAUeMPI3a6UERiSwGCRaVHH7Ubr20kR2pixlBXt4ei0g0KiACD_Q-voJbvUHP-2MjgidR4_sDdjc7MQPr8-KVdcbhrz_DAVO08sdjaC_MxbHNB7ukrGQn1oR6bYQp0Th_RqKc1r0RRbup0xt9pSH_9FtEklt63n6GUEhTbB_DNFN1JTEdvo4PFBBtXqXFwvX-NBuKrJ5Kv1cJspi51N8ai_YGcxo55oY2Pn-j7rNoGY9qeu61meLF_aCSJUbsJiJVe3VYV57e9d4Ew6NdaVHmKd-IkX1WgtR-XIy76YCsPw4qo255cu1HCn1vYRFA9M7FVhLCzByASMyIYvDdkGDevbxEB3vFdPll4iAG-hDoSnZW-g0qoft-GrJWG4oJTB3Mg9RoqL5_XG73C5MrYh27zCN7Dc_Y85s6tZfG1wSOLIaVI9MC32up7EVQFbp_7SUYfLsPiwoOuXPzokvfPHGw-t7Nb6PWZomZK9C4Z283NdYw3NfxqvBpQ9Ac1YHdWmHKy2zOP58u_rmSg28pxZKsRTDjASigEKrfoxYm2RCGTH0TMElVTe-fWbvGwJrL1mKgDg9UJH2gUKBaGYfFq73yd2rEvwamBDr0lzSZTHH36NRQU7O7C1TzpBQ1xDYpYugwJp4_JOygWfJjJ1ANLJeHOhE0-97hZDT8DXYxL-2tw7kWT0VgxniFME4fvFTGDFYTltc81752Hcywnck0JYK9abbJlszdbbLSAkk8YSThPobryBc6ak&ft[eligibleForSeeFirstBumping]=&ft[fbfeed_location]=1&ft[insertion_position]=12&__md__=1"
+               }, {
+                  "date_added": "13090169843019612",
+                  "id": "381",
+                  "meta_info": {
+                     "stars.flags": "5",
+                     "stars.id": "ssc_0bcf34d5818a71b5",
+                     "stars.version": "sync.server.Chrome46"
+                  },
+                  "name": "Học tiếng anh online 247 | Website hoc tieng anh miễn phí 100%",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://hoctienganh247.net/"
+               }, {
+                  "date_added": "13090414041536445",
+                  "id": "382",
+                  "meta_info": {
+                     "last_visited_desktop": "13149411260084450",
+                     "stars.flags": "5",
+                     "stars.id": "ssc_10d2c151b2254a88",
+                     "stars.version": "sync.server.Chrome46"
+                  },
+                  "name": "StudyPhim | Học Tiếng Anh Qua Phim Phụ Đề Song Ngữ Anh - Việt",
+                  "sync_transaction_version": "6",
+                  "type": "url",
+                  "url": "http://www.studyphim.vn/"
+               }, {
+                  "date_added": "13090414053260091",
+                  "id": "383",
+                  "meta_info": {
+                     "last_visited_desktop": "13149352672565027",
+                     "stars.flags": "5",
+                     "stars.id": "ssc_a54296bba042dc81",
+                     "stars.version": "sync.server.Chrome46"
+                  },
+                  "name": "StudyNhac | Học Tiếng Anh Qua Bài Hát Phụ Đề Song Ngữ Anh - Việt",
+                  "sync_transaction_version": "5",
+                  "type": "url",
+                  "url": "http://www.studynhac.vn/"
+               }, {
+                  "date_added": "13090414071521685",
+                  "id": "384",
+                  "meta_info": {
+                     "stars.flags": "5",
+                     "stars.id": "ssc_bf630833b9f0bc5d",
+                     "stars.version": "sync.server.Chrome46"
+                  },
+                  "name": "blogtienganh.vn",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://blogtienganh.vn/"
+               }, {
+                  "date_added": "13090414089448137",
+                  "id": "385",
+                  "meta_info": {
+                     "stars.flags": "5",
+                     "stars.id": "ssc_a9fe07d6e1a7682e",
+                     "stars.version": "sync.server.Chrome46"
+                  },
+                  "name": "blogtienganh.vn/#",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://blogtienganh.vn/#"
+               }, {
+                  "date_added": "13090414125661179",
+                  "id": "386",
+                  "meta_info": {
+                     "stars.flags": "5",
+                     "stars.id": "ssc_8140341e073edf0a",
+                     "stars.version": "sync.server.Chrome46"
+                  },
+                  "name": "Language Immersion Online | Learn a Language with Videos | FluentU",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.fluentu.com/"
+               }, {
+                  "date_added": "13092999926286072",
+                  "id": "387",
+                  "meta_info": {
+                     "last_visited_desktop": "13132941773841858"
+                  },
+                  "name": "Elight Learning English - YouTube",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.youtube.com/channel/UCjsIuhbtDQny5lv4B2b2VOg"
+               }, {
+                  "date_added": "13058007461797523",
+                  "id": "388",
+                  "name": "IELTS Test - Wall Street English",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://wallstreetenglish.edu.vn/vi/english-tests/ielts/test.html"
+               }, {
+                  "date_added": "13133708015728396",
+                  "id": "389",
+                  "meta_info": {
+                     "last_visited_desktop": "13139690263869903"
+                  },
+                  "name": "Tuyển Dụng Thực Tập Sinh – Lập Trình Viên ASP.NET MVC – Thực tập | Cổng thông tin thực tập kết nối sinh viên, nhà trường và doanh nghiệp | Internship | Việc làm bán thời gian",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.internship.edu.vn/jobs/tuyen-dung-thuc-tap-sinh-lap-trinh-vien-asp-net-mvc/"
+               }, {
+                  "date_added": "13142960262464498",
+                  "id": "390",
+                  "meta_info": {
+                     "last_visited_desktop": "13142960262465357"
+                  },
+                  "name": "Android Studio Development Essentials: Android 6 Edition",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://doc.lagout.org/programmation/Android/Android%20Studio%20Development%20Essentials%20%5BSmyth%202015-12-09%5D.pdf"
+               } ],
+               "date_added": "13148403262341232",
+               "date_modified": "13149514539951120",
+               "id": "159",
+               "meta_info": {
+                  "stars.id": "ssf_027e91c532bdbbe8",
+                  "stars.version": "sync.server.Chrome39"
+               },
+               "name": "English",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13055229087699375",
+                  "id": "372",
+                  "meta_info": {
+                     "last_visited_desktop": "13133591769540937",
+                     "stars.id": "ssc_b72e2c8289092901",
+                     "stars.imageData": "Cg4yQnE2aVpleWFKNmR2TRI/CjhodHRwOi8vd3d3LmhjbXVzLmVkdS52bi9pbWFnZXMvc3Rvcmllcy9ob21lX2ZvbnRwYWdlLmpwZxCjARhzGmIKW2h0dHA6Ly90MC5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjUmVTeHdGNmdwc2JGaU1fWXRHREl0aDFoUjVkUXU0SDFpYm9QTVNMblRHNUNiQUtOaksQowEYcyIeCAEQowEYcyCiMkIGEgQAAXh9SgppbWFnZS9qcGVn",
+                     "stars.pageData": "Ig5zVV9kWUpjUHUzWkFWTQ==",
+                     "stars.type": "2",
+                     "stars.version": "sync.server.Chrome45"
+                  },
+                  "name": "Trường Đại Học Khoa Học Tự Nhiên TP Hồ Chí Minh - Trang Chủ",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.hcmus.edu.vn/"
+               }, {
+                  "date_added": "13058088466366750",
+                  "id": "373",
+                  "meta_info": {
+                     "stars.flags": "4",
+                     "stars.id": "ssc_8b429e022ed8e0a8",
+                     "stars.imageData": "Cg5YeDFwZ1dfcFFZMFktTRJOCkZodHRwOi8vZ3JhbGliLmhjbXVucy5lZHUudm4vb3BhYy9pbWFnZXMvY29udGVudC9jaGFuZ2VpbWcvTUFJTklNRzQuR0lGEPYCGIcBGmMKW2h0dHA6Ly90My5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjUThxeGJLZTJJUG9qNndnYXNmM2JvSU9IZ1gyRWt4dlpkb2I4OGx2cnBVa0g0OU5jWFUQ9gIYhwEiHwgBEPYCGIcBIPY+QgYSBBQBfH5KCmltYWdlL2pwZWc=",
+                     "stars.pageData": "Ig5nRmx5Wkc2bEp1dTZjTQ==",
+                     "stars.type": "2"
+                  },
+                  "name": "Thư Viện",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.glib.hcmuns.edu.vn/opac/simpleSearch_khtn_index.jsp"
+               }, {
+                  "date_added": "13058088675006125",
+                  "id": "374",
+                  "meta_info": {
+                     "last_visited_desktop": "13145103029547978",
+                     "stars.id": "ssc_90f04f737e584032",
+                     "stars.isSynced": "true",
+                     "stars.pageData": "Ig5QS3p4S3BSU3NBN3AyTQ==",
+                     "stars.type": "2"
+                  },
+                  "name": "Web Khoa",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://courses.fit.hcmus.edu.vn/login/index.php"
+               } ],
+               "date_added": "13148403262341248",
+               "date_modified": "13148403262341248",
+               "id": "160",
+               "meta_info": {
+                  "stars.id": "ssf_61807f540284834f",
+                  "stars.version": "sync.server.Chrome39"
+               },
+               "name": "Khoa Học Tự Nhiên",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13086896459473535",
+                  "id": "359",
+                  "meta_info": {
+                     "last_visited_desktop": "13144943277656489",
+                     "stars.id": "ssc_a952254fce1996e6",
+                     "stars.version": "sync.server.Chrome45"
+                  },
+                  "name": "C# Tutorial",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.tutorialspoint.com/csharp/index.htm"
+               }, {
+                  "date_added": "13091908642369112",
+                  "id": "360",
+                  "meta_info": {
+                     "stars.id": "ssc_8d83beff6c92f46e",
+                     "stars.version": "sync.server.Chrome46"
+                  },
+                  "name": "Step 7: Add Dialog Components to Your Form",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://msdn.microsoft.com/en-us/library/dd492176.aspx"
+               }, {
+                  "date_added": "13092506616255180",
+                  "id": "361",
+                  "meta_info": {
+                     "stars.flags": "5",
+                     "stars.id": "ssc_24605c8b90b54629",
+                     "stars.version": "sync.server.Chrome46"
+                  },
+                  "name": "Learn MVC Project in 7 days – Day 1 - CodeProject",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.codeproject.com/Articles/866143/Learn-MVC-Project-in-days-Day"
+               }, {
+                  "date_added": "13093110345444153",
+                  "id": "362",
+                  "name": "Học lập trình C# - Mô hình 3 lớp (Phần 1) - YouTube",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=9b8S9oKR5_c&list=PLR8jhs0mz4XiALYDO5iGiK_uqTnL9CqtH"
+               }, {
+                  "date_added": "13097688414108176",
+                  "id": "363",
+                  "name": "Programming Techniques: C#",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.kythuatlaptrinh.xyz/search/label/C%23"
+               }, {
+                  "date_added": "13113328082202724",
+                  "id": "364",
+                  "name": "ASP.NET MVC - YouTube",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.youtube.com/playlist?list=PLnQBGpefeAlsiFlc1kk0pIngFPqVhO9vZ"
+               }, {
+                  "date_added": "13113328111873820",
+                  "id": "365",
+                  "name": ".NET - Tutorials",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.microsoft.com/net/tutorials/csharp/getting-started/hello-world"
+               }, {
+                  "date_added": "13114627532943882",
+                  "id": "366",
+                  "name": "Custom User Registration and Login Page with Entity Framework",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.techstrikers.com/Articles/custom-user-registration-and-login-page-with-entity-framework.php"
+               }, {
+                  "date_added": "13114690972567043",
+                  "id": "367",
+                  "name": "Posts matches the search text \"mvc\"",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://prideparrot.com/blog/search?search=mvc"
+               }, {
+                  "date_added": "13114705463015802",
+                  "id": "368",
+                  "name": "Tối ưu thẻ Meta Description cho từng bài viết trong Blogspot",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://webads.vn/toi-uu-the-meta-description-cho-tung-bai-viet-trong-blogspot.html"
+               }, {
+                  "date_added": "13114705467900913",
+                  "id": "369",
+                  "name": "Bài 6.1: Quản lý, sửa/ xóa bài viết sử dụng tính năng All Posts của thanh công cụ Posts Wordpress 4.1.1",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://vandon.com.vn/wordpress-vi/tuy-bien/18141-bai6-1-quan-ly-sua-xoa-bai-viet-su-dung-tinh-nang-all-posts-cua-thanh-cong-cu-posts-wordpress-4-1-1"
+               }, {
+                  "date_added": "13115640107703442",
+                  "id": "370",
+                  "meta_info": {
+                     "last_visited_desktop": "13141838923757226"
+                  },
+                  "name": "Làm dự án thực tế với WebAPI, AngularJS và Entity Framework Code First",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://tedu.com.vn/khoa-hoc/lam-du-an-thuc-te-voi-webapi-angularjs-va-entity-framework-code-first-7.html"
+               }, {
+                  "date_added": "13120581842091835",
+                  "id": "371",
+                  "name": "MVC DropDownListFor fill on selection change of another dropdown :: Advance Sharp",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.advancesharp.com/blog/1145/mvc-dropdownlistfor-fill-on-selection-change-of-another-dropdown"
+               } ],
+               "date_added": "13148403262341258",
+               "date_modified": "13148403262341258",
+               "id": "161",
+               "meta_info": {
+                  "stars.id": "ssf_91f724611f0c1098",
+                  "stars.version": "sync.server.Chrome45"
+               },
+               "name": "C#",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13087768718317128",
+                  "id": "358",
+                  "meta_info": {
+                     "stars.id": "ssc_503f4235eaa8e3cc",
+                     "stars.version": "sync.server.Chrome45"
+                  },
+                  "name": "Ethical Hackers « Request Membership « Cybrary",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.cybrary.it/groups/ethical-hackers/request-membership/?_wpnonce=cf8e81e489"
+               } ],
+               "date_added": "13148403262341267",
+               "date_modified": "13148403262341267",
+               "id": "162",
+               "meta_info": {
+                  "stars.id": "ssf_257c562d89e5b2ad",
+                  "stars.version": "sync.server.Chrome45"
+               },
+               "name": "Cybrary",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13088189458196909",
+                  "id": "356",
+                  "meta_info": {
+                     "last_visited_desktop": "13143385429185753",
+                     "stars.id": "ssc_b7b96e8c65aa67f1",
+                     "stars.version": "sync.server.Chrome45"
+                  },
+                  "name": "Lap trinh PHP, ASP.NET, iOS, Facebook Application - Pham Truong Dang Khoa",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://khoapham.vn/"
+               }, {
+                  "date_added": "13088459245795791",
+                  "id": "357",
+                  "meta_info": {
+                     "stars.flags": "5",
+                     "stars.id": "ssc_6c3db56c869f0364",
+                     "stars.version": "sync.server.Chrome45"
+                  },
+                  "name": "New Tab",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "chrome://newtab/"
+               } ],
+               "date_added": "13148403262341276",
+               "date_modified": "13148403262341276",
+               "id": "163",
+               "meta_info": {
+                  "stars.id": "ssf_9bf0604592b47a17",
+                  "stars.version": "sync.server.Chrome45"
+               },
+               "name": "Khoa Pham",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13089733450700437",
+                  "id": "352",
+                  "name": "Học lập trình miễn phí - Học công nghệ thông tin miễn phí",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://myclass.vn/"
+               }, {
+                  "children": [ {
+                     "date_added": "13090000798962243",
+                     "id": "355",
+                     "meta_info": {
+                        "stars.flags": "5",
+                        "stars.id": "ssc_2fc8d90f0cd340b0",
+                        "stars.version": "sync.server.Chrome46"
+                     },
+                     "name": "47 Free Responsive HTML5 CSS3 Website Templates",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://designscrazed.org/free-responsive-html5-css3-templates/"
+                  } ],
+                  "date_added": "13148403262361372",
+                  "date_modified": "13148403262361372",
+                  "id": "353",
+                  "meta_info": {
+                     "stars.id": "ssf_b5de038b9bbec25b",
+                     "stars.version": "sync.server.Chrome46"
+                  },
+                  "name": "templated",
+                  "sync_transaction_version": "1",
+                  "type": "folder"
+               }, {
+                  "date_added": "13090521068282888",
+                  "id": "354",
+                  "meta_info": {
+                     "last_visited_desktop": "13133112618525659"
+                  },
+                  "name": "ASP.NET MVC Guidance | The ASP.NET Site",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.asp.net/mvc/overview"
+               } ],
+               "date_added": "13148403262341286",
+               "date_modified": "13148403262341286",
+               "id": "164",
+               "meta_info": {
+                  "stars.id": "ssf_92cc2a6ce20e048f",
+                  "stars.version": "sync.server.Chrome46"
+               },
+               "name": "ASP.net",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13089734327016832",
+                  "id": "351",
+                  "meta_info": {
+                     "stars.flags": "5",
+                     "stars.id": "ssc_da1d76fa051e30e9",
+                     "stars.version": "sync.server.Chrome46"
+                  },
+                  "name": "SQL – Wikipedia tiếng Việt",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://vi.wikipedia.org/wiki/SQL"
+               } ],
+               "date_added": "13148403262341295",
+               "date_modified": "13148403262341295",
+               "id": "165",
+               "meta_info": {
+                  "stars.id": "ssf_e4a6f49ac36853e7",
+                  "stars.version": "sync.server.Chrome46"
+               },
+               "name": "SQL Server",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "date_added": "13093093076645995",
+               "id": "166",
+               "name": "30 lệnh trong cmd | Thủ thuật Internet | CLB Internet - Kết nối và chia sẻ",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://clbinternet.info/30-lenh-trong-cmd/"
+            }, {
+               "children": [ {
+                  "date_added": "13093282637218148",
+                  "id": "347",
+                  "name": "LZW compression | What it is & its use in TIFF & PDF",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.prepressure.com/library/compression-algorithm/lzw"
+               }, {
+                  "date_added": "13093283305181452",
+                  "id": "348",
+                  "name": "Lempel–Ziv–Welch - Wikipedia, the free encyclopedia",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Welch"
+               }, {
+                  "date_added": "13093285133226608",
+                  "id": "349",
+                  "name": "Lzw Compression - CVISION Technologies",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.cvisiontech.com/library/file-formats/pdf/lzw-compression.html"
+               }, {
+                  "date_added": "13093292594211328",
+                  "id": "350",
+                  "name": "Design Websites | Designer Portfolio | Wix.com",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.wix.com/design/website"
+               } ],
+               "date_added": "13148403262341422",
+               "date_modified": "13148403262341422",
+               "id": "167",
+               "name": "Đồ án LZW compression",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "date_added": "13093292607448356",
+               "id": "168",
+               "name": "https://www.wix.com/my-account/sites/",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.wix.com/my-account/sites/"
+            }, {
+               "children": [ {
+                  "date_added": "13122402506660838",
+                  "id": "346",
+                  "name": "Introduction To Linux CentOS 7 | Udemy",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.udemy.com/introduction-to-linux-centos-7/learn/v4/overview"
+               } ],
+               "date_added": "13148403262341530",
+               "date_modified": "13148403262341530",
+               "id": "169",
+               "name": "linux",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "date_added": "13124776008938984",
+               "id": "170",
+               "meta_info": {
+                  "last_visited_desktop": "13145375458113100"
+               },
+               "name": "Settings",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "chrome://settings/"
+            }, {
+               "children": [ {
+                  "date_added": "13126949800727571",
+                  "id": "345",
+                  "meta_info": {
+                     "last_visited_desktop": "13132857464685013"
+                  },
+                  "name": "Programming Tutorials and Source Code Examples",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.java2s.com/"
+               } ],
+               "date_added": "13148403262341615",
+               "date_modified": "13148403262341615",
+               "id": "171",
+               "name": "Java",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13128062449815805",
+                  "id": "344",
+                  "name": "Bootstrap 3 Tutorial Pt.2 - Responsive Navbar with Dropdown Menus - YouTube",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?annotation_id=annotation_3126996771&feature=iv&src_vid=E_BrfH10OTc&v=m_xnqEgHnWM"
+               } ],
+               "date_added": "13148403262341624",
+               "date_modified": "13148403262341624",
+               "id": "172",
+               "name": "Responsive",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13001320229503404",
+                     "id": "342",
+                     "name": "The Windows Store is open | Microsoft",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://www.windowsstore.com/?cid=windevelopers"
+                  }, {
+                     "date_added": "13002018044657016",
+                     "id": "343",
+                     "name": "Billy Hollis - Introduction to XAML in Windows 8/Metro on Vimeo",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://vimeo.com/43548882"
+                  } ],
+                  "date_added": "13148403262355950",
+                  "date_modified": "13148403262355951",
+                  "id": "300",
+                  "name": "Windows Store",
+                  "sync_transaction_version": "1",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "children": [ {
+                        "date_added": "13002107956189797",
+                        "id": "341",
+                        "name": "How to manually remove a replication in SQL Server 2000 or in SQL Server 2005",
+                        "sync_transaction_version": "1",
+                        "type": "url",
+                        "url": "http://support.microsoft.com/kb/324401"
+                     } ],
+                     "date_added": "13148403262358681",
+                     "date_modified": "13148403262358681",
+                     "id": "332",
+                     "name": "Replication",
+                     "sync_transaction_version": "1",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13085903241460594",
+                        "id": "337",
+                        "meta_info": {
+                           "stars.flags": "5",
+                           "stars.id": "ssc_d15dbf6ab141ef52",
+                           "stars.version": "sync.server.Chrome47"
+                        },
+                        "name": "Analysis Services Tutorials (SSAS)",
+                        "sync_transaction_version": "1",
+                        "type": "url",
+                        "url": "https://msdn.microsoft.com/en-us/library/hh231701(v=sql.110).aspx"
+                     }, {
+                        "date_added": "13086268245945779",
+                        "id": "338",
+                        "meta_info": {
+                           "stars.flags": "5",
+                           "stars.id": "ssc_9d42c3b011d954a4",
+                           "stars.version": "sync.server.Chrome47"
+                        },
+                        "name": "31 Days of SSIS - The Introduction | Strate SQL",
+                        "sync_transaction_version": "1",
+                        "type": "url",
+                        "url": "http://www.jasonstrate.com/2011/01/31-days-of-ssis-the-introduction/"
+                     }, {
+                        "date_added": "13086980827105171",
+                        "id": "339",
+                        "meta_info": {
+                           "stars.flags": "5",
+                           "stars.id": "ssc_e80c61b6e72f9257",
+                           "stars.version": "sync.server.Chrome45"
+                        },
+                        "name": "view-source:grumblebum.local:8081",
+                        "sync_transaction_version": "1",
+                        "type": "url",
+                        "url": "view-source:http://grumblebum.local:8081/"
+                     }, {
+                        "date_added": "13089706447475068",
+                        "id": "340",
+                        "meta_info": {
+                           "stars.id": "ssc_419d71471d99aeb5",
+                           "stars.version": "sync.server.Chrome48"
+                        },
+                        "name": "Why use Microsoft's PDW when you have SQL Server? - Mariner",
+                        "sync_transaction_version": "1",
+                        "type": "url",
+                        "url": "http://www.mariner-usa.com/blog/why-use-microsofts-parallel-data-warehouse-pdw-when-you-have-sql-server/"
+                     } ],
+                     "date_added": "13148403262358694",
+                     "date_modified": "13148403262358695",
+                     "id": "333",
+                     "meta_info": {
+                        "stars.id": "ssf_9894132dc9b5881c",
+                        "stars.version": "sync.server.Chrome47"
+                     },
+                     "name": "BI",
+                     "sync_transaction_version": "1",
+                     "type": "folder"
+                  }, {
+                     "date_added": "13087558376728565",
+                     "id": "334",
+                     "meta_info": {
+                        "stars.flags": "5",
+                        "stars.id": "ssc_f9d11078284dc1e8",
+                        "stars.version": "sync.server.Chrome47"
+                     },
+                     "name": "The Data Loading Performance Guide",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "https://msdn.microsoft.com/en-us/library/dd425070.aspx"
+                  }, {
+                     "date_added": "13087558412368928",
+                     "id": "335",
+                     "meta_info": {
+                        "stars.flags": "5",
+                        "stars.id": "ssc_bb461f2da77d27cf",
+                        "stars.version": "sync.server.Chrome47"
+                     },
+                     "name": "Extract, Transform, and Load (DW)---a Technical Reference Guide for Designing Mission-Critical DW Solutions",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "https://technet.microsoft.com/en-us/library/hh393537(v=sql.110).aspx"
+                  }, {
+                     "date_added": "13089707763773437",
+                     "id": "336",
+                     "meta_info": {
+                        "stars.id": "ssc_79ef6c531c576f62",
+                        "stars.version": "sync.server.Chrome48"
+                     },
+                     "name": "New Features in SQL Server 2014 | SQL Server 2014 content from Windows IT Pro",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://windowsitpro.com/sql-server-2014/top-ten-new-features-sql-server-2014"
+                  } ],
+                  "date_added": "13148403262355964",
+                  "date_modified": "13148403262355964",
+                  "id": "301",
+                  "name": "Sql Server",
+                  "sync_transaction_version": "1",
+                  "type": "folder"
+               }, {
+                  "date_added": "13002972925209037",
+                  "id": "302",
+                  "meta_info": {
+                     "stars.id": "ssc_338718b952579368",
+                     "stars.version": "sync.server.Chrome46"
+                  },
+                  "name": "Lucene.Net ultra fast search for MVC or WebForms site => made easy! - CodeProject",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.codeproject.com/Articles/320219/Lucene-Net-ultra-fast-search-for-MVC-or-WebForms#Step1"
+               }, {
+                  "children": [ {
+                     "date_added": "13004078328276100",
+                     "id": "331",
+                     "name": "ASP.NET MVC 4 Content Map : The Official Microsoft ASP.NET Site",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://www.asp.net/mvc/overview/getting-started/aspnet-mvc-content-map"
+                  } ],
+                  "date_added": "13148403262356131",
+                  "date_modified": "13148403262356131",
+                  "id": "303",
+                  "name": "ASP MVC 4",
+                  "sync_transaction_version": "1",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13005392713802174",
+                     "id": "330",
+                     "name": ".NET Reporting, ASP.NET Reporting, Silverlight Reporting | ActiveReports",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://www.componentone.com/SuperProducts/ActiveReports/?utm_source=code%2Bproject&utm_medium=feb%2B12%2Bnewsletter&utm_campaign=active%2Breports"
+                  } ],
+                  "date_added": "13148403262356142",
+                  "date_modified": "13148403262356142",
+                  "id": "304",
+                  "name": ".Net Reporting",
+                  "sync_transaction_version": "1",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13005460217438064",
+                     "id": "329",
+                     "name": "FubuMVC | Getting Started",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://mvc.fubu-project.org/getting-started/"
+                  } ],
+                  "date_added": "13148403262356150",
+                  "date_modified": "13148403262356150",
+                  "id": "305",
+                  "name": "Fubu",
+                  "sync_transaction_version": "1",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13005460666849883",
+                     "id": "328",
+                     "name": "Nancy - Lightweight Web Framework for .net",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://nancyfx.org/"
+                  } ],
+                  "date_added": "13148403262356159",
+                  "date_modified": "13148403262356159",
+                  "id": "306",
+                  "name": "NancyFX",
+                  "sync_transaction_version": "1",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13005723465209746",
+                     "id": "327",
+                     "name": "Getting started with OData services in ASP.NET Web API at piotrwalat.net",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://www.piotrwalat.net/getting-started-with-odata-services-in-asp-net-web-api/"
+                  } ],
+                  "date_added": "13148403262356167",
+                  "date_modified": "13148403262356167",
+                  "id": "307",
+                  "name": "OData",
+                  "sync_transaction_version": "1",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13008145021976544",
+                     "id": "326",
+                     "meta_info": {
+                        "stars.id": "ssc_47008e337040e980",
+                        "stars.version": "sync.server.Chrome46"
+                     },
+                     "name": "Asp.Net SignalR Chat Room - CodeProject",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://www.codeproject.com/Articles/562023/Asp-Net-SignalR-Chat-Room"
+                  } ],
+                  "date_added": "13148403262356174",
+                  "date_modified": "13148403262356174",
+                  "id": "308",
+                  "name": "SignalR",
+                  "sync_transaction_version": "1",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13030892141795265",
+                     "id": "324",
+                     "name": "Entity Framework (EF) Documentation",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://msdn.microsoft.com/en-us/data/ee712907"
+                  }, {
+                     "date_added": "13030892173599931",
+                     "id": "325",
+                     "name": "msdn.microsoft.com/en-us/data/jj193542",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://msdn.microsoft.com/en-us/data/jj193542"
+                  } ],
+                  "date_added": "13148403262356183",
+                  "date_modified": "13148403262356183",
+                  "id": "309",
+                  "name": "Entity Framewok",
+                  "sync_transaction_version": "1",
+                  "type": "folder"
+               }, {
+                  "date_added": "13031061614617134",
+                  "id": "310",
+                  "meta_info": {
+                     "stars.id": "ssc_f2317de2913d9daa",
+                     "stars.version": "sync.server.Chrome46"
+                  },
+                  "name": "",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://localhost:31369/"
+               }, {
+                  "children": [ {
+                     "date_added": "13031341103781714",
+                     "id": "320",
+                     "name": "OpenID Authentication with ASP.NET MVC3 , DotNetOpenAuth and OpenID-Selector - Web Surgeon",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://weblogs.asp.net/haithamkhedre/archive/2011/03/13/openid-authentication-with-asp-net-mvc3-dotnetopenauth-and-openid-selector.aspx"
+                  }, {
+                     "date_added": "13031341294890332",
+                     "id": "321",
+                     "name": "AndrewBlogs – OpenID for ASP.NET MVC, A Quick Setup",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://andrewblogs.com/openid-for-asp-net-mvc-a-quick-setup/"
+                  }, {
+                     "date_added": "13031341568925345",
+                     "id": "322",
+                     "name": "Plugging custom OAuth/OpenID providers - .NET Web Development and Tools Blog - Site Home - MSDN Blogs",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://blogs.msdn.com/b/webdev/archive/2012/08/23/plugging-custom-oauth-openid-providers.aspx"
+                  }, {
+                     "date_added": "13031341633490843",
+                     "id": "323",
+                     "name": "Extra Information from OAuth/OpenId Provider - .NET Web Development and Tools Blog - Site Home - MSDN Blogs",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://blogs.msdn.com/b/webdev/archive/2012/08/22/extra-information-from-oauth-openid-provider.aspx"
+                  } ],
+                  "date_added": "13148403262356280",
+                  "date_modified": "13148403262356280",
+                  "id": "311",
+                  "name": "OAuth",
+                  "sync_transaction_version": "1",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13039690896111263",
+                     "id": "317",
+                     "name": "Windows Phone 8 Development for Absolute Beginners | Channel 9",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://channel9.msdn.com/Series/Windows-Phone-8-Development-for-Absolute-Beginners?page=4"
+                  }, {
+                     "date_added": "13046859422280764",
+                     "id": "318",
+                     "name": "Windows Phone 8 Development for Absolute Beginners | Channel 9",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://channel9.msdn.com/Series/Windows-Phone-8-Development-for-Absolute-Beginners"
+                  }, {
+                     "date_added": "13050210387389381",
+                     "id": "319",
+                     "name": "23 | Working with the Command Bar",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://www.microsoftvirtualacademy.com/Content/ViewContent.aspx?et=9043&m=9035&ct=29684"
+                  } ],
+                  "date_added": "13148403262356291",
+                  "date_modified": "13148403262356292",
+                  "id": "312",
+                  "name": "Windows Phone",
+                  "sync_transaction_version": "1",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13048068047075179",
+                     "id": "316",
+                     "meta_info": {
+                        "stars.id": "ssc_7ea92da9a8813014",
+                        "stars.version": "sync.server.Chrome47"
+                     },
+                     "name": "Query tips",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "https://github.com/ServiceStack/ServiceStack.OrmLite"
+                  } ],
+                  "date_added": "13148403262356301",
+                  "date_modified": "13148403262356302",
+                  "id": "313",
+                  "name": "Sqlite SQL Server",
+                  "sync_transaction_version": "1",
+                  "type": "folder"
+               }, {
+                  "date_added": "13056769361407511",
+                  "id": "314",
+                  "name": "Overview of Custom Storage Providers for ASP.NET Identity | The ASP.NET Site",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.asp.net/identity/overview/extensibility/overview-of-custom-storage-providers-for-aspnet-identity#reconfigure"
+               }, {
+                  "date_added": "13066196227452000",
+                  "id": "315",
+                  "meta_info": {
+                     "stars.id": "ssc_1bca3fe9bcd59ea4",
+                     "stars.imageData": "Cg50eWh1YUJnbUduTGJGTRJRCklodHRwOi8vc3RhdGljLmFkemVyay5uZXQvQWR2ZXJ0aXNlcnMvYmFmZDlmN2FkNjE5NDdlYThlNDc2ZDM5YjcyYjVlYTIuZ2lmEKwCGPoBGmMKW2h0dHA6Ly90My5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjUi1MQ044X0NSd0tXeTF6U1RSZDlkSXdvcDRFWGZIcU1weXpJbWVTdGhPUHg2eDJhVk4Q8AEYyAEiHwgBEPABGMgBIJFzQgYSBIAAAABKCmltYWdlL2pwZWc=",
+                     "stars.pageData": "Ig5Kd2wxdFNRUGd2WDBSTQ==",
+                     "stars.type": "2",
+                     "stars.version": "sync.server.Clank39"
+                  },
+                  "name": "ASP.NET Forums | The ASP.NET Forums",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://forums.asp.net/"
+               } ],
+               "date_added": "13148403262341632",
+               "date_modified": "13148403262341632",
+               "id": "173",
+               "name": "Microsoft",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13002602757828043",
+                  "id": "299",
+                  "name": "Xamarin - MonoTouch - Create amazing iOS apps with C# and .NET",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://xamarin.com/monotouch"
+               } ],
+               "date_added": "13148403262341639",
+               "date_modified": "13148403262341640",
+               "id": "174",
+               "name": "Xamarin",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13003211853520246",
+                  "id": "282",
+                  "meta_info": {
+                     "stars.id": "ssc_f89daa53476bc6fc",
+                     "stars.isSynced": "true"
+                  },
+                  "name": "node.js beginner tutorials? - Stack Overflow",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://stackoverflow.com/questions/4600792/node-js-beginner-tutorials"
+               }, {
+                  "date_added": "13003225040205069",
+                  "id": "283",
+                  "name": "javascript - How do I get started with Node.js - Stack Overflow",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js"
+               }, {
+                  "date_added": "13003324671009018",
+                  "id": "284",
+                  "name": "Home · LearnBoost/socket.io Wiki · GitHub",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://github.com/learnboost/socket.io/wiki"
+               }, {
+                  "children": [ {
+                     "date_added": "13003385422516329",
+                     "id": "297",
+                     "name": "LearnBoost/socket.io · GitHub",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "https://github.com/LearnBoost/socket.io"
+                  }, {
+                     "date_added": "13003385456107184",
+                     "id": "298",
+                     "name": "Node.js application using Socket.io - Windows Azure tutorial",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://www.windowsazure.com/en-us/develop/nodejs/tutorials/app-using-socketio/"
+                  } ],
+                  "date_added": "13148403262354661",
+                  "date_modified": "13148403262354661",
+                  "id": "285",
+                  "name": "Azure",
+                  "sync_transaction_version": "1",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13003765524952878",
+                     "id": "294",
+                     "name": "WebSocket.org -- A WebSocket Community",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://www.websocket.org/"
+                  }, {
+                     "date_added": "13003765551659878",
+                     "id": "295",
+                     "name": "Node.js & WebSocket - Simple chat tutorial",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://martinsikora.com/nodejs-and-websocket-simple-chat-tutorial"
+                  }, {
+                     "date_added": "13003773771692709",
+                     "id": "296",
+                     "name": "WebSocket and Socket.IO",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://davidwalsh.name/websocket"
+                  } ],
+                  "date_added": "13148403262354672",
+                  "date_modified": "13148403262354672",
+                  "id": "286",
+                  "name": "WebSocket",
+                  "sync_transaction_version": "1",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13003769881216437",
+                     "id": "293",
+                     "name": "billywhizz/node-httpclient · GitHub",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "https://github.com/billywhizz/node-httpclient"
+                  } ],
+                  "date_added": "13148403262354681",
+                  "date_modified": "13148403262354681",
+                  "id": "287",
+                  "name": "HttpClient",
+                  "sync_transaction_version": "1",
+                  "type": "folder"
+               }, {
+                  "date_added": "13003770290064718",
+                  "id": "288",
+                  "name": "socket.io vs websocket - Google Search",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.google.com.vn/search?q=socket.io+vs+websocket&aq=0&oq=socket.io+vs+w&aqs=chrome.1.57j0l3.7910&sourceid=chrome&ie=UTF-8"
+               }, {
+                  "children": [ {
+                     "date_added": "13003773810534709",
+                     "id": "292",
+                     "name": "Socket.IO: the cross-browser WebSocket for realtime apps.",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://socket.io/#how-to-use"
+                  } ],
+                  "date_added": "13148403262354851",
+                  "date_modified": "13148403262354851",
+                  "id": "289",
+                  "name": "Socket.IO",
+                  "sync_transaction_version": "1",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13004093229256177",
+                     "id": "291",
+                     "name": "Node.js and MongoDB - Getting started with MongoJS - How To Node - NodeJS",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://howtonode.org/node-js-and-mongodb-getting-started-with-mongojs"
+                  } ],
+                  "date_added": "13148403262354863",
+                  "date_modified": "13148403262354863",
+                  "id": "290",
+                  "name": "MongoDb",
+                  "sync_transaction_version": "1",
+                  "type": "folder"
+               } ],
+               "date_added": "13148403262341647",
+               "date_modified": "13148403262341647",
+               "id": "175",
+               "name": "NodeJs",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13003413159679495",
+                  "id": "280",
+                  "name": "Lucene.NET vs SQL Server Full-text – Generating a million records and a full-text index",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://dotnetslackers.com/articles/sql/Lucene-NET-vs-SQL-Server-Full-text-Generating-a-million-records-and-a-full-text-index.aspx"
+               }, {
+                  "date_added": "13032273718945550",
+                  "id": "281",
+                  "name": "Lucene.Net/SpellChecker - multi-word/phrase based auto-suggest - Stack Overflow",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://stackoverflow.com/questions/3118974/lucene-net-spellchecker-multi-word-phrase-based-auto-suggest/5042187#5042187"
+               } ],
+               "date_added": "13148403262341654",
+               "date_modified": "13148403262341654",
+               "id": "176",
+               "name": "Search Engine",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13004092572507410",
+                  "id": "279",
+                  "meta_info": {
+                     "stars.id": "ssc_dfe142040984da23",
+                     "stars.isSynced": "true"
+                  },
+                  "name": "Getting Started with MongoDB Development — MongoDB Manual",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://docs.mongodb.org/manual/tutorial/getting-started/"
+               } ],
+               "date_added": "13148403262341663",
+               "date_modified": "13148403262341663",
+               "id": "177",
+               "name": "MongoDb",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13010209644749559",
+                  "id": "276",
+                  "name": "Nested Views, Routing, And Deep Linking With AngularJS",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.bennadel.com/blog/2441-Nested-Views-Routing-And-Deep-Linking-With-AngularJS.htm"
+               }, {
+                  "date_added": "13053834695281335",
+                  "id": "277",
+                  "name": "Tag Archive for \"angular-js\" ♥ Scotch",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://scotch.io/tag/angular-js"
+               }, {
+                  "date_added": "13054440759593242",
+                  "id": "278",
+                  "name": "ng-grid",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://angular-ui.github.io/ng-grid/"
+               } ],
+               "date_added": "13148403262341670",
+               "date_modified": "13148403262341670",
+               "id": "178",
+               "name": "Angular",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13010498048485165",
+                  "id": "275",
+                  "name": "SQL Việt blog",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.sqlviet.com/blog/"
+               } ],
+               "date_added": "13148403262341677",
+               "date_modified": "13148403262341677",
+               "id": "179",
+               "name": "SQL",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [  ],
+                  "date_added": "13148403262353232",
+                  "date_modified": "13148403262353232",
+                  "id": "273",
+                  "name": "New folder",
+                  "sync_transaction_version": "1",
+                  "type": "folder"
+               }, {
+                  "date_added": "13044351363330024",
+                  "id": "274",
+                  "name": "Jak Charlton - Insane World - Devlicio.us - Just the Tasty Bits",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://devlicio.us/blogs/casey/default.aspx"
+               } ],
+               "date_added": "13148403262341683",
+               "date_modified": "13148403262341683",
+               "id": "180",
+               "name": "Architecture",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13048750570656954",
+                  "id": "272",
+                  "meta_info": {
+                     "stars.id": "ssc_1818d5b371817cb7",
+                     "stars.pageData": "Ig5acFgtalc2MVlUcVhsTQ==",
+                     "stars.version": "sync.server.Clank39"
+                  },
+                  "name": "Authenticating ServiceStack REST API using HMAC | Joe's Code",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://jokecamp.wordpress.com/2012/12/16/authenticating-servicestack-rest-api-using-hmac/"
+               } ],
+               "date_added": "13148403262341690",
+               "date_modified": "13148403262341690",
+               "id": "181",
+               "name": "Service stack",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13050831846775527",
+                  "id": "271",
+                  "name": "Building streaming video players in Flash with Open Source Media Framework | Adobe Developer Connection",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.adobe.com/devnet/flash/articles/video_osmf_streaming.html"
+               } ],
+               "date_added": "13148403262341696",
+               "date_modified": "13148403262341696",
+               "id": "182",
+               "name": "Player",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13084276491411043",
+                  "id": "269",
+                  "meta_info": {
+                     "stars.flags": "5",
+                     "stars.id": "ssc_feafd0b02ed1f3a1",
+                     "stars.version": "sync.server.Chrome46"
+                  },
+                  "name": "Data Mining Tutorial",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.tutorialspoint.com/data_mining/index.htm"
+               }, {
+                  "date_added": "13086439044550976",
+                  "id": "270",
+                  "meta_info": {
+                     "stars.flags": "5",
+                     "stars.id": "ssc_3157a9b3a9d2a5b0",
+                     "stars.version": "sync.server.Chrome47"
+                  },
+                  "name": "Comparison of OLAP Servers - Wikipedia, the free encyclopedia",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://en.wikipedia.org/wiki/Comparison_of_OLAP_Servers"
+               } ],
+               "date_added": "13148403262341706",
+               "date_modified": "13148403262341706",
+               "id": "183",
+               "meta_info": {
+                  "stars.id": "ssf_29a338477116cf7d",
+                  "stars.version": "sync.server.Chrome46"
+               },
+               "name": "Datamining",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13087643557852674",
+                  "id": "268",
+                  "meta_info": {
+                     "stars.flags": "5",
+                     "stars.id": "ssc_036b4cce635a38a6",
+                     "stars.version": "sync.server.Chrome47"
+                  },
+                  "name": "Introduction to Analytics.js | Universal Analytics Web Tracking (analytics.js) | Google Developers",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://developers.google.com/analytics/devguides/collection/analyticsjs/"
+               } ],
+               "date_added": "13148403262341715",
+               "date_modified": "13148403262341715",
+               "id": "184",
+               "meta_info": {
+                  "stars.id": "ssf_6dcc5983e39f97fc",
+                  "stars.version": "sync.server.Chrome47"
+               },
+               "name": "Google analytics",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "date_added": "13097124280775570",
+               "id": "185",
+               "meta_info": {
+                  "last_visited_desktop": "13131020655160453"
+               },
+               "name": "Coursera - Free Online Courses From Top Universities | Coursera",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.coursera.org/"
+            }, {
+               "children": [ {
+                  "date_added": "13102761407525326",
+                  "id": "267",
+                  "name": "A Comprehensive List Of Ionic Starter Apps",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.gajotres.net/a-comprehensive-list-of-ionic-starter-apps/"
+               } ],
+               "date_added": "13148403262341824",
+               "date_modified": "13148403262341824",
+               "id": "186",
+               "name": "ionic framework",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13104240716400740",
+                  "id": "266",
+                  "name": "Vietsciences; Nguyễn Văn Tuấn; Nguyen Van Tuan;Phân tích số liệu bằng biểu đồ ; Hướng dẫn phân tích số liệu và vẽ biểu đồ bằng R ; science, khoa hoc, khoahoc, tin hoc,  informatique;computer; vat ly; physics, physiq",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://vietsciences.free.fr/khaocuu/nguyenvantuan/bieudoR/ch8-phantichsolieu.htm"
+               } ],
+               "date_added": "13148403262341834",
+               "date_modified": "13148403262341834",
+               "id": "187",
+               "name": "R",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13106832052784730",
+                  "id": "265",
+                  "name": "Simple implementation of binary search tree in C++. · GitHub",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://gist.github.com/mgechev/5911348"
+               } ],
+               "date_added": "13148403262341841",
+               "date_modified": "13148403262341841",
+               "id": "188",
+               "name": "algor",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "date_added": "13110550076912088",
+               "id": "189",
+               "name": "Calculation operators and order of operations - Excel for Mac",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://support.office.com/en-us/article/Calculation-operators-and-order-of-operations-8fdfc95f-62b5-4b8d-8d5a-d089e7dbb8e9"
+            }, {
+               "children": [ {
+                  "date_added": "13116524593713483",
+                  "id": "246",
+                  "name": "Using Python with Arduino | Technology Tutorials",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.toptechboy.com/using-python-with-arduino-lessons/"
+               }, {
+                  "children": [ {
+                     "date_added": "13116527214530544",
+                     "id": "249",
+                     "name": "Programming for Everybody (Getting Started with Python) - Chapter Five: Loops and Iteration | Coursera",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "https://www.coursera.org/learn/python/home/week/7"
+                  }, {
+                     "date_added": "13116527214530830",
+                     "id": "250",
+                     "name": "arduino - Buy arduino at Best Price in Malaysia | www.lazada.com.my",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://www.lazada.com.my/catalog/?q=arduino"
+                  }, {
+                     "date_added": "13116527214531035",
+                     "id": "251",
+                     "name": "Modules and Packages - Learn Python - Free Interactive Python Tutorial",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://www.learnpython.org/en/Modules_and_Packages"
+                  }, {
+                     "date_added": "13116527214531214",
+                     "id": "252",
+                     "name": "python create package - Tìm với Google",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "https://www.google.com/search?sclient=psy-ab&rlz=1C1CHBF_enVN705VN705&q=python+create+package&oq=python+create+package&gs_l=serp.3...1274472.1287281.0.1287295.26.14.0.0.0.0.0.0..0.0....0...1c.1.64.psy-ab..26.0.0.DXzGuI9oyLg&pbx=1&bav=on.2,or.r_cp.&bvm=bv.130731782,d.c2I&biw=1366&bih=653&ech=1&psi=2K29V4eaF8GHvQTg7JbYAQ.1472048742443.5&ei=2K29V4eaF8GHvQTg7JbYAQ&emsg=NCSR&noj=1"
+                  }, {
+                     "date_added": "13116527214531499",
+                     "id": "253",
+                     "name": "Minimal Structure — Python Packaging Tutorial",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://python-packaging.readthedocs.io/en/latest/minimal.html"
+                  }, {
+                     "date_added": "13116527214531666",
+                     "id": "254",
+                     "name": "Python 201: Creating Modules and Packages | The Mouse Vs. The Python",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://www.blog.pythonlibrary.org/2012/07/08/python-201-creating-modules-and-packages/"
+                  }, {
+                     "date_added": "13116527214531812",
+                     "id": "255",
+                     "name": "How To Package And Distribute Python Applications | DigitalOcean",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications"
+                  }, {
+                     "date_added": "13116527214531957",
+                     "id": "256",
+                     "name": "Using Python with Arduino | Technology Tutorials",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://www.toptechboy.com/using-python-with-arduino-lessons/"
+                  }, {
+                     "date_added": "13116527214532096",
+                     "id": "257",
+                     "name": "Arduino with Python LESSON 3: Create a Simple Virtual World - YouTube",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=jUbTK0BKj50&list=PLGs0VKk2DiYylFUUMMv9WiL3x3tpscDUQ&index=3"
+                  }, {
+                     "date_added": "13116527214532242",
+                     "id": "258",
+                     "name": "Arduino and Python LESSON 2: Installing the Software and Libraries - YouTube",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=mF5cE3DS50s&index=2&list=PLGs0VKk2DiYylFUUMMv9WiL3x3tpscDUQ"
+                  }, {
+                     "date_added": "13116527214532394",
+                     "id": "259",
+                     "name": "http://amazon.com/ is not available",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://amazon.com/"
+                  }, {
+                     "date_added": "13116527214532517",
+                     "id": "260",
+                     "name": "filetype:pdf python programming for arduino - Tìm với Google",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "https://www.google.com/search?q=filetype%3Apdf+python+cookbook&rlz=1C1CHBF_enVN705VN705&oq=filetype%3Apdf+python+cookbook&aqs=chrome..69i57j69i58.7826j0j7&sourceid=chrome&ie=UTF-8#q=filetype:pdf+python+programming+for+arduino"
+                  }, {
+                     "date_added": "13116527214532682",
+                     "id": "261",
+                     "name": "https://www.geekbooks.me/book/view/python-programming-for-arduino is not available",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "https://www.geekbooks.me/book/view/python-programming-for-arduino"
+                  }, {
+                     "date_added": "13116527214532840",
+                     "id": "262",
+                     "name": "Python Programming For Arduino | Bokdepo",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://bokdepo.top/dunlut.php?book=python-programming-for-arduino"
+                  }, {
+                     "date_added": "13116527214532985",
+                     "id": "263",
+                     "name": "http://www0.cs.ucl.ac.uk/staff/M.Gryka/download/pcb3.pdf is not available",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://www0.cs.ucl.ac.uk/staff/M.Gryka/download/pcb3.pdf"
+                  }, {
+                     "date_added": "13116527214533114",
+                     "id": "264",
+                     "name": "http://bokdepo.top/dunlut.php?book=python-programming-for-arduino is not available",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://bokdepo.top/dunlut.php?book=python-programming-for-arduino"
+                  } ],
+                  "date_added": "13148403262347355",
+                  "date_modified": "13148403262347355",
+                  "id": "247",
+                  "name": "New folder",
+                  "sync_transaction_version": "1",
+                  "type": "folder"
+               }, {
+                  "date_added": "13116845852798419",
+                  "id": "248",
+                  "name": "test.vespa.saigontechnology.vn/Areas/Admin/Assets/Scripts/Pages/Tours/post.js",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://test.vespa.saigontechnology.vn/Areas/Admin/Assets/Scripts/Pages/Tours/post.js"
+               } ],
+               "date_added": "13148403262341983",
+               "date_modified": "13148403262341983",
+               "id": "190",
+               "name": "Arduino",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13121882414275492",
+                  "id": "245",
+                  "name": "Enable OAuth Refresh Tokens in AngularJS App using ASP .NET Web API 2, and Owin - Bit of Technology",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://bitoftech.net/2014/07/16/enable-oauth-refresh-tokens-angularjs-app-using-asp-net-web-api-2-owin/"
+               } ],
+               "date_added": "13148403262341994",
+               "date_modified": "13148403262341994",
+               "id": "191",
+               "name": "Beare Authorization",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13072875936877075",
+                  "id": "240",
+                  "name": "Running Solr - Apache Solr Reference Guide - Apache Software Foundation",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://cwiki.apache.org/confluence/display/solr/Running+Solr"
+               }, {
+                  "date_added": "13072959489866189",
+                  "id": "241",
+                  "meta_info": {
+                     "stars.flags": "5",
+                     "stars.id": "ssc_fa5f1bf2932b1e8b",
+                     "stars.version": "sync.server.Chrome46"
+                  },
+                  "name": "PIF Mapping - Index Product",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://piftool.dev/admin/product/index"
+               }, {
+                  "date_added": "13073109236266410",
+                  "id": "242",
+                  "meta_info": {
+                     "stars.flags": "5",
+                     "stars.id": "ssc_1f30262b457ce48a",
+                     "stars.version": "sync.server.Chrome46"
+                  },
+                  "name": "Tìm hiểu về Apache Solr – Bút Chì Số",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://butchiso.com/2013/08/tim-hieu-ve-apache-solr.html"
+               }, {
+                  "date_added": "13073109244328706",
+                  "id": "243",
+                  "meta_info": {
+                     "stars.flags": "5",
+                     "stars.id": "ssc_c23e9888b665660e",
+                     "stars.version": "sync.server.Chrome46"
+                  },
+                  "name": "Faceted Search – the 120 Million Documents Story",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.slideshare.net/sourcesense/faceted-search-the-120-million-documents-story"
+               }, {
+                  "date_added": "13073109250769199",
+                  "id": "244",
+                  "meta_info": {
+                     "stars.flags": "5",
+                     "stars.id": "ssc_730a6d73d4957c84",
+                     "stars.version": "sync.server.Chrome46"
+                  },
+                  "name": "Điện toán đám mây, MapReduce và ứng dụng xây dựng hệ tìm kiếm theo yêu cầu người dùng - Luận văn, đồ án, đề tài tốt nghiệp",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://luanvan.co/luan-van/dien-toan-dam-may-mapreduce-va-ung-dung-xay-dung-he-tim-kiem-theo-yeu-cau-nguoi-dung-44822/"
+               } ],
+               "date_added": "13148403262342005",
+               "date_modified": "13148403262342005",
+               "id": "192",
+               "meta_info": {
+                  "stars.id": "ssf_a618492dca52cd58",
+                  "stars.version": "sync.server.Chrome46"
+               },
+               "name": "Solr",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13074141225034318",
+                     "id": "236",
+                     "meta_info": {
+                        "stars.flags": "5",
+                        "stars.id": "ssc_d7d48bfb0cbc7e6f",
+                        "stars.version": "sync.server.Chrome46"
+                     },
+                     "name": "ElasticSearch 101 - A getting started tutorial",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://joelabrahamsson.com/elasticsearch-101/"
+                  }, {
+                     "date_added": "13075561260912885",
+                     "id": "237",
+                     "meta_info": {
+                        "stars.id": "ssc_b74ec4264314fd24",
+                        "stars.version": "sync.server.Clank44"
+                     },
+                     "name": "jprante/elasticsearch-jdbc · GitHub",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "https://github.com/jprante/elasticsearch-jdbc"
+                  }, {
+                     "date_added": "13082544802404796",
+                     "id": "238",
+                     "meta_info": {
+                        "stars.flags": "5",
+                        "stars.id": "ssc_200c0647deabfafc",
+                        "stars.version": "sync.server.Chrome46"
+                     },
+                     "name": "save",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://www.yolinux.com/TUTORIALS/LinuxTutorialAdvanced_vi.html"
+                  }, {
+                     "date_added": "13082868180398294",
+                     "id": "239",
+                     "meta_info": {
+                        "stars.flags": "5",
+                        "stars.id": "ssc_83552ddc28e163b6",
+                        "stars.version": "sync.server.Chrome46"
+                     },
+                     "name": "Tab mới",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "chrome://newtab/"
+                  } ],
+                  "date_added": "13148403262345770",
+                  "date_modified": "13148403262345770",
+                  "id": "231",
+                  "meta_info": {
+                     "stars.id": "ssf_9b9f307f7a862de0",
+                     "stars.version": "sync.server.Chrome46"
+                  },
+                  "name": "ElasticSearch",
+                  "sync_transaction_version": "1",
+                  "type": "folder"
+               }, {
+                  "date_added": "13074152017312165",
+                  "id": "232",
+                  "name": "Videos · Sit Back, Relax, and Enjoy | Elastic",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.elastic.co/videos"
+               }, {
+                  "children": [ {
+                     "date_added": "13074236591734474",
+                     "id": "234",
+                     "meta_info": {
+                        "stars.flags": "5",
+                        "stars.id": "ssc_279898e2b3ebfbaf",
+                        "stars.version": "sync.server.Chrome46"
+                     },
+                     "name": "logstash - open source log management",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://www.logstash.net/docs/1.1.12/tutorials/10-minute-walkthrough/"
+                  }, {
+                     "date_added": "13075185821977475",
+                     "id": "235",
+                     "meta_info": {
+                        "stars.flags": "5",
+                        "stars.id": "ssc_ee75c9943577eaeb",
+                        "stars.version": "sync.server.Chrome46"
+                     },
+                     "name": "Tuyển Giám sát viên - CÔNG TY TNHH SAIGON SMILE SPA",
+                     "sync_transaction_version": "1",
+                     "type": "url",
+                     "url": "http://mywork.com.vn/tuyen-dung/viec-lam/664736/giam-sat-vien.html"
+                  } ],
+                  "date_added": "13148403262345888",
+                  "date_modified": "13148403262345888",
+                  "id": "233",
+                  "meta_info": {
+                     "stars.id": "ssf_193245b7c79b0167",
+                     "stars.version": "sync.server.Chrome46"
+                  },
+                  "name": "Logstash",
+                  "sync_transaction_version": "1",
+                  "type": "folder"
+               } ],
+               "date_added": "13148403262342015",
+               "date_modified": "13148403262342015",
+               "id": "193",
+               "meta_info": {
+                  "stars.id": "ssf_5f083a63095724f0",
+                  "stars.version": "sync.server.Chrome46"
+               },
+               "name": "Elastic",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13074077249464786",
+                  "id": "230",
+                  "meta_info": {
+                     "stars.flags": "5",
+                     "stars.id": "ssc_1b31441f071a29f4",
+                     "stars.version": "sync.server.Chrome46"
+                  },
+                  "name": "Welcome to Apache™ Hadoop®!",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://hadoop.apache.org/"
+               } ],
+               "date_added": "13148403262342023",
+               "date_modified": "13148403262342023",
+               "id": "194",
+               "meta_info": {
+                  "stars.id": "ssf_ae53b8cd4d97bfc1",
+                  "stars.version": "sync.server.Chrome46"
+               },
+               "name": "Hadoop",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13128762571928744",
+                  "id": "227",
+                  "name": "GitHub - ericdouglas/ES6-Learning: List of resources to learn ECMAScript 6!",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://github.com/ericdouglas/ES6-Learning"
+               }, {
+                  "date_added": "13128762583046585",
+                  "id": "228",
+                  "name": "GitHub - lukehoban/es6features: Overview of ECMAScript 6 features",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://github.com/lukehoban/es6features"
+               }, {
+                  "date_added": "13129183527117834",
+                  "id": "229",
+                  "meta_info": {
+                     "last_visited_desktop": "13131977042994228"
+                  },
+                  "name": "Metronic Admin Theme #1 | Invoice",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://keenthemes.com/preview/metronic/theme/admin_1_rounded/page_general_invoice.html"
+               } ],
+               "date_added": "13148403262342030",
+               "date_modified": "13148403262342030",
+               "id": "195",
+               "name": "ES6",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13129183540889191",
+                  "id": "226",
+                  "name": "GitHub - chentsulin/awesome-graphql: Awesome list of GraphQL & Relay",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://github.com/chentsulin/awesome-graphql"
+               } ],
+               "date_added": "13148403262342037",
+               "date_modified": "13148403262342037",
+               "id": "196",
+               "name": "GraphQL",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13131507760219783",
+                  "id": "225",
+                  "name": "GoldenLayout- a multi-window javascript layout manager for webapps",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.golden-layout.com/tutorials/angular-complex.html"
+               } ],
+               "date_added": "13148403262342043",
+               "date_modified": "13148403262342043",
+               "id": "197",
+               "name": "Angular2",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "date_added": "13137601237077025",
+               "id": "198",
+               "meta_info": {
+                  "last_visited_desktop": "13137601237078019"
+               },
+               "name": "Học Lập Trình Miễn Phí Qua Video - Học viện Công nghệ Vietpro Academy",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://vietpro.net.vn/"
+            }, {
+               "children": [ {
+                  "date_added": "13138903337472776",
+                  "id": "209",
+                  "meta_info": {
+                     "last_visited_desktop": "13140347061769430"
+                  },
+                  "name": "ASP Net Identity MVC Implement Roles and Customize Registration Information - YouTube",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=TdDAyRiLBFA"
+               }, {
+                  "date_added": "13138905517667556",
+                  "id": "210",
+                  "meta_info": {
+                     "last_visited_desktop": "13138905517668273"
+                  },
+                  "name": "Google new reCAPTCHA using asp.net mvc - YouTube",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=hcGIA7d5cA0"
+               }, {
+                  "date_added": "13139341402636366",
+                  "id": "211",
+                  "meta_info": {
+                     "last_visited_desktop": "13139582762490055"
+                  },
+                  "name": "Material icons - Material Design",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://material.io/icons/"
+               }, {
+                  "date_added": "13139585702548517",
+                  "id": "212",
+                  "meta_info": {
+                     "last_visited_desktop": "13139586016479569"
+                  },
+                  "name": "Box Search Like Google By Plugin JQuery - Box Search giống như Gmail. Được viết bằng Javascript - YouTube",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=bncos2BiPOM&feature=youtu.be"
+               }, {
+                  "date_added": "13139690765063686",
+                  "id": "213",
+                  "meta_info": {
+                     "last_visited_desktop": "13139690794614508"
+                  },
+                  "name": "Việc làm IT Lập Trình Viên .NET - Sino Corporation",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://vieclamit.careerbuilder.vn/tim-viec-lam/lap-trinh-vien-net.35ABB298.html"
+               }, {
+                  "date_added": "13139726852777162",
+                  "id": "214",
+                  "meta_info": {
+                     "last_visited_desktop": "13139726852778208"
+                  },
+                  "name": "Phân biệt giữa Cookie và Session",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://love4all1080.blogspot.com/2009/02/phan-biet-giua-cookie-va-session.html"
+               }, {
+                  "date_added": "13139726874724663",
+                  "id": "215",
+                  "meta_info": {
+                     "last_visited_desktop": "13139726874725228"
+                  },
+                  "name": "Dependency Injection và Inversion of Control – Phần 1: Định nghĩa | Từ coder đến developer – Tôi đi code dạo",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://toidicodedao.com/2015/11/03/dependency-injection-va-inversion-of-control-phan-1-dinh-nghia/"
+               }, {
+                  "date_added": "13139741718515583",
+                  "id": "216",
+                  "meta_info": {
+                     "last_visited_desktop": "13139741740925241"
+                  },
+                  "name": "﻿﻿GO SOLUTIONS tuyển thực tập.NET tháng 02/2017",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://gosol.com.vn/tuyen-dung/go-solutions-tuyen-thuc-tap.net-thang-022017-65.htm"
+               }, {
+                  "date_added": "13139813380364743",
+                  "id": "217",
+                  "meta_info": {
+                     "last_visited_desktop": "13139943650282217"
+                  },
+                  "name": "Lập Trình Viên ASP.NET MVC (C#) at TAA Corp | ITviec",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://itviec.com/it-jobs/lap-trinh-vien-asp-net-mvc-c-taa-corp-0652?utm_source=google&utm_medium=dis_cpc_dynamic&utm_content=hn_x_y&utm_campaign=bulk_ad"
+               }, {
+                  "date_added": "13140022037186290",
+                  "id": "218",
+                  "meta_info": {
+                     "last_visited_desktop": "13140022037186990"
+                  },
+                  "name": "React Redux React-Router: From Beginner to Paid Professional | Udemy",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.udemy.com/react-redux-react-router/?couponCode=REACTJS.GROUP12D"
+               }, {
+                  "date_added": "13140359864980612",
+                  "id": "219",
+                  "meta_info": {
+                     "last_visited_desktop": "13140373542609226"
+                  },
+                  "name": "Việc làm IT Thực Tập Lập Trình Phần Mềm - VnResource Co. Ltd",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://vieclamit.careerbuilder.vn/tim-viec-lam/thuc-tap-lap-trinh-phan-mem.35ABC07B.html"
+               }, {
+                  "date_added": "13140461405941205",
+                  "id": "220",
+                  "meta_info": {
+                     "last_visited_desktop": "13140506533800348"
+                  },
+                  "name": "How to retrieve database data & show in a view using jquery in an ASP.Net MVC. - YouTube",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=h6rDbKXb20k"
+               }, {
+                  "date_added": "13140547140534245",
+                  "id": "221",
+                  "meta_info": {
+                     "last_visited_desktop": "13140547140534534"
+                  },
+                  "name": "React Redux React-Router: From Beginner to Paid Professional | Udemy",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.udemy.com/react-redux-react-router/?utm_source=gdn-row&utm_medium=udemyads&utm_campaign=NEW-DRT-VRT-GDN-ROW-14day-EN-ENG_._ci__._sl_ENG_._vi__._sd_All_._la_EN_._&utm_content=_._pd_920544&utm_term=_._ag_41316215933_._ad_190978429123_._de_c_._dm__._pl_hopamviet.vn_._ti_aud-296047865446_._li_1028581_._pd_&gclid=CKe_nu63ldQCFQonvQod2VYHBQ"
+               }, {
+                  "date_added": "13140861660547834",
+                  "id": "222",
+                  "meta_info": {
+                     "last_visited_desktop": "13140861660548235"
+                  },
+                  "name": "Việc làm Lập Trình Viên .NET",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://careerbuilder.vn/vi/tim-viec-lam/lap-trinh-vien-net.35AB7C29.html?utm_campaign=joravn&utm_medium=organic&utm_source=joravn"
+               }, {
+                  "date_added": "13140861897354393",
+                  "id": "223",
+                  "meta_info": {
+                     "last_visited_desktop": "13141147290888990"
+                  },
+                  "name": "GitHub - nopSolutions/nopCommerce: Free open-source ecommerce shopping cart (ASP.NET MVC)",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://github.com/nopSolutions/nopCommerce"
+               }, {
+                  "date_added": "13141319057117063",
+                  "id": "224",
+                  "meta_info": {
+                     "last_visited_desktop": "13141380951952161"
+                  },
+                  "name": "Việc làm IT Thực Tập Lập Trình Phần Mềm - VnResource Co. Ltd",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://vieclamit.careerbuilder.vn/tim-viec-lam/thuc-tap-lap-trinh-phan-mem.35ABC07B.html?utm_source=ial35thw&utm_medium=cpa&utm_content=A0949B3&utm_campaign=VieclamIT"
+               } ],
+               "date_added": "13148403262342158",
+               "date_modified": "13148403262342158",
+               "id": "199",
+               "name": "ASP.Net Skill",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13139855408465851",
+                  "id": "208",
+                  "meta_info": {
+                     "last_visited_desktop": "13139860104120812"
+                  },
+                  "name": "Tải Photoshop CS6 Full Crack- Full 32bit và 64bit Với Tốc Độ Cực Nhanh",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://phanmemchuan.com/tai-photoshop-cs6-full-crack.html"
+               } ],
+               "date_added": "13148403262342168",
+               "date_modified": "13148403262342168",
+               "id": "200",
+               "name": "Photoshop Skill",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13139857349930854",
+                  "id": "206",
+                  "meta_info": {
+                     "last_visited_desktop": "13139857349931507"
+                  },
+                  "name": "\"Hốt sạch\" 11 thiên đường du lịch tuyệt đẹp cực gần Sài Gòn",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://diadiemanuong.com/co-gi-hot/du-lich/hot-sach-11-thien-duong-du-lich-tuyet-dep-cuc-gan-sai-gon"
+               }, {
+                  "date_added": "13139945438244914",
+                  "id": "207",
+                  "meta_info": {
+                     "last_visited_desktop": "13139945943181200"
+                  },
+                  "name": "Hướng dẫn cài đặt xampp 5.6 và khắc phục lỗi không start được apache - YouTube",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=_6nLJr30fa8"
+               } ],
+               "date_added": "13148403262342175",
+               "date_modified": "13148403262342175",
+               "id": "201",
+               "name": "Entertaiment",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13144256188415605",
+                  "id": "205",
+                  "meta_info": {
+                     "last_visited_desktop": "13144308520443871"
+                  },
+                  "name": "Beginner Rails5 With ReactJS Tutorial - Part 8 - YouTube",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=NcEflS_J2z0&index=8&list=PLX-RIZuCBJBLZ7zhGqhxYMIz_c18jLnka"
+               } ],
+               "date_added": "13148403262342194",
+               "date_modified": "13148403262342194",
+               "id": "202",
+               "name": "React & rails ",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13144256269094753",
+                  "id": "204",
+                  "meta_info": {
+                     "last_visited_desktop": "13144261327715850"
+                  },
+                  "name": "Consume Rails API with Angular 2 Front-end - YouTube",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.youtube.com/playlist?list=PLDXD2oU01QGYp72hhh7xf3wTsB4Rdtbgb"
+               } ],
+               "date_added": "13148403262342203",
+               "date_modified": "13148403262342203",
+               "id": "203",
+               "name": "Angular & rails ",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            } ],
+            "date_added": "13148403262320311",
+            "date_modified": "13148403262320311",
+            "id": "7",
+            "meta_info": {
+               "stars.id": "ssf_644bd0e5b2874387",
+               "stars.version": "sync.server.Chrome39"
+            },
+            "name": "Learning",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13097909199767253",
+               "id": "152",
+               "name": "40 easy ways to make money quickly - Save the Student",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.savethestudent.org/make-money/10-quick-cash-injections.html"
+            }, {
+               "date_added": "13097909742878691",
+               "id": "153",
+               "name": "Choose your favourite top UK offers | Vivatic",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.vivatic.com/offers/uk"
+            }, {
+               "date_added": "13102357529897115",
+               "id": "154",
+               "name": "Tôi yêu bản dịch - dịch trực tuyến - dịch trang web - dịch công cụ – dịch thuật văn bản - miễn phí dịch thuật",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://vi.ilovetranslation.com/"
+            }, {
+               "date_added": "13104652378526348",
+               "id": "155",
+               "name": "14CK3-HCMUS",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.facebook.com/groups/14CK3/?fref=ts"
+            }, {
+               "date_added": "13115622761561283",
+               "id": "156",
+               "name": "LearnEnglish Teens - British Council",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://learnenglishteens.britishcouncil.org/"
+            }, {
+               "date_added": "13132044298209776",
+               "id": "157",
+               "meta_info": {
+                  "last_visited_desktop": "13132044298210997"
+               },
+               "name": "Khóa học giao tiếp trọn đời tại Aten cam kết đầu ra bằng hợp đồng",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://aten.edu.vn/khoa-hoc-cam-ket-giao-tiep-tu-tin-tieng-anh"
+            } ],
+            "date_added": "13148403262320649",
+            "date_modified": "13148403262320649",
+            "id": "8",
+            "name": "English",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13109359116349537",
+               "id": "149",
+               "meta_info": {
+                  "last_visited_desktop": "13148403315746465"
+               },
+               "name": "Kamiken | WebApp admin",
+               "sync_transaction_version": "2",
+               "type": "url",
+               "url": "http://kemeno.vn/hukdadm/#/threads/"
+            }, {
+               "date_added": "13109359160831011",
+               "id": "150",
+               "name": "http://kemeno.vn/web is not available",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://kemeno.vn/web"
+            }, {
+               "date_added": "13122369505321047",
+               "id": "151",
+               "meta_info": {
+                  "last_visited_desktop": "13134643146563805"
+               },
+               "name": "Hướng dẫn xây dựng trang quản trị và phân quyền cho người dùng trong ASP.NET MVC5 P3 - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=aPwhsIKRBgI"
+            }, {
+               "date_added": "13148753866625448",
+               "id": "408",
+               "meta_info": {
+                  "last_visited_desktop": "13148754832146071"
+               },
+               "name": "Products – Newslog",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "http://demo.aggressivemotions.com/newslog/shop/"
+            } ],
+            "date_added": "13148403262320947",
+            "date_modified": "13148753866625448",
+            "id": "9",
+            "name": "WEB",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13110224491877216",
+               "id": "145",
+               "name": "PHP Engineer (PHP/ MySQL/ Framework) at Cybridge Á Châu | ITviec",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://itviec.com/jobs/cybridge-a-chau-php-engineer-php-mysql-framework-0933"
+            }, {
+               "date_added": "13110310348083678",
+               "id": "146",
+               "name": "Configuring user authorization in yii framework",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.dunebook.com/configuring-user-authorization-in-yii-framework/"
+            }, {
+               "date_added": "13110537749010133",
+               "id": "147",
+               "name": "Yii Framework 2 - Tutorial 4 - How to login user from a database - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=MYOcEVlv9l0&list=PLGkRXdCJ-xOIoODVhy-8oZrjk4yVob3ib&index=2"
+            }, {
+               "date_added": "13112271330633479",
+               "id": "148",
+               "name": "Page not found · GitHub",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/languages"
+            } ],
+            "date_added": "13148403262321239",
+            "date_modified": "13148403262321239",
+            "id": "10",
+            "name": "abc",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13129224585084287",
+               "id": "144",
+               "name": "IT eBooks - Free Download - Big Library",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://it-ebooks.info/"
+            } ],
+            "date_added": "13148403262321540",
+            "date_modified": "13148403262321540",
+            "id": "11",
+            "name": "Ebook",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13042280973242131",
+                  "id": "142",
+                  "name": "AWS Management Console",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://console.aws.amazon.com/console/home"
+               }, {
+                  "date_added": "13042281011859131",
+                  "id": "143",
+                  "name": "AWS Documentation",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://aws.amazon.com/documentation/"
+               } ],
+               "date_added": "13148403262338324",
+               "date_modified": "13148403262338324",
+               "id": "126",
+               "name": "amazon",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13051188579715153",
+                  "id": "136",
+                  "meta_info": {
+                     "stars.flags": "6",
+                     "stars.id": "ssc_86e2cecc0b58964c",
+                     "stars.imageData": "Cg4yUDgybjNhbzV4Ul8zTRJKCkJodHRwOi8vd3d3LmhlbHBpbmctc3F1YWQuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDEzLzA4L25naW54MS5qcGcQgA8YuAgaYwpbaHR0cDovL3QwLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NUSDVEWUpLeTVfdERtcThJbFBvT21wUUZBelhYRFFfWWJLUU90RlcwVFkxV2xCZThuVxCsAhioASIQCAEQrAIYqAFCBhIEAAF9aijDjYyH2rvFAg==",
+                     "stars.pageData": "Ig5XNjN5WTdxSEZFRUhDTQ==",
+                     "stars.version": "sync.server.Chrome44"
+                  },
+                  "name": "nginx-rtmp – Compile and “install” under Linux - The Helping Squad",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.helping-squad.com/nginx-rtmp-installation/"
+               }, {
+                  "date_added": "13051565597197036",
+                  "id": "137",
+                  "name": "UNIX Tutorial Two",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.ee.surrey.ac.uk/Teaching/Unix/unix2.html"
+               }, {
+                  "date_added": "13052385408004478",
+                  "id": "138",
+                  "name": "HowTos - CentOS Wiki",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://wiki.centos.org/HowTos"
+               }, {
+                  "date_added": "13056660026461922",
+                  "id": "139",
+                  "name": "Diễn đàn Linux Việt Nam - Quản trị máy chủ Linux - Cộng đồng system admin Việt Nam",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://quantrilinux.vn/forums/"
+               }, {
+                  "date_added": "13056660043844922",
+                  "id": "140",
+                  "name": "Cộng đồng Linux Việt Nam",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://congdonglinux.vn/"
+               }, {
+                  "date_added": "13056660051339922",
+                  "id": "141",
+                  "name": "Ubuntu Việt Nam | Ubuntu - Linux for Human Beings",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.ubuntu-vn.org/"
+               } ],
+               "date_added": "13148403262338335",
+               "date_modified": "13148403262338335",
+               "id": "127",
+               "name": "Linux",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13057736152253283",
+                  "id": "134",
+                  "meta_info": {
+                     "last_visited_desktop": "13138338089883531"
+                  },
+                  "name": "Welcome Fresh Graduate! C# and Java Developer 420usd~ job - VietnamWorks",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.vietnamworks.com/welcome-fresh-graduate-c-sharp-and-java-developer-420usd-512248-jd"
+               }, {
+                  "date_added": "13059704638064000",
+                  "id": "135",
+                  "meta_info": {
+                     "stars.id": "ssc_b5c5a8cf5d275955",
+                     "stars.imageData": "Cg56cHpDT3Z2NnU4cE1sTRI4CjBodHRwOi8vaW1hZ2VzLnZpZXRuYW13b3Jrcy5jb20vaW1nL3RodW1ibmFpbC5wbmcQmgEYmgEaYQpbaHR0cDovL3QyLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NTWnhmTEQzRkZ6bFZQWEFUem9GVGRLWWJ1ZHl6TlQ5S2xMbDcxZTMzRVVfb3hsMTRTWRB7GHsiDggBEHsYe0IGEgSAAgD/KKHh2/zWyMwC",
+                     "stars.pageData": "EtoBVmlldG5hbVdvcmtzIC0gU29mdHdhcmUgRGV2ZWxvcGVycy8gSnVuaW9yIFNvZnR3YXJlIERldmVsb3BlcnMgLSAtIERldmVsb3AgYSBuZXcgcHJvamVjdCB0b2dldGhlciB3aXRoIFJEIHRlYW0gLSBNdXN0IGFibGUgdG8gZXhwbG9yZSBuZXcgdGVjaG5vbG9neSB0byBpbXBsZW1lbnQgdGhlIGZlYXR1cmVzIC0gQWJsZSB0byB3b3JrIHdpdGggYSB0ZWFtIG9yIGluZGl2aWR1YWwgLS4iDk5CaXNWQnEtOGR4ekxN",
+                     "stars.type": "2",
+                     "stars.version": "sync.server.Clank39"
+                  },
+                  "name": "Việc làm Software Developers/ Junior Software Developers - VietnamWorks",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.vietnamworks.com/software-developers-junior-software-developers-1-515182-jv"
+               } ],
+               "date_added": "13148403262338343",
+               "date_modified": "13148403262338343",
+               "id": "128",
+               "name": "jobs",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13115968718553884",
+                  "id": "133",
+                  "name": "Classic",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.converse.com.vn/men/collection-1/chuck-taylor-classic-1.html"
+               } ],
+               "date_added": "13148403262338357",
+               "date_modified": "13148403262338357",
+               "id": "129",
+               "meta_info": {
+                  "stars.id": "ssf_bd326823558674da",
+                  "stars.version": "sync.server.Chrome39"
+               },
+               "name": "Facebook",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "date_added": "13070185679651000",
+               "id": "130",
+               "meta_info": {
+                  "stars.id": "ssc_5728c9740262aa02",
+                  "stars.imageData": "Cg55ajByU0FELTZZd0lCTRJpCmJodHRwOi8vZmFjZXN0b2NrLnZuL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzEyLzEyLWt5LW5hbmctbWVtLWNhbi10aGlldC1jaG8tZG9hbmgtbmhhbi0zMDB4MTU5LmpwZxDwARh/GmIKW2h0dHA6Ly90Mi5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjVGpEODAzUzd6a2wyck5GMERsdUpLQ0Z3MEI5LXJrNEQtckRZSmVOR2VYTkZmd196RkkQ8AEYfyIPCAEQ8AEYf0IGEgSAAAAAKOHVx4Pojc0C",
+                  "stars.pageData": "EtQBxJDDoG8gdOG6oW8gS+G7uSBuxINuZyBsw6BtIHZp4buHYyBuaMOzbSAoVGVhbSB3b3JrcykgY2hvIHNpbmggdmnDqm4gJiBuZ8aw4budaSDEkWkgbMOgbTogSOG7jWMgdHLhu7FjIHR1eeG6v24gMTAwJSB24bubaSBoxrDhu5tuZyBk4bqrbiBj4bulIHRo4buDLCBjaGkgdGnhur90ICYgw6FwIGThu6VuZyDEkcaw4bujYyBuZ2F5LiAxMDAlIGPhuqVwIGNo4bupbmcgY2jhu4kiDkVyMGotUVBETTRvQkRN",
+                  "stars.type": "2",
+                  "stars.version": "sync.server.Chrome46"
+               },
+               "name": "Cổng đào tạo trực tuyến Kỹ năng cho người đi làm | Facestock Kỹ năng làm việc nhóm ( Team works) cho sinh viên & người đi làm",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://facestock.vn/ky-nang/ky-nang-lam-viec-nhom/"
+            }, {
+               "children": [ {
+                  "date_added": "13148271881747550",
+                  "id": "132",
+                  "meta_info": {
+                     "last_visited_desktop": "13149394329841693"
+                  },
+                  "name": "VnStyle | Trello",
+                  "sync_transaction_version": "6",
+                  "type": "url",
+                  "url": "https://trello.com/b/rOUZWOMT/vnstyle"
+               } ],
+               "date_added": "13148403262338509",
+               "date_modified": "13148403262338510",
+               "id": "131",
+               "name": "VnstyleTattoo",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            } ],
+            "date_added": "13148403262321843",
+            "date_modified": "13148403262321843",
+            "id": "12",
+            "name": "Working",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13002010814519582",
+               "id": "84",
+               "name": "The Builder - Multipurpose WordPress Theme Preview - ThemeForest",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://themeforest.net/item/the-builder-multipurpose-wordpress-theme/full_screen_preview/2005416"
+            }, {
+               "date_added": "13115679748781874",
+               "id": "85",
+               "name": "Live preview for WordPress theme Arpegio Woocommerce",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://tokokoo.com/preview/arpegio-woocommerce/?skin=black"
+            }, {
+               "date_added": "13003475274449583",
+               "id": "86",
+               "name": "DataTables - Styling - ThemeForest Themes",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.datatables.net/styling/themeforest"
+            }, {
+               "date_added": "13003476042418934",
+               "id": "87",
+               "name": "Bingo Admin - All Purpose Responsive Admin Template",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.lab.westilian.com/bingo/01/blue/form-elements.html"
+            }, {
+               "date_added": "13003758597536494",
+               "id": "88",
+               "meta_info": {
+                  "stars.id": "ssc_b6a7fa589f6fd095",
+                  "stars.imageData": "Cg5BYTF4cUNzeTRhUzZrTRJ7CnNodHRwczovL2QyZHN4bjZob3Jmank1LmNsb3VkZnJvbnQubmV0L3ZpZGVvcy9zYXVjZWxhYnNfaW50ZWdyYXRpb24vaW5kZXguZmlsZXMvaHRtbDV2aWRlby9zYXVjZWxhYnNfaW50ZWdyYXRpb24uanBnEP4JGK4HGmMKW2h0dHA6Ly90MS5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjUk44dkxlU2NZVVNxWk0yUU1ZQS1ZYWxpU0tEdzIzYWI5SWNSbnNIVjZsV0ZPNkxTOEkQhgIYwQEiHwgBEIYCGMEBIKREQgYSBAAhf6BKCmltYWdlL2pwZWc=",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig4wVlBDbDkzSndFQU9UTQ=="
+               },
+               "name": "Cloud9 IDE | Online IDE – Your code anywhere, anytime",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://c9.io/"
+            }, {
+               "date_added": "13006769684768049",
+               "id": "89",
+               "name": "Smashing HTML5!",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://media.smashingmagazine.com/wp-content/uploads/images/smashing-html5/files/index.html"
+            }, {
+               "date_added": "13006769708263049",
+               "id": "90",
+               "name": "Coding An HTML 5 Layout From Scratch | Smashing Coding",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/"
+            }, {
+               "date_added": "13007032992061043",
+               "id": "91",
+               "meta_info": {
+                  "stars.id": "ssc_dece9355f4a84c1a",
+                  "stars.isSynced": "true"
+               },
+               "name": "Fred Nerby on Behance",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.behance.net/nerby"
+            }, {
+               "date_added": "13007036665545162",
+               "id": "92",
+               "name": "Anatomy of a Mobile-First Responsive Web Design",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://bradfrostweb.com/blog/mobile/anatomy-of-a-mobile-first-responsive-web-design/"
+            }, {
+               "date_added": "13007114937859929",
+               "id": "93",
+               "name": "About us - 2012 - Responsive HTML Template - ClaPat Studio",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://clapat.ro/themes/2012/www-green/about.html"
+            }, {
+               "date_added": "13007115888553444",
+               "id": "94",
+               "name": "Corporate layout | OneTouch",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://theme.crumina.net/onetouch/corporate-layout/"
+            }, {
+               "date_added": "13007118457949808",
+               "id": "95",
+               "name": "Wedding Cakes",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://demo.ninebit.me/pinshop_cake/index.php?route=product/category&path=60"
+            }, {
+               "date_added": "13007123306155536",
+               "id": "96",
+               "name": "Home page",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://mg.any-themes.com/magento/"
+            }, {
+               "date_added": "13007488927307102",
+               "id": "97",
+               "meta_info": {
+                  "stars.id": "ssc_25c6308f50acafaf",
+                  "stars.isSynced": "true"
+               },
+               "name": "Web Design projects on Behance",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.behance.net/search?field=102"
+            }, {
+               "date_added": "13007552230362985",
+               "id": "98",
+               "name": "E-Commerce - WrapBootstrap: Themes for Twitter Bootstrap",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://wrapbootstrap.com/themes/e-commerce"
+            }, {
+               "date_added": "13008324896606058",
+               "id": "99",
+               "name": "Vexillum Classic",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://quitzon-white-and-farrell4887.myshopify.com/"
+            }, {
+               "date_added": "13008333218972621",
+               "id": "100",
+               "name": "MAGEN SHOP",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://wbpreview.com/previews/WB0R3R06X/product_detail.html"
+            }, {
+               "date_added": "13008353098200363",
+               "id": "101",
+               "name": "Sartana - Responsive Portfolio Template",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://themepixels.com/main/themes/demo/webpage/sartana/index.html"
+            }, {
+               "date_added": "13009655571303919",
+               "id": "102",
+               "meta_info": {
+                  "stars.id": "ssc_3c002240edd7eadb",
+                  "stars.version": "sync.server.Chrome46"
+               },
+               "name": "",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://hinashop.com/"
+            }, {
+               "date_added": "13010400793332332",
+               "id": "103",
+               "name": "Welcome to Ehosting",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://imediapixel.com/templates/myhosting/"
+            }, {
+               "date_added": "13039509318139874",
+               "id": "104",
+               "meta_info": {
+                  "last_visited_desktop": "13134499419108299"
+               },
+               "name": "Responsive website template for education",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://themes.3rdwavemedia.com/college-green/team.html"
+            }, {
+               "date_added": "13039509349103066",
+               "id": "105",
+               "meta_info": {
+                  "last_visited_desktop": "13135780196942648"
+               },
+               "name": "BootListings - A Bootstrap Classifieds template",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://templates.expresspixel.com/bootlistings/"
+            }, {
+               "date_added": "13049733364874949",
+               "id": "106",
+               "name": "Bracket Responsive Bootstrap3 Admin",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://themepixels.com/demo/webpage/bracket/form-wizards.html"
+            }, {
+               "date_added": "13049733916949336",
+               "id": "107",
+               "name": "TechDesk | Retina Responsive Knowledge Base Theme",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://wp.color-theme.com/techdesk/"
+            }, {
+               "date_added": "13050658163008356",
+               "id": "108",
+               "name": "GoodUI",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.goodui.org/index_v6.html"
+            }, {
+               "date_added": "13054441733412512",
+               "id": "109",
+               "name": "Bootswatch: Yeti",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://bootswatch.com/yeti/#"
+            }, {
+               "date_added": "13054585271208172",
+               "id": "110",
+               "name": "Roxie",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://roxie.pixelized.cz/"
+            }, {
+               "date_added": "13056272224052607",
+               "id": "111",
+               "name": "Kedavra - Multipurpose HTML5 Template",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://the8guild.com/themes/html/kedavra/"
+            }, {
+               "children": [ {
+                  "date_added": "13069317128213356",
+                  "id": "118",
+                  "meta_info": {
+                     "stars.id": "ssc_92e170163194879c",
+                     "stars.version": "sync.server.Chrome40"
+                  },
+                  "name": "Paperclip - Portfolio Item",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://simpleqode.com/preview/paperclip/1.2.0/portfolio-item.html"
+               }, {
+                  "date_added": "13078111554720000",
+                  "id": "119",
+                  "meta_info": {
+                     "stars.id": "c_1hv0ialr0tiz",
+                     "stars.note": "",
+                     "stars.pageData": "ErQBTG9nZ2VkIGluIGFzIDogQWRtaW4gYWRtaW4gRW5nbGlzaCBWaXNpdCBTaXRlIERhc2hib2FyZCBUaGVtZXMgQ2xhc3NpZmllZCBDYXRlZ29yeSBQcm9maWxlIFBhY2thZ2VzIFVzZXJzIFdpZGdldHMgVXBsb2FkIEJsb2cvTmV3cy9BcnRpY2xlIFBhZ2VzICYgTWVudSBTeXN0ZW0gQWRtaW4gUGFuZWwgRGFzaGJvYXJkIg5SeU12YjlTeEtuMldnTQ==",
+                     "stars.type": "2",
+                     "stars.version": "sync.server.Clank39"
+                  },
+                  "name": "Whiz Classified | Dashboard",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://whiz.dbcinfotech.net/index.php/admin"
+               }, {
+                  "date_added": "13085747261163510",
+                  "id": "120",
+                  "meta_info": {
+                     "stars.flags": "5",
+                     "stars.id": "ssc_06c4fb88d91fb7a9",
+                     "stars.version": "sync.server.Chrome47"
+                  },
+                  "name": "Kibana 4 Tutorial – Part 3: Visualize » Tim Roes",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.timroes.de/2015/02/07/kibana-4-tutorial-part-3-visualize/"
+               }, {
+                  "date_added": "13096014892696470",
+                  "id": "121",
+                  "name": "Socialike 2 | Just another WordPress site",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://themes.iki-bir.com/socialike2/"
+               }, {
+                  "date_added": "13096019113921448",
+                  "id": "122",
+                  "name": "Serpent » Responsive Social Network Theme",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://demo.cosmothemes.com/serpent/page/2/?fp_type=news#"
+               }, {
+                  "date_added": "13096032833647864",
+                  "id": "123",
+                  "name": "restart",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.rabbitmq.com/ha.html"
+               }, {
+                  "date_added": "13119597850487433",
+                  "id": "124",
+                  "name": "Layouts - Form components - PixelAdmin",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://infinite-woodland-5276.herokuapp.com/forms-layouts.html"
+               }, {
+                  "date_added": "13119966561558161",
+                  "id": "125",
+                  "name": "sql server - How to deliberately cause a deadlock? - Stack Overflow",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://stackoverflow.com/questions/7813321/how-to-deliberately-cause-a-deadlock"
+               } ],
+               "date_added": "13148403262336758",
+               "date_modified": "13148403262336758",
+               "id": "112",
+               "meta_info": {
+                  "stars.id": "ssf_859fc421eb5b12fd",
+                  "stars.version": "sync.server.Chrome40"
+               },
+               "name": "ken",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "date_added": "13077933693627000",
+               "id": "113",
+               "meta_info": {
+                  "stars.id": "c_hj7biait4n13",
+                  "stars.note": "",
+                  "stars.pageData": "EhxzaW1wbGUgYW5kIHJlc3BvbnNpdmUgdGFibGVzIg5Ia3pycXNwWHJEZVRoTQ==",
+                  "stars.type": "2",
+                  "stars.version": "sync.server.Clank39"
+               },
+               "name": "Simple Tables",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://beyondadmin-v1.4.s3-website-us-east-1.amazonaws.com/tables-simple.html"
+            }, {
+               "date_added": "13085293122762649",
+               "id": "114",
+               "meta_info": {
+                  "stars.flags": "5",
+                  "stars.id": "ssc_6e45513fa482deb9",
+                  "stars.version": "sync.server.Chrome46"
+               },
+               "name": "WP Pro Automotive",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://wp.contempographicdesign.com/wp_automotive/"
+            }, {
+               "date_added": "13119170422045257",
+               "id": "115",
+               "name": "Mega - Responsive Hotel Template",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://demo.cantothemes.com/html/mega/v1.1/fullwidth/index.html"
+            }, {
+               "date_added": "13122471528601812",
+               "id": "116",
+               "meta_info": {
+                  "last_visited_desktop": "13133447998737542"
+               },
+               "name": "Thanx",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://html.templines.com/thanx/contact.html"
+            }, {
+               "date_added": "13122472111993111",
+               "id": "117",
+               "name": "Newsroom - Multi Purpose Blog Template",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://zedthemes.com/demo/newsroom/demo1/index-classic-list-sidebar.html"
+            } ],
+            "date_added": "13148403262322164",
+            "date_modified": "13148403262322164",
+            "id": "13",
+            "name": "Layouts",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13002011110194369",
+               "id": "65",
+               "name": "DiKube | Welcome",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://dikube.com/service_web.php?action=tab_WebCMS"
+            }, {
+               "date_added": "13034721690316906",
+               "id": "66",
+               "meta_info": {
+                  "last_visited_desktop": "13139592033057665"
+               },
+               "name": "E-commerce layout design tutorials , Free Icons , Templates and Others . | ExtraTuts",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.extratuts.com/e-commerce-layout-design-tutorials-free-icons-templates-and-others"
+            }, {
+               "date_added": "13002018070348016",
+               "id": "67",
+               "meta_info": {
+                  "stars.id": "ssc_51a5ef563c166d86",
+                  "stars.version": "sync.server.Chrome46"
+               },
+               "name": "http://www.google.com.vn/url?sa=t&rct=j&q=javascript%20vs%20c%23%20windows%208&source=web&cd=4&ved=0CEUQFjAD&url=http%3A%2F%2Fsocial.msdn.microsoft.com%2FForums%2Fen-US%2Fwinappsuidesign%2Fthread%2Feed51fae-8a2c-46ab-bf1c-1d7e865abe33%2F&ei=gHPqUKHSBsmBkQ",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.google.com.vn/url?sa=t&rct=j&q=javascript%20vs%20c%23%20windows%208&source=web&cd=4&ved=0CEUQFjAD&url=http%3A%2F%2Fsocial.msdn.microsoft.com%2FForums%2Fen-US%2Fwinappsuidesign%2Fthread%2Feed51fae-8a2c-46ab-bf1c-1d7e865abe33%2F&ei=gHPqUKHSBsmBkQX0hID4Bw&usg=AFQjCNHlXPt_pbZ7TlAtWfxbRldUB2kx4w&bvm=bv.1355534169,d.dGI&cad=rja"
+            }, {
+               "date_added": "13002203846701148",
+               "id": "68",
+               "meta_info": {
+                  "last_visited_desktop": "13134499430587814"
+               },
+               "name": "CMS MVC NOSQL AJAX PRO in C# for Visual Studio 2012",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://code.msdn.microsoft.com/CMS-MVC-NOSQL-AJAX-PRO-3a91bc39"
+            }, {
+               "date_added": "13115679748780585",
+               "id": "69",
+               "name": "Jobst and Juzo Leg Wear, Compression Clothing, Medical Compression Stocking, Plastic Surgery Products - CompressionStore.com",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.compressionstore.com/"
+            }, {
+               "date_added": "13002876071935633",
+               "id": "70",
+               "name": "Customer",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://demo.opencart.com/admin/index.php?route=sale/customer&token=7c37df92d1e60a643b0291310279df57"
+            }, {
+               "date_added": "13002879232297442",
+               "id": "71",
+               "meta_info": {
+                  "last_visited_desktop": "13139592042428543"
+               },
+               "name": "Shopping Cart Features - PHP Shopping Cart Software CS-Cart",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.cs-cart.com/feature-tour.html"
+            }, {
+               "date_added": "13003495717290965",
+               "id": "72",
+               "name": "HelpHTsoft",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://htsoft.vn/phan-mem-quan-ly/index.htm#quytrinhmuahang.htm"
+            }, {
+               "date_added": "13003828630633746",
+               "id": "73",
+               "name": "AWS SDK for Node.js",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://aws.amazon.com/sdkfornodejs/"
+            }, {
+               "date_added": "13007483996551777",
+               "id": "74",
+               "name": "Rakuten.com - Computers, Electronics, Digital Cameras, Books, DVDs, Music, Games, Software, Toys, Sports",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.rakuten.com/"
+            }, {
+               "date_added": "13032341752649482",
+               "id": "75",
+               "meta_info": {
+                  "stars.id": "ssc_34a19ce357b5a4b2",
+                  "stars.imageData": "Cg5GdGctOUdQTmZ4ZzAtTRJtCmVodHRwOi8vbWVkaWEubWVkaWF0ZW1wbGUubmV0ZG5hLWNkbi5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTEvYm9sZG9ucy1mb3VyLWljb25zLXByZXZpZXctb3B0LnBuZxD0AxiFAxpjCltodHRwOi8vdDIuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1RBSWZTbEVjaWN1Z3YyX2dfZmxPU09xNjFMX1FwQk5ROWNRalNZYzh6b2F1dWwzUnpkEP8BGMYBIhAIARD/ARjGAUIGEgSSAX4AKI+78/D4tMUC",
+                  "stars.pageData": "ElRTbWFzaGluZyBNYWdhemluZSwgYW4gb25saW5lIG1hZ2F6aW5lIGZvciBwcm9mZXNzaW9uYWwgd2ViIGRlc2lnbmVycyBhbmQgZGV2ZWxvcGVycy4iDm40QlBDYzZmTjZRcHNN",
+                  "stars.version": "sync.server.Clank39"
+               },
+               "name": "Smashing Magazine — For Professional Web Designers and Developers",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.smashingmagazine.com/#top"
+            }, {
+               "date_added": "13100340711200001",
+               "id": "76",
+               "name": "GitHub - JabbR/JabbR: Collaborative chat done right",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/JabbR/JabbR"
+            }, {
+               "date_added": "13100669778509951",
+               "id": "77",
+               "name": "\"table\" | Tables & Stands for Sale | Classifieds on Oodle Marketplace",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://forsale.oodle.com/tables-stands/?oldq=table&s=date&inbs=1"
+            }, {
+               "children": [ {
+                  "date_added": "13121850999898116",
+                  "id": "79",
+                  "name": "Affordable Spa and Salon Software",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.zenoti.com/pricing.html"
+               }, {
+                  "date_added": "13121851482276592",
+                  "id": "80",
+                  "name": "Products - Neko",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://my.neko.software/Products"
+               }, {
+                  "date_added": "13121851925942457",
+                  "id": "81",
+                  "name": "Best Spa Software | 2016 Reviews of the Most Popular Systems",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.capterra.com/spa-software/"
+               }, {
+                  "date_added": "13121959754015905",
+                  "id": "82",
+                  "name": "Online IT & Software Courses | Udemy",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.udemy.com/courses/it-and-software/all-courses/?price=price-free&lang=en"
+               }, {
+                  "date_added": "13122178281818126",
+                  "id": "83",
+                  "meta_info": {
+                     "last_visited_desktop": "13133162512653828"
+                  },
+                  "name": "Kotha pro",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://demo.shapedtheme.com/kotha-pro-html/left-sidebar.html"
+               } ],
+               "date_added": "13148403262331213",
+               "date_modified": "13148403262331213",
+               "id": "78",
+               "name": "Beaute",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            } ],
+            "date_added": "13148403262322494",
+            "date_modified": "13148403262322494",
+            "id": "14",
+            "name": "reference",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13002953724392980",
+                  "id": "64",
+                  "name": "Hide right icon free download as PNG and ICO formats, VeryIcon.com",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.veryicon.com/icons/business/pretty-office-5/hide-right.html"
+               } ],
+               "date_added": "13148403262328193",
+               "date_modified": "13148403262328193",
+               "id": "48",
+               "name": "Icons",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13051163989590539",
+                  "id": "62",
+                  "meta_info": {
+                     "stars.flags": "6",
+                     "stars.id": "ssc_fa6474ec3704d05c",
+                     "stars.imageData": "Cg5xQjZYdExKMUVmYWNLTRJPCkdodHRwOi8vcGFjaWZpYy5kZW1vLnZpbXAuY29tL2NhY2hlLzY1MDI1ODI0MjU1OTU1MGRlYmQ5ZjYwNDcwNGQxNmZjLmpwZxCsAhioARpjCltodHRwOi8vdDAuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1NnYWt1dEE5aVBkdG1XYkkxT1VWVDNXTmlZNWlVZkVjeTBDMTEzVzExbXdRWmpNOWFrEKwCGKgBIh8IARCsAhioASCfMUIGEgQz4XmLSgppbWFnZS9qcGVn",
+                     "stars.pageData": "Ig5nZ09kdEJBTnhLUExHTQ==",
+                     "stars.version": "sync.server.Chrome44"
+                  },
+                  "name": "Demoframe - ViMP - Video CMS",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.vimp.com/en/web/demoframe.html"
+               }, {
+                  "date_added": "13103952980744141",
+                  "id": "63",
+                  "name": "The Project | Home Commerce 2",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://htmlcoder.me/preview/the_project/v.1.1/template/index-shop-2.html"
+               } ],
+               "date_added": "13148403262328205",
+               "date_modified": "13148403262328205",
+               "id": "49",
+               "name": "phim",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13065931705323759",
+                  "id": "55",
+                  "meta_info": {
+                     "stars.id": "ssc_9e6144c9d1c13e83",
+                     "stars.imageData": "Cg4xSmlOVC1tUkdoU3FVTRKkAQqbAWh0dHA6Ly8wLmdyYXZhdGFyLmNvbS9hdmF0YXIvYTE2MWJjZjY1YjhkNThmYzAwYTg0NGU3NDM0OTc3OGY/cz0zNTAmZD1odHRwJTNBJTJGJTJGMC5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkZhZDUxNjUwM2ExMWNkNWNhNDM1YWNjOWJiNjUyMzUzNiUzRnMlM0QzNTAmcj1HEOEBGOEBGmMKW2h0dHA6Ly90MC5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjUzB2UlRLbms2WUw2U2QtdXB6dzVpOGhZeFFJRXdsdllSYXphMl9wTnBLUXQwS0J0MS0Q4QEY4QEiHwgBEOEBGOEBINIqQgYSBJICev9KCmltYWdlL2pwZWc=",
+                     "stars.pageData": "Ig4tOFZ0dUVybHNYbHQ0TQ==",
+                     "stars.type": "2",
+                     "stars.version": "sync.server.Clank39"
+                  },
+                  "name": "Arwyn – Personal Creative WordPress Blog Theme",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://teothemes.com/wp/arwyn/"
+               }, {
+                  "date_added": "13065932204643078",
+                  "id": "56",
+                  "meta_info": {
+                     "stars.flags": "5",
+                     "stars.id": "ssc_856f4f188040f6ea",
+                     "stars.pageData": "Ig5RSGlYQ05Tbzh5WHdfTQ==",
+                     "stars.type": "2"
+                  },
+                  "name": "Masonry Blog (Sidebar) – Vivacity",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://vivacity.wpengine.com/blog/masonry-blog-sidebar/"
+               }, {
+                  "date_added": "13065933543399000",
+                  "id": "57",
+                  "meta_info": {
+                     "stars.id": "ssc_8f6c80fe4ba289c6",
+                     "stars.imageData": "Cg5USUlLT1FYNWJsSXRFTRJiCltodHRwczovL20xLmJlaGFuY2UubmV0L3JlbmRpdGlvbi9wcm9qZWN0cy85ODk0MzU5L29yaWcvMjRiM2NjMWM1ZTAzODZjZGQ5OTc5MzI4ZmIyYjNhYzkuanBnEKEBGH4aYgpbaHR0cDovL3QwLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NSZFFwTFBFbl9adXl4cmVPWnFic1VJSUlFai10VUwxblZxZk05bU14M09BSTd2YV90VBChARh+Ih4IARChARh+ILYpQgYSBIAAAABKCmltYWdlL2pwZWc=",
+                     "stars.pageData": "Ig5BWlV3dENYYUphc3hVTQ==",
+                     "stars.type": "2",
+                     "stars.version": "sync.server.Clank39"
+                  },
+                  "name": "Behance",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.behance.net/gallery/Facebook-Redesign-Concept/9894359"
+               }, {
+                  "date_added": "13065933578842227",
+                  "id": "58",
+                  "meta_info": {
+                     "stars.flags": "4",
+                     "stars.id": "ssc_5480f5bd2e90c104",
+                     "stars.imageData": "Cg5yalZzTmd4NzljVTd2TRJYClBodHRwOi8vZGVzaWducGluLmNvL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDEzLzA4L21lc3Nlbmdlci1ieS1zcGVuY2VyLWJ1Z3JhaGFtLmpwZxCkARizAhpjCltodHRwOi8vdDIuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1RZRUtDQXA0RkxxaWo1Vm5UVnlZcHNFRWhORUx2NmxBVUJ4LV9CYzJzTDRqazR5VlZOEKQBGLMCIh8IARCkARizAiDSJkIGEgQoGFlDSgppbWFnZS9qcGVn",
+                     "stars.pageData": "EsgBQXJlbuKAmXQgd2UgcGFydCBvZiB0aGlzIG92ZXJ3aGVsbWluZ2x5IGxhcmdlIGNvbW11bml0eSB0aGF0IGlzIGNvbmNlYWxlZCB1bmRlciB0aGUgbmFtZSBvZiBzb2NpYWwgbmV0d29ya3M/IEkgbWF5IGFzc3VtZSB0aGF0IG1ham9yaXR5IG9mIHVzIC0gcmVhbGx5IGFjdGl2ZSB1c2VycyBvZiB0aGUgaW50ZXJuZXQsIGlzIGEgcGFydCBvZiBhdCBsZWEiDll1bC1CU3JKMUdEaVJN",
+                     "stars.type": "2"
+                  },
+                  "name": "Facebook redesigned | The DesignPin Blog",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://designpin.co/facebook-redesigned/"
+               }, {
+                  "date_added": "13065933806803475",
+                  "id": "59",
+                  "meta_info": {
+                     "stars.id": "ssc_9d61bc4b6d446dda",
+                     "stars.version": "sync.server.Chrome39"
+                  },
+                  "name": "new-timeline-2-edited.png (1021×678)",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://jennstrathman.files.wordpress.com/2013/06/new-timeline-2-edited.png"
+               }, {
+                  "date_added": "13065933826856847",
+                  "id": "60",
+                  "meta_info": {
+                     "stars.id": "ssc_84064cf213928ad8",
+                     "stars.imageData": "Cg5NM2djX21FekZEeGFpTRJeClZodHRwOi8vamVubnN0cmF0aG1hbi5maWxlcy53b3JkcHJlc3MuY29tLzIwMTMvMDYvbmV3LXRpbWVsaW5lLTItZWRpdGVkLnBuZz93PTMwMCZoPTE5ORDwARifARpjCltodHRwOi8vdDMuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1NfNFhjdzYyVlNacmhPYlQtcnp5UHlqWW5RT0VST1lxblJ4TFdjdDQyTFI1Z1U5bEQwEPABGJ8BIh8IARDwARifASD/M0IGEgSAAAAASgppbWFnZS9qcGVn",
+                     "stars.pageData": "Ev0BRmFjZWJvb2sgVGltZWxpbmUgdXBkYXRlIEZhY2Vib29rIGlzIHNsb3dseSByb2xsaW5nIG91dCBjaGFuZ2VzIHRvIHlvdXIgbmV3cyBmZWVkLCBidXQgdGhpcyBuZXcgZGVzaWduIG1heSBub3QgbGVhdmUgeW91IGdydW1ibGluZyBsaWtlIGFsbCB0aGUgb3RoZXIgY2hhbmdlcy4gVW5saWtlIHByZXZpb3VzIGRlc2lnbiB1cGRhdGVzLCB0aGlzIGxheW91dCBvbmUgaXMgRmFjZWJvb2sgcm9sbHMgb3V0IG5ldyBkZXNpZ24gZm9yIG5ld3MgZmVlZCIOcGZaX0dqNGg5bUFTck0=",
+                     "stars.type": "2",
+                     "stars.version": "sync.server.Clank39"
+                  },
+                  "name": "Social network | Jenn Strathman",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://jennstrathman.com/tag/social-network/"
+               }, {
+                  "date_added": "13103778798835178",
+                  "id": "61",
+                  "name": "media-player",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.phimmoi.net/styles/vtlai/movie/js/jquery.dcmegamenu.1.3.3.js"
+               } ],
+               "date_added": "13148403262328214",
+               "date_modified": "13148403262328214",
+               "id": "50",
+               "meta_info": {
+                  "stars.id": "ssf_9417d525e8e27e49",
+                  "stars.version": "sync.server.Chrome39"
+               },
+               "name": "rao vat",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "date_added": "13131858535187928",
+               "id": "51",
+               "meta_info": {
+                  "last_visited_desktop": "13131858535188879"
+               },
+               "name": "25 Cool CSS Card UI Examples | Web & Graphic Design | Bashooka",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://bashooka.com/coding/cool-css-card-ui-examples/"
+            }, {
+               "date_added": "13131858597770968",
+               "id": "52",
+               "meta_info": {
+                  "last_visited_desktop": "13131858597771392"
+               },
+               "name": "Example Card Layout using CSS Flex",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://codepen.io/rfalor/pen/eqBdn"
+            }, {
+               "date_added": "13131858604646849",
+               "id": "53",
+               "meta_info": {
+                  "last_visited_desktop": "13132484560276752"
+               },
+               "name": "Cards - Materialize",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://materializecss.com/cards.html"
+            }, {
+               "date_added": "13131878556955192",
+               "id": "54",
+               "meta_info": {
+                  "last_visited_desktop": "13132484557080844"
+               },
+               "name": "Themes - Materialize",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://materializecss.com/themes.html"
+            } ],
+            "date_added": "13148403262322838",
+            "date_modified": "13148403262322839",
+            "id": "15",
+            "name": "Design",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13005416821505497",
+               "id": "37",
+               "meta_info": {
+                  "last_visited_desktop": "13134538984054685"
+               },
+               "name": "Jayesslee",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.jayesslee.com/"
+            }, {
+               "date_added": "13006273454984010",
+               "id": "38",
+               "name": "Xem phim Dragon Ball Z Tập 7 | Phan 7 Server PicasaWeb",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://phim.vnxclub.net/movie/watch/78560/dragon-ball-z.html"
+            }, {
+               "date_added": "13037633737387750",
+               "id": "39",
+               "meta_info": {
+                  "last_visited_desktop": "13136437646113021"
+               },
+               "name": "Samsung | Galaxy Grand 2",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.samsung.com/vn/galaxygrand2/"
+            }, {
+               "date_added": "13058366054793466",
+               "id": "40",
+               "meta_info": {
+                  "stars.id": "ssc_0044bd1a7265e07a",
+                  "stars.imageData": "Cg5faDY1dE1ORW5ESVkzTRI3Ci9odHRwOi8vaS55dGltZy5jb20vdmkvOGYxSDR3em5fRUEvaHFkZWZhdWx0LmpwZxCDAhjCARpjCltodHRwOi8vdDIuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1JhV3R2Z0JvdTJyV0JQeHhwY045UUZ5NzgteFVZcEdDazZKeWdYYUJ1ZGgtUERBdVZHEIMCGMIBIh8IARCDAhjCASDUR0IGEgQAAX19SgppbWFnZS9qcGVn",
+                  "stars.pageData": "EqgBWGVtIGzhuqFpOiBVMTkgSEFHTCBKTUcgdnMgVTIxIE1hbGF5c2lhIC0gVHJ1Y1RpZXBCb25nRGEuY29tIC0gVTIxIFF14buRYyB04bq/IELDoW8gVGhhbmggTmnDqm4gMjAxNCBodHRwOi8vdHJ1Y3RpZXBib25nZGEuY29tL2Z1bGwtbWF0Y2gveGVtLWxhaS11MTktaGFnbC1hcnNlbmFsLWptLi4uIg4xMHdJczBIQmxQSUt6TQ==",
+                  "stars.type": "2",
+                  "stars.version": "sync.server.Clank39"
+               },
+               "name": "U19 HAGL JMG vs U21 Malaysia - TrucTiepBongDa.com - U21 Quốc tế Báo Thanh Niên 2014 - YouTube",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=8f1H4wzn_EA"
+            }, {
+               "date_added": "13059704638064000",
+               "id": "41",
+               "meta_info": {
+                  "stars.id": "ssc_de7baadc86b5c689",
+                  "stars.imageData": "Cg56cHpDT3Z2NnU4cE1sTRI4CjBodHRwOi8vaW1hZ2VzLnZpZXRuYW13b3Jrcy5jb20vaW1nL3RodW1ibmFpbC5wbmcQmgEYmgEaYQpbaHR0cDovL3QyLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NTWnhmTEQzRkZ6bFZQWEFUem9GVGRLWWJ1ZHl6TlQ5S2xMbDcxZTMzRVVfb3hsMTRTWRB7GHsiDggBEHsYe0IGEgSAAgD/KKHh2/zWyMwC",
+                  "stars.pageData": "EtoBVmlldG5hbVdvcmtzIC0gU29mdHdhcmUgRGV2ZWxvcGVycy8gSnVuaW9yIFNvZnR3YXJlIERldmVsb3BlcnMgLSAtIERldmVsb3AgYSBuZXcgcHJvamVjdCB0b2dldGhlciB3aXRoIFJEIHRlYW0gLSBNdXN0IGFibGUgdG8gZXhwbG9yZSBuZXcgdGVjaG5vbG9neSB0byBpbXBsZW1lbnQgdGhlIGZlYXR1cmVzIC0gQWJsZSB0byB3b3JrIHdpdGggYSB0ZWFtIG9yIGluZGl2aWR1YWwgLS4iDk5CaXNWQnEtOGR4ekxN",
+                  "stars.type": "2",
+                  "stars.version": "sync.server.Clank39"
+               },
+               "name": "Việc làm Software Developers/ Junior Software Developers - VietnamWorks",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.vietnamworks.com/software-developers-junior-software-developers-1-515182-jv"
+            }, {
+               "date_added": "13062913449984500",
+               "id": "42",
+               "meta_info": {
+                  "stars.id": "ssc_25860f35204925cd",
+                  "stars.imageData": "Cg5vSGRUUEhLV3dXNUFzTRI/CjdodHRwOi8vaW1hZ2VzNy5hbHBoYWNvZGVycy5jb20vMzMyL3RodW1iLTM1MC0zMzIwNDMuanBnEJgCGK8BGmMKW2h0dHA6Ly90MC5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjVDI2S0xSQUdzWmxSWF9Iak8yejZ5NWt3Mno1eVdQTXp5YjVmTEUtaTU4Z3c5QTRkMWUQmAIYrwEiHwgBEJgCGK8BIJFhQgYSBAABfH1KCmltYWdlL2pwZWc=",
+                  "stars.pageData": "Ig5McmZHVERnb0VCTEF3TQ==",
+                  "stars.type": "2",
+                  "stars.version": "sync.server.Clank39"
+               },
+               "name": "1949 Christmas Wallpapers | Christmas Backgrounds Page 3",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://wall.alphacoders.com/by_sub_category.php?id=152808&name=Christmas+Wallpapers&page=3"
+            }, {
+               "date_added": "13063117508942199",
+               "id": "43",
+               "meta_info": {
+                  "stars.flags": "4",
+                  "stars.id": "ssc_5545264eb3d46ff5",
+                  "stars.imageData": "Cg5aX2pzWU9GOUcyWnhnTRJdClVodHRwOi8vd3d3LnRoZW1lLXN0YXJ6LmNvbS9odG1sL3pvbmVyL2Fzc2V0cy9pbWcvaW5kZXgtZmlsZXMvb3NtLWZpeGVkLW5hdmlnYXRpb24ucG5nEP0BGIkBGmMKW2h0dHA6Ly90My5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjUllQMTlsTUdYNjVDRFd2elB4WHBPeWRtQTRNTG5pc2x0WjNPNWhaczhEcXdhWDE1Nm4Q/QEYiQEiHwgBEP0BGIkBIPUkQgYSBJwEAABKCmltYWdlL2pwZWc=",
+                  "stars.pageData": "Ig40OFVaX09RbHl4clZCTQ==",
+                  "stars.type": "2"
+               },
+               "name": "Zoner",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.theme-starz.com/html/zoner/"
+            }, {
+               "date_added": "13063182525690401",
+               "id": "44",
+               "meta_info": {
+                  "stars.flags": "5",
+                  "stars.id": "ssc_fa5b70ac07a3b1e0",
+                  "stars.version": "sync.server.Chrome39"
+               },
+               "name": "The Google Geocoding API - Google Maps API Web Services — Google Developers",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://developers.google.com/maps/documentation/geocoding/?csw=1#ReverseGeocoding"
+            }, {
+               "date_added": "13063864246536516",
+               "id": "45",
+               "meta_info": {
+                  "stars.flags": "4",
+                  "stars.id": "ssc_26f5fddb01a8319d",
+                  "stars.imageData": "ElcKT3gtcmF3LWltYWdlOi8vLzA1MTU2ZGUzOWU2ZjFmZWEzY2I5NzIwMWRiNmM3YjVjMGViM2Q0N2JkMzdhYTM2YzYxMDRkNDU3MTViNDAxYjUQ+AEYywE=",
+                  "stars.pageData": "Ig5zQmhvVXdhSDBCQU8zTQ==",
+                  "stars.type": "2"
+               },
+               "name": "https://www.facebook.com/groupadmins/tips.pdf/",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.facebook.com/groupadmins/tips.pdf/"
+            }, {
+               "date_added": "13065682190928766",
+               "id": "46",
+               "meta_info": {
+                  "stars.flags": "5",
+                  "stars.id": "ssc_2ec00ffffea41c76",
+                  "stars.version": "sync.server.Chrome39"
+               },
+               "name": "Thể hình cho người gầy khó tăng cơ (phần 3): Tập luyện | webthehinh.com",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.webthehinh.com/the-hinh-cho-nguoi-gay-kho-tang-co-phan-3-tap-luyen/"
+            }, {
+               "date_added": "13065865945292901",
+               "id": "47",
+               "meta_info": {
+                  "stars.flags": "5",
+                  "stars.id": "ssc_c339d92cee9dc17e",
+                  "stars.version": "sync.server.Chrome39"
+               },
+               "name": "Key active win 8.1 vĩnh viễn mọi phiên bản | Phần mềm - Công Nghệ",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://congnghe5giay.com/threads/key-active-win-81-vinh-vien-moi-phien-ban.13763/"
+            } ],
+            "date_added": "13148403262323180",
+            "date_modified": "13148403262323180",
+            "id": "16",
+            "name": "Entertainment",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13013255681074208",
+               "id": "31",
+               "meta_info": {
+                  "last_visited_desktop": "13149071060703203",
+                  "stars.flags": "6",
+                  "stars.id": "ssc_e0effeddcf776a24",
+                  "stars.imageData": "Cg5aLXVVcFcwOTRpbDhXTRJxCmlodHRwOi8vaW1nMi55YW1lLnZuL3lhbWVzaG9wX2NvbS8yMDEzLXNhbnBoYW1tb2kvdGhhbmc0LzAyLTA0L2NoaWV1L2dpYXkta2FpdG9raWQtNDI1KDg0ODgpLmpwZz93aWR0aD01MDAQkwIYtwEaYwpbaHR0cDovL3QzLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NRaS1oSlpvdkRwVnE1U3lTLThtZ0ZvcWtYQmdxQi10TGNlSlgwdjBvTkdTWkMtMzVNQRCTAhi3ASITCAEQkwIYtwEgwyZCBhIEK3F9hQ==",
+                  "stars.pageData": "Ig42OVkyVHUybXRDZUVHTQ==",
+                  "stars.version": "sync.server.Chrome44"
+               },
+               "name": "Giày KaitoKid 8488-03P",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "http://yame.vn/san-pham/giay-kaito-kid/giay-kaitokid-8488-03p"
+            }, {
+               "date_added": "13013256791872653",
+               "id": "32",
+               "meta_info": {
+                  "stars.flags": "6",
+                  "stars.id": "ssc_c0feb21a02b87a5b",
+                  "stars.imageData": "Cg5ZcFl3WEMyRm1yVGwtTRJ3Cm9odHRwOi8vaW1nMi55YW1lLnZuL3lhbWVzaG9wX2NvbS8yMDEzLXNhbnBoYW1tb2kvZ2lheS1uYW0vdGhhbmctMDEvMTAtMDEvZ2lheS1rYWl0b2tpZC00MjUoODQ4OSkyLmpwZz93aWR0aD01MDAQkwIYtwEaYwpbaHR0cDovL3QyLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NUbFUzem1JcnEyOFpUMUpFQndmQkczOGR0OHVzU281WWYzc1I5VTZUaE5YUHJaaUNiWhCTAhi3ASIfCAEQkwIYtwEgrDZCBhIEk6l/AEoKaW1hZ2UvanBlZw==",
+                  "stars.pageData": "Ig5iVEFmOEhTdVV3UlZhTQ==",
+                  "stars.version": "sync.server.Chrome44"
+               },
+               "name": "Giày Kaito Kid 8489-03",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://yame.vn/san-pham/giay-kaito-kid/giay-kaito-kid-8489-03"
+            }, {
+               "date_added": "13054296527561006",
+               "id": "33",
+               "meta_info": {
+                  "stars.id": "ssc_40e29bc1d5941bdf",
+                  "stars.isSynced": "true"
+               },
+               "name": "Bàn ghế xếp mini | Tp Hồ Chí Minh | Chợ Tốt Việt Nam | chotot.vn",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.chotot.vn/tp_ho_chi_minh/dung_cu_chuyen_dung_van_phong_pham/Ban_ghe_xep_mini_9407525.htm#"
+            }, {
+               "date_added": "13054298818400762",
+               "id": "34",
+               "name": "Bộ bàn ghế gỗ cafe | Tp Hồ Chí Minh | Chợ Tốt Việt Nam | chotot.vn",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.chotot.vn/tp_ho_chi_minh/dung_cu_chuyen_dung_van_phong_pham/Bo_ban_ghe_go_cafe_9301373.htm#"
+            }, {
+               "date_added": "13054299277710887",
+               "id": "35",
+               "name": "Bộ bàn ghế gỗ cafe | Tp Hồ Chí Minh | Chợ Tốt Việt Nam | chotot.vn",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.chotot.vn/tp_ho_chi_minh/dung_cu_chuyen_dung_van_phong_pham/Bo_ban_ghe_go_cafe_9068200.htm#"
+            }, {
+               "date_added": "13054299578235131",
+               "id": "36",
+               "name": "Bàn gỗ ép xếp tiện dụng | Tp Hồ Chí Minh | Chợ Tốt Việt Nam | chotot.vn",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.chotot.vn/tp_ho_chi_minh/do_gia_dung_san_vuon/Ban_go_ep_xep_tien_dung_8722943.htm#"
+            } ],
+            "date_added": "13148403262323550",
+            "date_modified": "13149345535755872",
+            "id": "17",
+            "name": "Shopping",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13094545319074376",
+               "id": "30",
+               "name": "5 bài học quan trọng nhà khởi nghiệp cần biết | Quản trị | CafeBiz",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://cafebiz.vn/quan-tri/5-bai-hoc-quan-trong-nha-khoi-nghiep-can-biet-20151214081440853.chn"
+            } ],
+            "date_added": "13148403262323911",
+            "date_modified": "13148403262323911",
+            "id": "18",
+            "name": "News",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13119370404080988",
+               "id": "29",
+               "name": "Chương 01: Đó là nơi buồn tẻ nhất thế giới - P1 | Gác Sách - Đọc sách truyện trực tuyến, thư viện online",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://gacsach.com/doc-online/36972/chuong-01-do-la-noi-buon-te-nhat-the-gioi-p1.html"
+            } ],
+            "date_added": "13148403262324277",
+            "date_modified": "13148403262324277",
+            "id": "19",
+            "name": "Books",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13132293924944929",
+               "id": "28",
+               "meta_info": {
+                  "last_visited_desktop": "13132294344319455"
+               },
+               "name": "BOW101-Kiến thức nhiếp ảnh- Lớp Nhiếp ảnh",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://bow101.com/"
+            } ],
+            "date_added": "13148403262324864",
+            "date_modified": "13148403262324865",
+            "id": "20",
+            "name": "Photograph",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13133888287017210",
+               "id": "27",
+               "meta_info": {
+                  "last_visited_desktop": "13149056136607569"
+               },
+               "name": "Big Love - Chicken & Fox ft. KraziNoyze [Official MV] - YouTube",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=L3H7_B10kl8&index=1&list=RDL3H7_B10kl8"
+            } ],
+            "date_added": "13148403262324879",
+            "date_modified": "13148403262324879",
+            "id": "21",
+            "name": "Music",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13142845279326979",
+               "id": "23",
+               "meta_info": {
+                  "last_visited_desktop": "13144949635890953"
+               },
+               "name": "Tuyển Sinh viên thực tập PHP, JAVA, IOS, ANDROID, FRONT-END, RUBY ON RAILS - CN Công Ty CP GMO Z.com Runsystem HCM - ID: 1000600",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://mywork.com.vn/tuyen-dung/viec-lam/1000600/sinh-vien-thuc-tap-php-java-ios-android-frontend-ruby-on-rails.html"
+            }, {
+               "date_added": "13142845438781410",
+               "id": "24",
+               "meta_info": {
+                  "last_visited_desktop": "13143120062948490"
+               },
+               "name": "Tuyển Thực tập / Partime Jobs - Fly Chicken - ID: 1010571",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://mywork.com.vn/tuyen-dung/viec-lam/1010571/thuc-tap--partime-jobs.html"
+            }, {
+               "date_added": "13143120544165865",
+               "id": "25",
+               "meta_info": {
+                  "last_visited_desktop": "13143122446080428"
+               },
+               "name": "Tìm Việc Làm Thực Tập Sinh IT Marketing Online Tuyển Dụng Lương Cao - 3773990",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.timviecnhanh.com/tuyen-thuc-tap-sinh-it-marketing-online-ho-chi-minh-3773990.html"
+            }, {
+               "date_added": "13143266201154894",
+               "id": "26",
+               "meta_info": {
+                  "last_visited_desktop": "13143266201156166"
+               },
+               "name": "Download BlueStacks Offline Installer",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.bluestacks.com/download.html?utm_campaign=mu-ap-vn"
+            } ],
+            "date_added": "13148403262324888",
+            "date_modified": "13148403262324888",
+            "id": "22",
+            "name": "Tuyển việc",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         } ],
+         "date_added": "13148403220516475",
+         "date_modified": "13076735799331000",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13148403220516484",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "6",
+      "synced": {
+         "children": [  ],
+         "date_added": "13148403220516486",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

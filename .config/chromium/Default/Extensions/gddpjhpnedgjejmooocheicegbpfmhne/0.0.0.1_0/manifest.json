@@ -1,0 +1,16 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://login.bigwebapps.com/"
+      },
+      "urls": [ "http://helpdesk.bigwebapps.com/" ]
+   },
+   "description": "A powerful, web-based HelpDesk system.",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQChu/rVvuF5X3L7FU/QG3L/uZw0ZdRmswT24syMhLZwmfMAt0YLNr+kqdG3rwvXluFmPxQI12+YwGDho75vLrRjPi/8qfNvmx0jAKsGADixDN5MvgyyPXR35rMorsQ28olndLDP3Q6yTvhcUn12agw8CZUqtX5zXp7F+XvV0oYRNwIDAQAB",
+   "name": "HelpDesk",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "0.0.0.1"
+}

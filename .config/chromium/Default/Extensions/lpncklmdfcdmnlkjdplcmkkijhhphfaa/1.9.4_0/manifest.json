@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://www.getbase.com/?utm_source=chrome&utm_medium=app_button&utm_campaign=chrome"
+      },
+      "urls": [ "https://www.getbase.com/" ]
+   },
+   "description": "The Sales and CRM Software your team will actually use.",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDMMP2WYDmwRvSiYv4gVFCT1IYnQwyNSdWmF8k49uM2YwTY3g7/ofGMRrlCJq6SiLLHNpuFIXi0aVIDqQJ+peXCtTcV2IpyuT0+ct3ECh1nrhLg59i2MBc5UUHK4bNku7J3suknVGBo0XZ91R5Zq+DTmoDHpLcylF4aoLrl9NsuOQIDAQAB",
+   "manifest_version": 2,
+   "name": "Base CRM and Sales Tracking",
+   "short_name": "Base",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.9.4"
+}

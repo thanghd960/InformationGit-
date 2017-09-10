@@ -1,0 +1,20 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.omgubuntu.co.uk/"
+      },
+      "urls": [ "http://www.omgubuntu.co.uk/" ]
+   },
+   "description": "Ubuntu Linux News, Apps & Reviews. Updated Daily.",
+   "icons": {
+      "128": "icon_128.png",
+      "16": "icon_16.png",
+      "512": "icon_512.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDZ+aldxT/ER/FUmIbTE3lY2O2BBJu4eyar90h7IyA8CI6LcNxNtrnovk6a/8gE3Dy2PSm96r7Kq6ZVkpK+zXxWQ9Sjc7/0ePRu+/yQsK8ZIOltDv6dAr00oFw9LEn5jmRjR0WoRcvuymCkzZfiV9hK48T8SJbdYgItedS7nGrkJwIDAQAB",
+   "manifest_version": 2,
+   "name": "OMG! Ubuntu!",
+   "short_name": "OMG!Ubuntu!",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.7"
+}

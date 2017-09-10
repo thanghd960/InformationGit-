@@ -1,0 +1,21 @@
+{
+   "app": {
+      "icon_color": "#4C374A",
+      "launch": {
+         "web_url": "https://stsdotnet.slack.com/messages/general/"
+      },
+      "linked_icons": [  ]
+   },
+   "description": "",
+   "icons": {
+      "128": "icons/128.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "Q+lojE/B7NWfQLtrI3JnC5I7lQlirghUNNciRbwzmcQ=",
+   "name": "general | STS .net Slack",
+   "version": "2017.8.28.38883"
+}

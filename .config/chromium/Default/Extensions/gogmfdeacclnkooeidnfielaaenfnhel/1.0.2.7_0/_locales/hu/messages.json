@@ -1,0 +1,8 @@
+{
+   "ext_description": {
+      "message": "Add, kezelni és nyomon követni a napi teendők. Add a feladatokat, és törölje őket közvetlenül a listán."
+   },
+   "ext_name": {
+      "message": "Todo List App"
+   }
+}

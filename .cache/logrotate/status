@@ -1,0 +1,21 @@
+logrotate state -- version 2
+"/home/thangpc/.cache/upstart/at-spi2-registryd.log" 2017-9-8-20:39:18
+"/home/thangpc/.cache/upstart/gpg-agent.log" 2017-9-10-17:55:32
+"/home/thangpc/.cache/upstart/unity-settings-daemon.log" 2017-9-10-17:55:32
+"/home/thangpc/.cache/upstart/indicator-keyboard.log" 2017-9-6-13:42:7
+"/home/thangpc/.cache/upstart/indicator-session.log" 2017-8-27-14:16:38
+"/home/thangpc/.cache/upstart/update-notifier-crash-_var_crash__usr_bin_unity-scope-loader.1000.crash.log" 2017-9-6-13:42:7
+"/home/thangpc/.cache/upstart/window-stack-bridge.log" 2017-9-10-17:55:32
+"/home/thangpc/.cache/upstart/update-notifier-release.log" 2017-9-10-17:55:32
+"/home/thangpc/.cache/upstart/gnome-keyring-ssh.log" 2017-9-10-17:55:32
+"/home/thangpc/.cache/upstart/upstart-event-bridge.log" 2017-9-10-17:55:32
+"/home/thangpc/.cache/upstart/hud.log" 2017-9-10-17:55:32
+"/home/thangpc/.cache/upstart/indicator-printers.log" 2017-9-7-11:7:19
+"/home/thangpc/.cache/upstart/bamfdaemon.log" 2017-9-10-17:55:32
+"/home/thangpc/.cache/upstart/unity-panel-service-lockscreen.log" 2017-9-8-18:10:34
+"/home/thangpc/.cache/upstart/ssh-agent.log" 2017-9-10-17:55:32
+"/home/thangpc/.cache/upstart/indicator-sound.log" 2017-9-10-17:55:32
+"/home/thangpc/.cache/upstart/dbus.log" 2017-9-10-17:55:32
+"/home/thangpc/.cache/upstart/indicator-datetime.log" 2017-9-10-17:0:0
+"/home/thangpc/.cache/upstart/unity-panel-service.log" 2017-9-10-17:55:32
+"/home/thangpc/.cache/upstart/unity7.log" 2017-9-10-17:55:32

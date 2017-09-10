@@ -1,0 +1,23 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://vocabla.com/?utm_source=chrome_hosted_app&utm_medium=chrome_web_store&utm_campaign=chrome_hosted_app"
+      },
+      "urls": [ "https://vocabla.com/", "http://vocabla.com/" ]
+   },
+   "background": {
+      "page": "https://vocabla.com/background_page.html"
+   },
+   "default_locale": "en",
+   "description": "__MSG_application_description__",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDQFzTDJemxeb8OKG9XeNzTL8/vnqDqe+tOVOzQQGHHEHL4v12mUyCqSmkjFar6J+84d/Oldae30f+2brwgBS4HbV+Y3CR2CiwMRiEsrRICKw4GcfniNiPLM/Li2fZyMHms9ZpsHkPevWM7Vt1R97+W4Ek1+bPCsSQuT1xz55v6/wIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_application_title__",
+   "permissions": [ "notifications", "background" ],
+   "short_name": "Vocabla",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.4"
+}

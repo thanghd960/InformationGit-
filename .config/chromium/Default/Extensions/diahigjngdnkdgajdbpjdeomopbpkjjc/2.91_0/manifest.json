@@ -1,0 +1,51 @@
+{
+   "background_page": "background.html",
+   "browser_action": {
+      "default_icon": "icon48.png",
+      "default_title": "SEO Site Tools",
+      "popup": "popup.html"
+   },
+   "content_scripts": [ {
+      "css": [ "pagei.css" ],
+      "js": [ "pullPageInfo.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   }, {
+      "js": [ "prototype.js", "parseuri.js", "wmtkeywords.js" ],
+      "matches": [ "https://www.google.com/webmasters/tools/keywords*" ]
+   }, {
+      "js": [ "prototype.js", "parseuri.js", "gwebtools.js" ],
+      "matches": [ "https://www.google.com/webmasters/tools/external-links-details*" ]
+   }, {
+      "js": [ "prototype.js", "parseuri.js", "egserp.js" ],
+      "matches": [ "http://www.google.com/search?*", "http://www.google.fr/search?*", "http://www.google.ro/search?*", "http://www.google.co.uk/search?*", "http://www.google.it/search?*", "http://www.google.ru/search?*" ]
+   }, {
+      "js": [ "prototype.js", "parseuri.js", "mainpws.js" ],
+      "matches": [ "http://www.google.com/", "http://www.google.fr/", "http://www.google.ro/", "http://www.google.co.uk/", "http://www.google.it/", "http://www.google.ru/" ]
+   }, {
+      "js": [ "prototype.js", "parseuri.js", "gwtsqil.js" ],
+      "matches": [ "https://www.google.com/webmasters/tools/top-search-queries*" ]
+   }, {
+      "js": [ "prototype.js", "parseuri.js", "ebserp.js" ],
+      "matches": [ "http://www.bing.com/search?*" ]
+   }, {
+      "js": [ "prototype.js", "parseuri.js", "eyserp.js" ],
+      "matches": [ "http://search.yahoo.com/search*" ]
+   }, {
+      "js": [ "prototype.js", "parseuri.js", "ega.js" ],
+      "matches": [ "https://www.google.com/analytics/reporting/content_detail*" ]
+   }, {
+      "js": [ "prototype.js", "parseuri.js", "ysexp.js" ],
+      "matches": [ "https://siteexplorer.search.yahoo.com/search*", "http://siteexplorer.search.yahoo.com/search*" ]
+   } ],
+   "description": "On-Page / External metrics, Social Media info, PR / numbering on Yahoo, Bing, Google SERPs.Extends WMT, YSE and GA with metrics",
+   "icons": {
+      "128": "icon.png",
+      "48": "icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDLItPQjns1tdY4zA5qOdTPODP9zatM1m+W8hgUOeIGJFyFXXieoF/yRMeEobr2jQE2Twci+uN3g3/ehCQWt7z260u52NhhAgwebPTC2fJci7jxl6q3NL0/XOMzw6vTp79keIQReU0g/oE74SiGXMlHRWqH/lhjtbU2Klx0MifbywIDAQAB",
+   "name": "SEO Site Tools",
+   "options_page": "options.html",
+   "permissions": [ "http://*/*", "https://*/*", "tabs" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "2.91"
+}

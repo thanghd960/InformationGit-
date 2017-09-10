@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "DoliCloud is the online service of Dolibarr ERP & CRM Open Source software in the Cloud for SME, freelance or foundations. Enable features you need (customers, prospects, suppliers, proposals, agenda, emailings, ...) and use a personalized solution to manage your business.",
+      "message": "The Open Source software for business. DoliCloud is a SaaS solution for Customer Relationshop Management (CRM)"
+   },
+   "appName": {
+      "description": "Online service of Dolibarr ERP & CRM in the Cloud (customers, prospects, suppliers, proposals, agenda, emailings).",
+      "message": "DoliCloud CRM"
+   }
+}

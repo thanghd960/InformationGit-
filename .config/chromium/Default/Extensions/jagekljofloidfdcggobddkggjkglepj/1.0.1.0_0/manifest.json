@@ -1,0 +1,17 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.247solitaire.com/?chromestore=1"
+      },
+      "urls": [ "http://www.247solitaire.com/?chromestore=1" ]
+   },
+   "description": "Ho! Ho! Ho! Get into the holiday spirit with Christmas Solitaire!",
+   "icons": {
+      "128": "icon.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDTTu8ANk3u0Hm7bqTzlPRWYBbw2Ct1uTmABjf4Rim8y9leCLRUoLMry50y/VAAZYWDUVGl9+JxHTJKonBBE2L2SZ55p6LPJu/0iWlZ0m3eszo4sGKwtITDdz8XBMgivVBh7hE4QDEmjD06r9MmPbeVgBxbVhqeD4tbEH9KX2jynQIDAQAB",
+   "manifest_version": 2,
+   "name": "Christmas Solitaire",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.1.0"
+}

@@ -1,0 +1,2 @@
+
+(process:1653): Indicator-Datetime-WARNING **: static void unity::indicator::datetime::GeoclueTimezone::Impl::on_address_got(GObject*, GAsyncResult*, gpointer) failed: GDBus.Error:org.freedesktop.Geoclue.Error.notAvailable: Geoclue master client has no usable Address providers

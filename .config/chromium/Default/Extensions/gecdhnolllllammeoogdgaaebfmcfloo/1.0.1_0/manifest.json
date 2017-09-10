@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://go.tradegecko.com/"
+      },
+      "urls": [ "*://*.tradegecko.com/" ]
+   },
+   "description": "Inventory and Sales management for smart businesses",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDsDNCcWiX+fO/o+ZEY7iMA4TUxbYdhIwApkcwD936+xJI5FF/x2yJepF8d/fdBkSrHqV48i8ssTLzqoa9+W+IUK7fOFxGsLbC8+XanVgOsTD8AnGd+7/GBN99mvkM+fn3vOmXM4Yvy/ZUJMs6cxcSC605tha+WJ4hd2yTbPULZxQIDAQAB",
+   "manifest_version": 2,
+   "name": "TradeGecko Inventory Management Software",
+   "short_name": "TradeGecko",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.1"
+}

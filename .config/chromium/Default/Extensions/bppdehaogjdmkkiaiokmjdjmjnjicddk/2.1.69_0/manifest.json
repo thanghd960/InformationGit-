@@ -1,0 +1,27 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.cashorganizer.com/chrome"
+      },
+      "urls": [ "http://www.cashorganizer.com/chrome" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "cash_org_128.png",
+      "16": "cash_org_16.png",
+      "256": "cash_org_256.png",
+      "32": "cash_org_32.png",
+      "48": "cash_org_48.png",
+      "512": "cash_org_512.png",
+      "96": "cash_org_96.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCiajCggpL3FPwqR1qLrw+j6YvI4U+XktlLA2UlR9zpHO9ngvp6NdvfzYr30dRAXX1+hq5O56jGnM38QTs8UHR9MPtr5H9yfxIVAWVBpH2sS910mokEtvXtgMl70X7gwlg3Y0H3MYfTQebRmo7MsYQJbDO3VqI0LFmUfzrX9gdICwIDAQAB",
+   "manifest_version": 2,
+   "name": "Cash Organizer",
+   "offline_enabled": true,
+   "permissions": [ "unlimitedStorage", "notifications", "clipboardRead", "clipboardWrite" ],
+   "short_name": "Cash Organizer",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.1.69"
+}

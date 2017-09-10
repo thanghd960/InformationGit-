@@ -1,0 +1,15 @@
+
+<div class="container">
+  <div class="articles-list" *ngFor="let article of articles">
+    <a (click)="goToShow(article)">
+      <div>
+        <strong>{{article.title}}</strong>
+      </div>
+      <p>
+        <small>ArticleID: {{article.id}}</small>
+      </p>
+      <p><small>Last Updated: {{article.updated_at | date:'medium'}}</small></p>
+      <p><small>Description: {{article.description}}</small></p>
+    </a>   
+  </div>
+</div>

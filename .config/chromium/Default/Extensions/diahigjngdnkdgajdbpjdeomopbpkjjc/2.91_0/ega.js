@@ -1,0 +1,7 @@
+function addC(a){a+="";x=a.split(".");x1=x[0];x2=x.length>1?"."+x[1]:"";for(a=/(\d+)(\d{3})/;a.test(x1);)x1=x1.replace(a,"$1,$2");return x1+x2}
+chrome.extension.sendRequest({action:"cEnabled",feat:"ega"},function(a){if(a.enabled==1){parseUri(document.location);$("profile").setStyle({zIndex:80,position:"relative"});var d=$(document.body).down(".site_linker").down("a").href;$(document.body).insert('<img src="http://j.mp/bwrbUx" style="position:absolute;top:-13px;left:233px;z-index:50;">');var c=$(document.body).down("div.report_section").down("div.section_1");chrome.extension.sendRequest({action:"gAdata",url:d},function(b){c.insert("<h2 style='margin:3px;'><img src='http://www.google.com/s2/favicons?domain=www.twitter.com'>&nbsp;Twitter: <a target='_blank' href='http://backtweets.com/search?q="+
+d+"'>"+b.tweets+" Tweets</a></h2>");c.insert("<h2 style='margin:3px;'><img src='http://www.google.com/s2/favicons?domain=www.digg.com'>&nbsp;&nbsp;Digg: "+b.digg+" Diggs</h2>");c.insert("<h2 style='margin:3px;'><img src='http://www.google.com/s2/favicons?domain=del.icio.us'>&nbsp;del.icio.us: "+b.yum+"</h2>");c.insert("<h2 style='margin:3px;'><img src='http://www.google.com/s2/favicons?domain=facebook.com'>&nbsp;Facebook</h2><h4>Shares: "+b.fbook.s+"</h4><h4>Likes: "+b.fbook.l+"</h4><h4>Comments: "+
+b.fbook.c+"</h4>")})}});
+
+if (/trows=10(?!\d)/.test(location.href)) 
+    location.href=location.href.replace("trows=10","trows=100");

@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Google Chrome Extension Example</title>
+    <link rel="stylesheet" type="text/css" href="performance.css" />
+    <style>
+      body {
+        min-width: 475px;
+        overflow-x: hidden;
+      }
+    </style>
+
+    <!--
+      - JavaScript and HTML must be in separate files: see our Content Security
+      - Policy documentation[1] for details and explanation.
+      -
+      - [1]: http://developer.chrome.com/extensions/contentSecurityPolicy.html
+     -->
+    <script src="popup.js"></script>
+    <script src="onload-execute.js"></script>
+    <script src="performance.js"></script>
+    <script src="zepto.js"></script>
+  </head>
+  <body>
+    <span class="header label">Web Performance API Timing</span>
+    <span class="clearfix"></span>
+    <span class="header performance-label">EVENT</span>
+    <span class="header performance-graph">&nbsp;</span>
+    <span class="header performance-time">TIME</span>
+    <span class="clearfix"></span>
+  </body>
+</html>
+

@@ -1,0 +1,13 @@
+{
+   "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+   },
+   "description": "Graphs common performance timing data from your current website using the performance timing API.",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhYJxricBeYt/X4TECFBMvsYXNn3vLy+0MSrewUuTPF1KUoT++HFGyshf1j5nqtflCua43UbRzFCM2zud8SeAyKiGIwQJ1BrisO4ydtZ6/oTkqJjQQ4DDWcrwUvGQeupBElRUclfPnZgfTjnJH15UNzF+JOlgHX2NZdZsy7FTv52HhPa6epwAihLHd/Dn7V9MMEptoGcrpra0SW4lLP+DSXa6o/qeoz2TaH1QD1OUW+Gk4hrJLQmQW6OaL3/WcvZvRTx5reaJPCM4MxM3QAR+26OHckgIyNwtsakyykq1ZjV/J4XBDC9MuGpzL+FMkP4rH/iXWiNcIT0zTRWtkFrKvQIDAQAB",
+   "manifest_version": 2,
+   "name": "Web Performance Timing API",
+   "permissions": [ "tabs", "http://*/*", "https://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}

@@ -1,0 +1,18 @@
+{
+   "content_scripts": [ {
+      "js": [ "js/fav.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "description": "Confuse your friends by replacing the fav icon",
+   "icons": {
+      "128": "icons/icon-128.png",
+      "16": "icons/icon-16.png",
+      "48": "icons/icon-48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDLw73Mrj7uCzn2LnoGYc0VSawNggUZRQcH2HboNyyHAcLj8I6yFHBvI2dCQF5vByovjt2KiZbAuM32pL2qlFM07+/lIpMHF9FdVYyjhGH++sYcMomPrYlvxLqYlGPA5nvcXZRlNhhL3yFA3v3NBT1/hrPBqcqHo9VrA5KvoYlOewIDAQAB",
+   "manifest_version": 2,
+   "name": "Replace Favicon",
+   "permissions": [ "http://*/*", "https://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.1"
+}

@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "DoliCloud es el servício en línea en la Nube de Dolibarr ERP & CRM, El software de código abierto de simple uso para para gestionar su actividad. Active las funcionalidades a su elección (facturas, presupuestos, pedidos, tesorería, productos, stocks, agenda, cuentas bancarias, proveedores, asociaciones, etc.) y disfrute de una solución personalizada para su gestión.",
+      "message": "La solución de simple uso para para sus negocios."
+   },
+   "appName": {
+      "description": "Servicio en línea en la Nube de la suite Dolibarr ERP & CRM (facturas, presupuestos, pedidos, tesorería, productos, stocks, agenda, proveedores, etc.).",
+      "message": "DoliCloud CRM"
+   }
+}

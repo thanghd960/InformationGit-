@@ -1,0 +1,16 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.123contactform.com/index.php?p=googleaccount"
+      },
+      "urls": [ "http://www.123contactform.com/" ]
+   },
+   "description": "Create any contact form, event registration form, online survey and order form as easy as 1-2-3. No technical experience required.",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCs0+mQSxi9VzvqU6PaGOeUyrapjRVve8ZCDFoZbHL6M1aILB1FEzcxPs+2pntbppbq95W9lsNG2cCS2qH2xA6BYCpMfAZPhnKFVY0/TYok9KdlZSZs7Jji7vTGu3Vu8muhap1ZsjOLWmGvzlu+pxOUt096sBUGfzaSw4OY1/FXcwIDAQAB",
+   "name": "123ContactForm - Online Form Builder",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "2.1.2.4"
+}

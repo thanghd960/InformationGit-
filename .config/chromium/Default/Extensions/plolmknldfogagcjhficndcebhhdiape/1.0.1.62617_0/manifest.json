@@ -1,0 +1,39 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "icons/128.png",
+         "16": "icons/16.png",
+         "32": "icons/32.png",
+         "48": "icons/48.png"
+      },
+      "default_title": "Fox Convertor"
+   },
+   "chrome_url_overrides": {
+      "newtab": "newtab/index.html"
+   },
+   "content_scripts": [ {
+      "js": [ "content.js" ],
+      "matches": [ "*://*.fileconvertor.org/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src https://*.srchweb.org 'self'; object-src 'self';",
+   "description": "Convert DOC to PDF and PDF to DOC using Fox Convertor New tab",
+   "icons": {
+      "128": "icons/128.png",
+      "16": "icons/16.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqTtjwmUo1DPqsYMODpZ1R+370TvPDT1R8UKP84+IxBMBsvJukU9r0FcIRh0CiZ3tuQRVD2WUzDP1ZkXW1s1t3jGxvSxB1J7t5WJC6NDzqP/0KQg2ftJGT/eNyC2Bqx8/8yvomqP1jYIGjqo70zk3Dgzlqpk2V4Y2UtG0rVaYqyt5j82kzI7vT9ERwzpxl611RU4KhcCz9KpK9sKxv++RpTOkWeJ7+GMlmJCMrmShHpIHV9lz3bvTtZdKn5Dhr7nphrOWugq9Z1Du1crq7diGD5qnbg+M+7I1MZEPMuGXDdYd/UkYxVuZHxwzRPCYLM/kXKivDpDPq4M8eC7bCv1nXQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "32",
+   "name": "Fox Convertor",
+   "permissions": [ "\u003Call_urls>", "cookies", "storage", "tabs" ],
+   "short_name": "foxconvertor",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.1.62617",
+   "web_accessible_resources": [ "/icons/16.png" ]
+}

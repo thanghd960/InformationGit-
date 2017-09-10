@@ -1,0 +1,22 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.dolicloud.com/chromewebstore/dolicloud_crm.php"
+      },
+      "urls": [ "http://www.dolicloud.com/", "https://www.dolicloud.com/" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "appicon_128.png",
+      "16": "appicon_16.png",
+      "256": "appicon_256.png",
+      "64": "appicon_64.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDH6JDP7h9dDL8rcdVhHbisxmsBuAKM21OOZWnWyRxzmSLXhT+ebkeu6Qo8fF9RsQdDBndo85+KsB50VkBmiObj/TIE76azrcpoZ+WTZe0EpO518GpOXfu52VaLFzNBJ1BoNutkhNXgI1j6fpbDT5p1/AJ8bT0iU4qHavpH95NFtQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "unlimitedStorage", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.6.1.0"
+}

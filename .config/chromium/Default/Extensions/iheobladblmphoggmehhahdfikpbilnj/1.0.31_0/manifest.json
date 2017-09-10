@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://scheduler.bookedin.com/?cid=78"
+      },
+      "urls": [ "https://scheduler.bookedin.com/" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "bookedin_logo_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCgBxs0l6x3yaItrrdolchm8kj3D9T1gZebtzrAwcW78rWAU2odU3ycOqyEFxPrQGqGKoyQtRQ633fAXWjKiqDf7kM6PUkzwMaAbrv+5CJVaZnPXjhO94fYn0nsBuXpGYu+ziD42P4oHJ7jdoV5mHJ9W7XFuXD7eGP1tua4DS24jwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "short_name": "BookedIN",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.31"
+}

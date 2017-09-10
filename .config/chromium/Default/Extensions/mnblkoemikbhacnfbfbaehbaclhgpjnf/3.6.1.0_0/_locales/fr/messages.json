@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "DoliCloud est le service en ligne dans le Cloud de Dolibarr ERP & CRM, le logiciel simple et libre pour gérer votre activité (PME, auto-entrepreneurs, associations). Activez les fonctionnalités de votre choix (factures, devis, commandes, trésorerie, produits, stocks, agenda, comptes bancaires, fournisseurs, associations, etc...) et profitez d'une solution personnalisée pour votre gestion.",
+      "message": "La solution simple de gestion de votre business. DoliCloud est un service en ligne gérant la Relation Client (GRC, CRM)."
+   },
+   "appName": {
+      "description": "Service en ligne de la suite Dolibarr ERP & CRM dans le Cloud (clients, prospects, fournisseurs, devis, agenda, emailings...).",
+      "message": "DoliCloud CRM"
+   }
+}

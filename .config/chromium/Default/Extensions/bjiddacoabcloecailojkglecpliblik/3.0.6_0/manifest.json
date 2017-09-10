@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.lessannoyingcrm.com/google/chrome/auth.php"
+      },
+      "urls": [ "*://www.lessannoyingcrm.com/", "*://www.lessannoyingcrm.com/chrome", "*://www.lessannoyingcrm.com/google/chrome/auth.php" ]
+   },
+   "description": "Simple CRM Software for Small Business",
+   "icons": {
+      "128": "128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCfTg/thmAXHHYcfT15jVIWkomtctiAPDO5WFw9SfaHCAz2vexr3nI5HQ72oW739zkviH7wXHsQPGNshz38Sc29A5myGHvbrUwzSg+PSKjjoEFeKL8Y30b1NvFct0olmg2kxV0wFZUPXAKr2N9CpE8/n9+5DMHcZNgvUP5BA8EZ4QIDAQAB",
+   "manifest_version": 2,
+   "name": "Less Annoying CRM",
+   "permissions": [  ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0.6"
+}

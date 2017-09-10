@@ -1,0 +1,17 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://my.waveapps.com/register/?referrer=chrome-web-store-accounting"
+      },
+      "urls": [ "https://www.waveapps.com/", "https://www.waveapps.com/accounting/", "https://accounting.waveapps.com/", "https://developer.waveapps.com/", "https://my.waveapps.com/", "https://next.waveapps.com/", "https://payments.waveapps.com/", "https://payroll.waveapps.com/", "https://pronetwork.waveapps.com/", "https://receipts.waveapps.com/", "https://support.waveapps.com/" ]
+   },
+   "description": "100% free, easy to use accounting and invoicing software for you and your small business",
+   "icons": {
+      "128": "wave_logo.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDH6I0HL41tni1gJBbNZ1c8BdNpJFmMgBmzQG7wVIBud0gOkyc/PDmkz+nNX/gAf6zni5OppF53teK+OzVv1yutvEhgJM/W3TsKcuyBucmqjdzfbdjONp6Qv3liksPBW/Gk9oo3uj+wK9EKkdb471wHdrh/4GHo59JvfxfCgGORlQIDAQAB",
+   "manifest_version": 2,
+   "name": "Wave Accounting",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.10.0"
+}

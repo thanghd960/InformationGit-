@@ -1,0 +1,1 @@
+$(document.forms[0]).insert('<input type="hidden" name="pws" value="0">');

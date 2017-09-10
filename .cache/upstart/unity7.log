@@ -1,0 +1,3 @@
+WARN  2017-09-10 17:55:43 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x22: Can't open directory
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell

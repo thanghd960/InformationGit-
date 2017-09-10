@@ -1,0 +1,25 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "css/style.css" ],
+      "js": [ "inject.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "content_security_policy": "script-src 'self' https://clients5.google.com; object-src 'self'",
+   "description": "Highlight the text you want to translate, and a translation popup will appear automatically.",
+   "icons": {
+      "128": "images/icon-128.png",
+      "16": "images/icon-16.png",
+      "48": "images/icon-48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDAOc4jq6Lri5wuRKkOKjfEjSH3/rnJy9Xd4HOJhKYQGH1+adCK3ZJ1VvS8KNePD+SoKPjftzuQrdJcfyZivoNZ4ug/Whr+mc8iZL9nDAAUQaq22rxov4Nx2OijdhWZyTvMo22ac2CAbWBIr+D/cDFYVVLdVMxRxy6J+2D6TxwJhQIDAQAB",
+   "manifest_version": 2,
+   "name": "1 Click Translator",
+   "options_page": "Options.html",
+   "permissions": [ "tabs" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "8.4"
+}

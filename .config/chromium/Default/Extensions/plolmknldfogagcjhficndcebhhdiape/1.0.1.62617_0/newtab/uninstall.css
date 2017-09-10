@@ -1,0 +1,35 @@
+.uninstall-wrap {
+  width: 960px;
+  margin: 48px auto;
+}
+
+p {
+  font-size: 18px;
+}
+
+ol li {
+  font-size: 16px;
+  margin: 12px auto;
+}
+
+
+.footerlinks {
+    position: fixed;
+    bottom: 10px;
+    width: 100%;
+    text-align: center
+}
+.footerlinks ul {
+    list-style-type: none
+}
+.footerlinks ul Li {
+    display: list-item;
+    padding-left: 20px;
+    display: inline
+}
+.footerlinks ul Li a {
+    text-decoration: none;
+    font-size: 100%;
+    color: #9a9a9a;
+    opacity: 1
+}

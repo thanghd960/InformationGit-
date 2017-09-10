@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://reports.zoho.com"
+      },
+      "urls": [ "https://reports.zoho.com/" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDescription__",
+   "icons": {
+      "128": "reports_icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDFoBeJ6yBjHKhMrPxfx3Wf4uZX7cllFD8D/IQCXO/804W4Khf2I3ayG7e5LTvtdKTvZIJyrRcNI7NNCM0IybkOrLmAaWkQfVkYFnjVPkwi3iVUCs9MWhBHILJc/GS70OM4ULKCqZ3woXhmCpH7hDA1Jgh3eqT52YzLTl3os2C3fwIDAQAB",
+   "manifest_version": 2,
+   "name": "Zoho Reports",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.2"
+}

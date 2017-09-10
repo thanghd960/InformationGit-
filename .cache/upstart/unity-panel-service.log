@@ -1,0 +1,30 @@
+
+(unity-panel-service:1611): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1611): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1611): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1611): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1611): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1611): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1611): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1611): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1611): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1611): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1611): Indicator-Appmenu-WARNING **: Already have a menu for window ID 79691792 with path /com/canonical/menu/4C00010 from :1.98, unregistering that one
+
+(unity-panel-service:1611): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:1611): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:1611): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:1611): Indicator-Appmenu-WARNING **: Already have a menu for window ID 79691792 with path /com/canonical/menu/4C00010 from :1.107, unregistering that one

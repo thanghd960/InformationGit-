@@ -1,0 +1,21 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "index.html"
+   },
+   "content_scripts": [ {
+      "js": [ "content.js" ],
+      "matches": [ "*://*/*" ]
+   } ],
+   "description": "Page performance stats, by Puneet Mohan Sangal (pmsangal.tumblr.com)",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3M/DMmhsYPGpmteCj9xDDtWlL6Yyt9wKxZX0x5H1Vw2FL3viug9BVdnSqwh9T0RL/LIveBhzR5atzQ8ofMnndvWhxLKlkE9yknw7ZxGy9SmcfiFYuW3E8HnzLOTIYYkuaNeZ+ep9y9EFNtQ5B2GJA1jSSk8NQH6Jw5NaarmKAtnOtSB4QtB/zPRDwQgPw2kliEy229xOrrFXfuYPYz8aOkW/7fO77wBXAILukR8/U5LSUFznbNzUF+iL3aKQbOc8sCiOA5ZiIkn/QrYyMyrljiSvclHWC9WTbH7VbF6a5KQcnOZXF8agucYNjTrqDUWNNiEuI4pVjeJ9RXzJpMdRLQIDAQAB",
+   "manifest_version": 2,
+   "name": "Page performance",
+   "permissions": [ "tabs", "*://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.1"
+}

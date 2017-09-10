@@ -1,0 +1,20 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://apps.yendo.com/auth/chrome/c/default.aspx"
+      },
+      "urls": [ "https://apps.yendo.com/c/" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appdesc__",
+   "icons": {
+      "128": "128.png",
+      "24": "24.png",
+      "32": "32.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDCb5oZYcbUTor+8i1rw5r6ZtCiGautk4JXctNi4I3wARWT5eZ/9bkbd17K210saGutryhZA7ZZVMFmC6Kmqt6CtIgp9Vy0oXU+Zu31SWzXB44nJ644j2yUL6iubO9DSegqO3nYpwPLn1sBrpu3rHuQVztcsz5/hcBZR79nNX531QIDAQAB",
+   "name": "__MSG_appname__",
+   "permissions": [ "notifications" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "104"
+}

@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///media/thangpc/New%20Volume/Working/templates/001/Index.html" added="2017-08-21T06:15:08Z" modified="2017-08-21T06:15:08Z" visited="2017-08-21T06:15:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2017-08-21T06:15:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/thangpc/New%20Volume/Working/New%20Text%20Document.txt" added="2017-08-21T06:15:25Z" modified="2017-08-21T06:53:22Z" visited="2017-08-21T06:15:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-08-21T06:53:22Z" count="6"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2017-08-21T06:53:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/thangpc/New%20Volume/Working/templates/001" added="2017-08-21T06:48:48Z" modified="2017-08-21T06:48:48Z" visited="2017-08-21T06:48:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-08-21T06:48:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Desktop/logo150.png" added="2017-08-21T07:03:59Z" modified="2017-08-21T07:04:21Z" visited="2017-08-21T07:04:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-08-21T07:04:00Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-08-21T07:04:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Downloads/flash-player-npapi-26.0.0.151-release.x86_64.rpm" added="2017-08-23T10:22:05Z" modified="2017-08-23T10:22:05Z" visited="2017-08-23T10:22:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-rpm"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-08-23T10:22:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Downloads/reaver-1.4.tar.gz" added="2017-08-27T04:05:33Z" modified="2017-08-27T04:05:36Z" visited="2017-08-27T04:05:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-08-27T04:05:33Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-08-27T04:05:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_thangpc0/skypeforlinux-64.deb" added="2017-08-28T13:15:39Z" modified="2017-08-28T13:15:39Z" visited="2017-08-28T13:15:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-08-28T13:15:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Downloads/code-stable-code_1.15.1-1502903936_amd64.tar.gz" added="2017-08-28T13:23:09Z" modified="2017-08-28T14:02:02Z" visited="2017-08-28T13:23:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-08-28T13:23:09Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;file-roller %U&apos;" modified="2017-08-28T14:01:55Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-08-28T14:02:02Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/thangpc/Data/DaiThang/Ruby%20Learning/Ruby" added="2017-08-28T13:23:19Z" modified="2017-08-28T13:23:19Z" visited="2017-08-28T13:23:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-08-28T13:23:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/thangpc/Data/DaiThang/Ruby%20Learning/Ruby/Begin/main.rb" added="2017-08-28T13:26:32Z" modified="2017-08-28T13:38:23Z" visited="2017-08-28T13:26:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-08-28T13:26:32Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-08-28T13:38:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/thangpc/Data/DaiThang/Ruby%20Learning/Ruby/Begin/test.txt" added="2017-08-28T13:38:06Z" modified="2017-08-28T13:46:21Z" visited="2017-08-28T13:38:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-08-28T13:46:21Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/thangpc/New%20Volume/Working/vnstyle-master/documents/index.html" added="2017-08-28T13:50:51Z" modified="2017-08-28T13:50:51Z" visited="2017-08-28T13:50:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2017-08-28T13:50:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/.config/sublime-text-3/Packages/User/Preferences.sublime-settings" added="2017-08-28T14:00:25Z" modified="2017-08-28T14:00:25Z" visited="2017-08-28T14:00:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-08-28T14:00:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/thangpc/Data/DaiThang/Ruby%20Learning/Ruby/ruby" added="2017-08-28T14:07:13Z" modified="2017-08-28T14:07:13Z" visited="2017-08-28T14:07:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2017-08-28T14:07:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/thangpc/Data/DaiThang/Ruby%20Learning/Ruby/Begin" added="2017-08-28T14:09:25Z" modified="2017-08-28T14:09:25Z" visited="2017-08-28T14:09:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2017-08-28T14:09:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Desktop/RubyLearning/main.rb" added="2017-08-29T03:29:46Z" modified="2017-09-06T09:39:52Z" visited="2017-08-29T03:29:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-06T09:39:52Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/share/code/code --unity-launch %F&apos;" modified="2017-08-29T03:30:03Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Downloads/tach-20170829T032400Z-001.zip" added="2017-08-29T03:38:44Z" modified="2017-08-29T03:39:07Z" visited="2017-08-29T03:38:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-08-29T03:39:07Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Downloads/tach/body.html" added="2017-08-29T03:39:18Z" modified="2017-08-29T03:39:18Z" visited="2017-08-29T03:39:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;chromium-browser %U&apos;" modified="2017-08-29T03:39:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Downloads/tach/wrap/comment.html" added="2017-08-29T03:39:33Z" modified="2017-08-29T03:39:33Z" visited="2017-08-29T03:39:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;chromium-browser %U&apos;" modified="2017-08-29T03:39:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Downloads/tach/detailpostvideo.js" added="2017-08-29T03:39:41Z" modified="2017-08-29T03:39:41Z" visited="2017-08-29T03:39:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-08-29T03:39:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Downloads/tach/footer.html" added="2017-08-29T03:39:50Z" modified="2017-08-29T03:39:50Z" visited="2017-08-29T03:39:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;chromium-browser %U&apos;" modified="2017-08-29T03:39:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Downloads/tach/header.html" added="2017-08-29T03:39:58Z" modified="2017-08-29T03:39:58Z" visited="2017-08-29T03:39:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-08-29T03:39:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Downloads/Agile_Web_Development_with_Rails_5.pdf" added="2017-09-05T05:57:43Z" modified="2017-09-06T06:41:25Z" visited="2017-09-05T05:57:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-05T05:57:43Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2017-09-06T06:41:25Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Downloads/gnome-disk-utility-3.24.1.tar.xz" added="2017-09-06T07:00:50Z" modified="2017-09-06T07:01:08Z" visited="2017-09-06T07:00:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-06T07:00:50Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-09-06T07:01:08Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Downloads/gnome-disk-utility-3.24.1/INSTALL" added="2017-09-06T07:01:42Z" modified="2017-09-06T07:03:39Z" visited="2017-09-06T07:01:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-install"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-06T07:03:39Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Desktop/RubyLearning/app01" added="2017-09-06T07:10:18Z" modified="2017-09-06T07:10:38Z" visited="2017-09-06T07:10:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-09-06T07:10:38Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Downloads/skypeforlinux-64.rpm" added="2017-09-06T09:28:57Z" modified="2017-09-06T09:31:32Z" visited="2017-09-06T09:28:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-rpm"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-06T09:28:57Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-09-06T09:31:32Z" count="4"/>
+          <bookmark:application name="nautilus" exec="&apos;file-roller %U&apos;" modified="2017-09-06T09:29:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Downloads/skypeforlinux-64.deb" added="2017-09-06T09:32:46Z" modified="2017-09-06T09:32:56Z" visited="2017-09-06T09:32:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-06T09:32:46Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;gnome-software --local-filename=%f&apos;" modified="2017-09-06T09:32:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Desktop/RubyLearning/ruby" added="2017-09-06T09:40:32Z" modified="2017-09-06T09:40:32Z" visited="2017-09-06T09:40:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-09-06T09:40:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Desktop/RubyLearning/ruby/main.rb" added="2017-09-06T09:52:41Z" modified="2017-09-06T09:52:41Z" visited="2017-09-06T09:52:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-09-06T09:52:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Desktop/RubyLearning/ruby/string.rb" added="2017-09-06T10:25:01Z" modified="2017-09-06T10:25:01Z" visited="2017-09-06T10:25:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-09-06T10:25:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Desktop/RubyLearning/ruby/test.io" added="2017-09-06T11:50:16Z" modified="2017-09-06T11:50:16Z" visited="2017-09-06T11:50:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-09-06T11:50:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Desktop/RubyLearning/ruby/test1.io" added="2017-09-06T11:50:25Z" modified="2017-09-06T11:50:25Z" visited="2017-09-06T11:50:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-09-06T11:50:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Desktop/RubyLearning/ruby/fileIO.rb" added="2017-09-06T11:50:43Z" modified="2017-09-06T11:50:43Z" visited="2017-09-06T11:50:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ruby"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-09-06T11:50:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Desktop/RubyLearning/Ruby%20on%20rails%20/news-api" added="2017-09-06T12:56:30Z" modified="2017-09-07T04:36:32Z" visited="2017-09-06T12:56:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-09-07T04:36:32Z" count="3"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2017-09-06T14:30:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_thangpc0/node-v6.11.3.tar.gz" added="2017-09-06T13:53:40Z" modified="2017-09-06T13:53:40Z" visited="2017-09-06T13:53:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-06T13:53:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Desktop/RubyLearning/Ruby%20on%20rails%20/news-api/news-app-ng" added="2017-09-06T14:27:24Z" modified="2017-09-06T14:27:35Z" visited="2017-09-06T14:27:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-09-06T14:27:35Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Downloads/CV%20-%20Hua%20Dai%20Thang-%20En.pdf" added="2017-09-07T05:43:27Z" modified="2017-09-08T14:16:20Z" visited="2017-09-07T05:43:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-07T05:43:27Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2017-09-08T14:16:20Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Desktop/RubyLearning/Ruby%20on%20rails%20" added="2017-09-07T08:10:39Z" modified="2017-09-07T08:10:39Z" visited="2017-09-07T08:10:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2017-09-07T08:10:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Desktop/image.jpg" added="2017-09-07T08:23:40Z" modified="2017-09-07T08:23:40Z" visited="2017-09-07T08:23:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-07T08:23:40Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Desktop/RubyLearning/Ruby%20on%20rails%20/news-app-ng/src/assets/image/image.jpg" added="2017-09-08T11:49:22Z" modified="2017-09-08T11:49:22Z" visited="2017-09-08T11:49:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-09-08T11:49:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Desktop/Uswatoen%20%7C%20Personal%20Resume_CV_Portfolio%20Html%20Template.html" added="2017-09-08T11:53:19Z" modified="2017-09-10T10:55:36Z" visited="2017-09-08T11:53:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-08T11:53:20Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;chromium-browser %U&apos;" modified="2017-09-10T10:55:36Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Desktop/CV-Template" added="2017-09-08T11:55:14Z" modified="2017-09-08T11:56:07Z" visited="2017-09-08T11:55:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2017-09-08T11:56:07Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Desktop/CV-Template/Uswatoen%20%7C%20Personal%20Resume_CV_Portfolio%20Html%20Template.html" added="2017-09-08T11:55:51Z" modified="2017-09-08T12:45:42Z" visited="2017-09-08T11:55:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;chromium-browser %U&apos;" modified="2017-09-08T12:45:42Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Desktop/CV-Template/Untitled%20Document" added="2017-09-08T11:56:58Z" modified="2017-09-08T13:47:22Z" visited="2017-09-08T11:56:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-08T13:47:22Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_thangpc0/font-awesome-4.7.0.zip" added="2017-09-08T12:42:08Z" modified="2017-09-08T12:42:08Z" visited="2017-09-08T12:42:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-08T12:42:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Desktop/font-awesome-4.7.0.zip" added="2017-09-08T12:42:40Z" modified="2017-09-08T12:42:47Z" visited="2017-09-08T12:42:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-09-08T12:42:47Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Desktop/CV-Template/Contents/vt_006.png" added="2017-09-08T12:43:13Z" modified="2017-09-08T12:43:13Z" visited="2017-09-08T12:43:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-09-08T12:43:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Desktop/CV-Template/Contents/cb_scout5.png" added="2017-09-08T12:43:25Z" modified="2017-09-08T12:43:25Z" visited="2017-09-08T12:43:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-09-08T12:43:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Desktop/CV-Template/CV.html" added="2017-09-08T13:38:40Z" modified="2017-09-08T13:43:00Z" visited="2017-09-08T13:38:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2017-09-08T13:43:00Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Desktop/CV-Template/Contents/images/intro.jpg" added="2017-09-08T13:48:54Z" modified="2017-09-08T13:50:40Z" visited="2017-09-08T13:48:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-08T13:50:40Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Desktop/CV-Template/Contents/js/js" added="2017-09-08T13:51:42Z" modified="2017-09-08T13:51:42Z" visited="2017-09-08T13:51:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-08T13:51:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Desktop/Untitled%20Folder/Uswatoen%20%7C%20Personal%20Resume_CV_Portfolio%20Html%20Template.html" added="2017-09-08T13:55:25Z" modified="2017-09-10T10:57:34Z" visited="2017-09-08T13:55:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-08T13:55:26Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;chromium-browser %U&apos;" modified="2017-09-10T10:57:34Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Desktop/Untitled%20Folder" added="2017-09-08T13:55:35Z" modified="2017-09-08T13:55:35Z" visited="2017-09-08T13:55:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2017-09-08T13:55:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Desktop/Untitled%20Folder/Contents/image/.jpg" added="2017-09-08T14:07:42Z" modified="2017-09-08T14:12:52Z" visited="2017-09-08T14:07:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-09-08T14:07:42Z" count="2"/>
+          <bookmark:application name="chromium-browser" exec="&apos;chromium-browser %u&apos;" modified="2017-09-08T14:12:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Desktop/02_Binary1-640x480.jpg" added="2017-09-08T14:13:14Z" modified="2017-09-08T14:13:14Z" visited="2017-09-08T14:13:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium-browser" exec="&apos;chromium-browser %u&apos;" modified="2017-09-08T14:13:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Desktop/RubyLearning/Ruby%20on%20rails%20/Information" added="2017-09-08T14:30:17Z" modified="2017-09-10T11:05:02Z" visited="2017-09-08T14:30:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2017-09-08T14:30:17Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/share/code/code --unity-launch %F&apos;" modified="2017-09-10T11:05:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/thangpc/Desktop/CV/Uswatoen%20%7C%20Personal%20Resume_CV_Portfolio%20Html%20Template.html" added="2017-09-10T11:02:37Z" modified="2017-09-10T11:02:37Z" visited="2017-09-10T11:02:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;chromium-browser %U&apos;" modified="2017-09-10T11:02:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,117 @@
+body
+{
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    width: 400px;
+    color: #400090;
+    text-align: left;
+}
+
+h1
+{
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.section
+{
+    margin-bottom: 5px;
+    background-color: #ffffff;
+    border: 1px solid transparent;
+    border-radius: 0;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+.section-heading
+{
+    padding: 5px 5px;
+    border-bottom: 1px solid transparent;
+    font-weight:bold;
+}
+
+.section-body
+{
+    padding: 5px 5px 5px 5px;
+}
+
+.section-body .row
+{
+    margin-bottom: 4px;
+}
+
+.section-default
+{
+    border-color: #dddddd;
+}
+
+.section-default > .section-heading
+{
+    color: #3C0055;
+    background-color: #f5f5f5;
+    border-color: #400090;
+}
+
+.author
+{
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+
+.author a
+{
+    text-decoration: none;
+}
+
+.author a:hover
+{
+    text-decoration: underline;
+    color: #888;
+}
+
+.author a:focus
+{
+    outline: none ! important;
+}
+
+.pageperformance-box:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+
+.pageperformance-box {display: inline-block;min-height: 0;}
+
+* html .pageperformance-box {height: 1%;}
+.pageperformance-box {display: block;}
+
+
+.pageperformance-fl {
+    float: left;
+}
+
+* html .pageperformance-fl {
+    margin-right: -3px;
+}
+
+.pageperformance-fr {
+    float: right;
+}
+
+* html .pageperformance-fr {
+    margin-left: -3px;
+}
+
+
+.barplot
+{
+    font-size: 10px;
+}
+
+.key
+{
+    color: black;
+}

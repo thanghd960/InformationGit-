@@ -1,0 +1,15 @@
+da77bb0003fcca5ea8c4e8cb2da8828ded750c54afdcac29ec6f3b46ad5e3adf  MacOSX10.7.sdk.tar.gz
+6b3977c61f2aedf0f96367dcfb5c6e578cf37e7b8d913b4ecb6643c3cb88d8c0  openssl-1.0.2k.tar.gz
+e908fdebc2886ee5491ebfc7e7950af451b3c4e2439c2d7a923ed06ad05113e4  cctools.tar.gz
+
+ce9779a3a5a2574b958f8e4d079a99d43a8f84193bef52c587c704ed81c2fbbd  noscript@noscript.net.xpi
+
+50893291621658f355bc5b4d450a8d06a563053d zlib.git
+1f6c8eda0073f464b7d23323251d72822f0a18bd tor.git
+f01f8bf4c84420e8f3538a4b9a978a7a2383a8c6 tor-browser.git
+46cd85102361a29b29be87af072332c5bc600a67 torbutton.git
+4749302f7032be5e1ccf7806872385d8cafcb989 tor-launcher.git
+400dd62230d7c219b44ee2e83362a52c5e96806e tbb-windows-installer.git
+a0cd5afeb60be3be0860e9a203314c10485bb9b8 mingw-w64.git
+ae90ac520dbdf6b1267b099b654b58352ee86ef0 gitian-builder.git
+dbbc765ad9ba158a7538255a5c7a027e859a106f tor-browser-bundle.git

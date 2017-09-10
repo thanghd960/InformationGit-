@@ -1,0 +1,17 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://fb.motorcycleperformanceanalyzer.com"
+      },
+      "urls": [ "http://fb.motorcycleperformanceanalyzer.com/" ]
+   },
+   "description": "Motorcycle Performance Analyzer",
+   "icons": {
+      "128": "128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDtMj6OCNjpo1Vh763JsiJibEUtmoiQLt+9U8jqtFyh4ZOjvYiOfmzJBOLaGFCF+4xNbIM5k06F+id33WN9QPkobuZsUw8A6Q4U/P+/pJZVzqshn7ZEkbfbEDuBb8mz14Xucl7F4dOPXclyyVRLQSoQwd6dd+PcdWHtsq35DtA7dQIDAQAB",
+   "name": "Motorcycle Performance Analyzer",
+   "permissions": [ "unlimitedStorage", "notifications" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1"
+}
